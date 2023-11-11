@@ -5,7 +5,7 @@ Zerd's Rules As Written for Baldur's Gate 3
 * This is the trimmed down version of the mod. Check the [forked repo](https://github.com/ZerdBG3/RAW/) if you want the full version.
 * The main goal of this repo is to remove some features that already exists on popular mods, make this mod less monolithic and more compatible with other mods.
 * Changes applied on this repo is based on my biases.
-* The attunement required items does have additional equipment entries from other mods, assuming the player will also used the mods I use. You can comment the items if you want. You can download the [LSLib Toolkit here](https://github.com/Norbyte/lslib/releases).
+* The attunement required items does have additional equipment entries from other mods, assuming the player will also use the mods I used. You can comment the items if you want. You can download the [LSLib Toolkit here](https://github.com/Norbyte/lslib/releases).
 * Since modding BG3 is not yet officially supported by Larian Studios, you might encounter unexpected problems that it's not in their current scope to fix. **PLEASE DISABLE AUTOMATIC TELEMETRY** and don't post bug reports on their official platforms, as you're playing with an unsuported mod
 * How to disable telemetry:
 
