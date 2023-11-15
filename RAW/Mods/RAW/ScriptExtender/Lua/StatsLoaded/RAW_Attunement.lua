@@ -116,7 +116,6 @@ ENUM_RAW_AttunementList = {
     "MAG_BG_BlightBringer_Shortbow",
     "MAG_BG_Darkfire_Shortbow",
     "MAG_BG_Gargoyle_Boots",
-    "MAG_BG_Harold_HeavyCrossbow",
     "MAG_BG_OfCrushing_Gloves",
     "MAG_BG_OfDevotion_Shield",
     "MAG_BG_OfDexterity_Gloves",
@@ -226,19 +225,16 @@ ENUM_RAW_AttunementList = {
     "MAG_FreeCast_Shortsword",
     "MAG_Frost_GenerateFrostOnDamage_Robe",
     "MAG_Frost_IceSurfaceProneImmunity_Boots",
-    "MAG_Gandrel_UndeadSlayer_HeavyCrossbow",
     "MAG_Gish_ArcaneAcuity_Gloves",
     "MAG_Gish_ArcaneSynergy_Ring",
     "MAG_Gish_PsychicDamageBonusWhileConcentrating_Ring",
     "MAG_Gish_TempHPWhileConcentrating_Boots",
     "MAG_Gish_WeaknessBranding_Amulet",
     "MAG_Githborn_MagicEating_HalfPlate",
-    "MAG_Githborn_TelekineticBolt_HeavyCrossbow",
     "MAG_GleamingSorcery_Hat",
     "MAG_Gortash_Boots",
     "MAG_Gortash_Cloth",
     "MAG_Gortash_Gloves",
-    "MAG_Gortash_HeavyCrossbow",
     "MAG_GreaterNecromancy_Staff",
     "MAG_HAV_Sylvan_Scimitar",
     "MAG_HAV_ThornBlade_Scimitar",
@@ -293,14 +289,12 @@ ENUM_RAW_AttunementList = {
     "MAG_LC_Umberlee_Protection_Cape",
     "MAG_LC_Umberlee_Regeneration_Boots",
     "MAG_LC_Umberlee_Regeneration_Robe",
-    "MAG_LC_UndeadSlayer_Crossbow",
     "MAG_LC_Wave_Trident",
     "MAG_LegendaryEvasion_Amulet",
     "MAG_Lesser_Infernal_Plate_Armor",
     "MAG_LowHP_BonusAction_Helmet",
     "MAG_LowHP_CounterOnDamage_ChainShirt",
     "MAG_LowHP_IgnoreAttackOfOpportunity_Amulet",
-    "MAG_LowHP_IncreaseDamagePsychic_GithHeavyCrossbow",
     "MAG_LowHP_IncreaseDamagePsychic_GithLongsword",
     "MAG_LowHP_IncreaseDamagePsychic_GithShortsword",
     "MAG_LowHP_IncreaseSpeed_Boots",
@@ -316,7 +310,6 @@ ENUM_RAW_AttunementList = {
     "MAG_MeleeDebuff_AttackDebuff1_OnDamage_ScaleMail",
     "MAG_MeleeDebuff_AttackDebuff1_OnDamage_Scimitar",
     "MAG_MeleeDebuff_AttackDebuff1_OnDamage_Shield",
-    "MAG_MeleeDebuff_AttackDebuff2_OnDamage_HeavyCrossbow",
     "MAG_MeleeDebuff_AttackDebuff2_OnDamage_SplintMail",
     "MAG_MissileProtection_Shield",
     "MAG_Mobility_JumpOnDash_Gloves",
@@ -442,7 +435,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Violence_LowHP_Violence_Clothes",
     "MAG_Violence_ViolenceOnDamaged_Helmet",
     "MAG_Violence_ViolenceOnDash_Boots",
-    "MAG_WATCHER_Human_Crossbow",
     "MAG_WYRM_Commander_Longsword",
     "MAG_WYRM_OfBalduran_Helmet",
     "MAG_WYRM_OfTruthTelling_Ring",
@@ -632,6 +624,15 @@ ENUM_RAW_AttunementList = {
     "MAG_Invisible_Pike", -- UNSEEN MENACE
     "MAG_Force_Pike", -- BREACHING PIKESTAFF
     "MAG_TheImpaler_Pike", -- THE IMPALER
+    --- HEAVY CROSSBOW
+    "MAG_Githborn_TelekineticBolt_HeavyCrossbow", -- CROSSBOW OF ARCANE FORCE
+    "MAG_Gandrel_UndeadSlayer_HeavyCrossbow", -- GANDREL'S ASPIRATION
+    "MAG_MeleeDebuff_AttackDebuff2_OnDamage_HeavyCrossbow", -- GIANTBREAKER
+    "MAG_BG_Harold_HeavyCrossbow", -- HAROLD
+    "MAG_Gortash_HeavyCrossbow", -- FABRICATED ARBALEST
+    "MAG_WATCHER_Human_Crossbow", -- HELLFIRE ENGINE CROSSBOW
+    "MAG_LC_UndeadSlayer_Crossbow", -- THE LONG ARM OF THE GUR
+    -- "MAG_LowHP_IncreaseDamagePsychic_GithHeavyCrossbow", -- GITHYANKI CROSSBOW? (SAMW WITH HEAVY CROSSBOW +1)
 
     -- SUMMONS/NPC/???
     --- DAGGER
