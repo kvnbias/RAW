@@ -82,10 +82,7 @@ ENUM_RAW_AttunementList = {
     "CRE_Hatchery_AcidPoisonImmunity_Boots",
     "CRE_MAG_Githborn_Amulet",
     "CRE_MAG_Psychic_Githborn_Circlet",
-    "DEN_Apprentice_DaggerOfShar",
-    "DEN_CapturedGoblin_MurderDagger",
     "DEN_FaithwardenStaff",
-    "DEN_HalsinBlade",
     "DEN_HellridersPride",
     "DEN_TunnelStaff",
     "END_Emperor_Staff",
@@ -99,11 +96,8 @@ ENUM_RAW_AttunementList = {
     "GOB_DrowCommander_Leather_Armor",
     "GOB_DrowCommander_Mace",
     "GOB_GoblinKing_Warhammer",
-    "GOB_PainPriest_Dagger",
-    "GOB_Pens_Dagger",
     "GOB_Priest_Shield",
     "GOB_Torturer_Spear",
-    "HAV_MAG_ShadowRending_Dagger",
     "HAV_SpearOfSelune",
     "LOW_DeadMansSwitch_Shield",
     "LOW_Elfsong_EmperorSword_LongSword",
@@ -118,23 +112,17 @@ ENUM_RAW_AttunementList = {
     "MAG_Acid_NoxiousFumes_Gloves",
     "MAG_Acrobat_Shoes",
     "MAG_Ambusher_Shortsword",
-    "MAG_ArcaneAbsorption_Dagger",
     "MAG_Arcanist_Gloves",
     "MAG_BG_BlightBringer_Shortbow",
     "MAG_BG_Darkfire_Shortbow",
-    "MAG_BG_DragonsBreath_Glaive",
     "MAG_BG_Gargoyle_Boots",
-    "MAG_BG_Harmonium_Halberd",
     "MAG_BG_Harold_HeavyCrossbow",
-    "MAG_BG_OfAges_Flail",
     "MAG_BG_OfCrushing_Gloves",
     "MAG_BG_OfDevotion_Shield",
     "MAG_BG_OfDexterity_Gloves",
-    "MAG_BG_OfEasthaven_Defender_Flail",
     "MAG_BG_OfSpeed_LightCrossbow",
     "MAG_BG_OfTheBanshee_Bow",
     "MAG_BG_OfTheMasters_Legacy_Gauntlet",
-    "MAG_BG_Sarevok_OfChaos_Greatsword",
     "MAG_BG_Wondrous_Gloves",
     "MAG_Banites_Gloves",
     "MAG_BarbMonk_Cloth_Hat_A_1_Late",
@@ -151,15 +139,12 @@ ENUM_RAW_AttunementList = {
     "MAG_Bhaalist_Armor",
     "MAG_Bhaalist_Gloves",
     "MAG_Bhaalist_Hat",
-    "MAG_Bhaalist_Paralyzing_Dagger",
     "MAG_BlackTentacle_Amulet",
     "MAG_Blindside_Shortsword",
-    "MAG_Bloodsoaked_Greataxe",
     "MAG_Bonded_Baneful_Shortsword",
     "MAG_Bonded_Lethal_Longsword",
     "MAG_Bonded_Shield",
     "MAG_Bonded_Shocking_Warhammer",
-    "MAG_Bonded_Throwing_Battleaxe",
     "MAG_BonusAttack_AgainstMarked_Circlet",
     "MAG_CKM_SerpenScale_Armor",
     "MAG_CQCaster_ArcaneChargeAfterDash_Boots",
@@ -184,12 +169,9 @@ ENUM_RAW_AttunementList = {
     "MAG_CharismaCaster_Robe",
     "MAG_Cleric_Devotees_Mace",
     "MAG_Cold_IncreaseColdDamageOnCast_Staff",
-    "MAG_Colossal_Greatsword",
     "MAG_Combat_Quarterstaff",
-    "MAG_Corrosive_Flail",
     "MAG_Critical_ArcanicCritical_Gloves",
     "MAG_Critical_BolsteringCritical_Armor",
-    "MAG_Critical_CriticalCombo_BattleAxe",
     "MAG_Critical_CriticalExecution_Ring",
     "MAG_Critical_CriticalSwiftness_Boots",
     "MAG_Critical_Force_Gloves",
@@ -200,7 +182,6 @@ ENUM_RAW_AttunementList = {
     "MAG_DeadShot_Longbow",
     "MAG_DevilsBlackmith_ScaleMail",
     "MAG_Drowelf_SpiderSnare_Longsword",
-    "MAG_Druid_IronWood_Club",
     "MAG_Druid_Land_Magic_Leather_Armor",
     "MAG_Druid_Late_Hide_Armor_1",
     "MAG_Druid_Late_Hide_Armor_2",
@@ -222,13 +203,10 @@ ENUM_RAW_AttunementList = {
     "MAG_EndGame_Plate_Armor",
     "MAG_EndGame_StuddedLeather_Armor",
     "MAG_Enforcer_NonLethalBlessing_Shield",
-    "MAG_Enforcer_NonLethalFright_Club",
     "MAG_Enforcer_RejunevatingKnock_Helmet",
     "MAG_Evasive_Shoes",
     "MAG_Fighter_ActionSurge_AttackBonus_Gloves",
-    "MAG_Finesse_Glaive",
     "MAG_Finesse_Longsword",
-    "MAG_Fire_AlwaysDippedInFire_Greatsword",
     "MAG_Fire_ApplyBurningOnFireDamage_Gloves",
     "MAG_Fire_ArcaneAcuityOnFireDamage_Hat",
     "MAG_Fire_BonusActionOnFireSpell_Circlet",
@@ -236,7 +214,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Fire_BurningOnDamaged_Cloak",
     "MAG_Fire_FireDamage_Quarterstaff",
     "MAG_Fire_HeatOnInflictBurning_Boots",
-    "MAG_Fire_HeatOnWeaponDamage_Battleaxe",
     "MAG_Fire_IncreasePiercingDamageToBurning_HandCrossbow",
     "MAG_Fire_IncreaseSlashingDamageToBurning_Handaxe",
     "MAG_Fire_IncreasedDamage_Ring",
@@ -246,20 +223,16 @@ ENUM_RAW_AttunementList = {
     "MAG_FlamingFist_Flaming_Shield",
     "MAG_FlamingFist_ScoutRing",
     "MAG_FlamingFist_StaffOfFire",
-    "MAG_Force_Pike",
     "MAG_FreeCast_Shortsword",
     "MAG_Frost_GenerateFrostOnDamage_Robe",
     "MAG_Frost_IceSurfaceProneImmunity_Boots",
-    "MAG_Frost_Offhand_Dagger",
     "MAG_Gandrel_UndeadSlayer_HeavyCrossbow",
-    "MAG_Giantslayer_Greatsword",
     "MAG_Gish_ArcaneAcuity_Gloves",
     "MAG_Gish_ArcaneSynergy_Ring",
     "MAG_Gish_PsychicDamageBonusWhileConcentrating_Ring",
     "MAG_Gish_TempHPWhileConcentrating_Boots",
     "MAG_Gish_WeaknessBranding_Amulet",
     "MAG_Githborn_MagicEating_HalfPlate",
-    "MAG_Githborn_Mindcrusher_Greatsword",
     "MAG_Githborn_TelekineticBolt_HeavyCrossbow",
     "MAG_GleamingSorcery_Hat",
     "MAG_Gortash_Boots",
@@ -267,7 +240,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Gortash_Gloves",
     "MAG_Gortash_HeavyCrossbow",
     "MAG_GreaterNecromancy_Staff",
-    "MAG_GreaterSilver_Greatsword",
     "MAG_HAV_Sylvan_Scimitar",
     "MAG_HAV_ThornBlade_Scimitar",
     "MAG_Harpers_Harmonizing_Rapier",
@@ -286,7 +258,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Illithid_Carapace_Armor",
     "MAG_Illithid_MindOverload_Weapon_Longsword",
     "MAG_Illithid_Regen_Circlet",
-    "MAG_Infernal_Hellbeard_Halberd",
     "MAG_Infernal_Longsword",
     "MAG_Infernal_Mace",
     "MAG_Infernal_Mace_2",
@@ -296,7 +267,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Infernal_Plate_Armor",
     "MAG_Infernal_Spear",
     "MAG_Infernal_Warhammer",
-    "MAG_Invisible_Pike",
     "MAG_JusticiarArmor_Gloves",
     "MAG_Justiciar_Scimitar",
     "MAG_Justiciar_Shield",
@@ -304,7 +274,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Kuotoa_Lightning_Spear",
     "MAG_LC_BurnOnDamage_Scimitar",
     "MAG_LC_CazadorVampiric_Quarterstaff",
-    "MAG_LC_ChainDevil_Flail",
     "MAG_LC_Counterspell_Quarterstaff",
     "MAG_LC_DrowSpider_Gloves",
     "MAG_LC_Fleshred_Longsword",
@@ -331,11 +300,9 @@ ENUM_RAW_AttunementList = {
     "MAG_LowHP_BonusAction_Helmet",
     "MAG_LowHP_CounterOnDamage_ChainShirt",
     "MAG_LowHP_IgnoreAttackOfOpportunity_Amulet",
-    "MAG_LowHP_IncreaseDamagePsychic_GithGreatsword",
     "MAG_LowHP_IncreaseDamagePsychic_GithHeavyCrossbow",
     "MAG_LowHP_IncreaseDamagePsychic_GithLongsword",
     "MAG_LowHP_IncreaseDamagePsychic_GithShortsword",
-    "MAG_LowHP_IncreaseDamage_Greataxe",
     "MAG_LowHP_IncreaseSpeed_Boots",
     "MAG_LowHP_IncreasedSpellDamage_Amulet",
     "MAG_LowHP_ResistanceFire_Gloves",
@@ -352,7 +319,6 @@ ENUM_RAW_AttunementList = {
     "MAG_MeleeDebuff_AttackDebuff2_OnDamage_HeavyCrossbow",
     "MAG_MeleeDebuff_AttackDebuff2_OnDamage_SplintMail",
     "MAG_MissileProtection_Shield",
-    "MAG_Mobility_ExplosionOnJump_Maul",
     "MAG_Mobility_JumpOnDash_Gloves",
     "MAG_Mobility_LowHP_Momentum_Ring",
     "MAG_Mobility_MomentumOnAttack_Scimitar",
@@ -366,9 +332,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Monk_SoulPerception_Hat",
     "MAG_Monk_SoulRejunevation_Armor",
     "MAG_Monk_Thunder_Gloves",
-    "MAG_MonsterSlayer_Glaive",
-    "MAG_Moonlight_Glaive",
-    "MAG_Murderous_Dagger",
     "MAG_Myrkulites_CircletOfMyrkul_Circlet",
     "MAG_OB_Paladin_DeathKnight_Armor",
     "MAG_OB_Paladin_DeathKnight_Gloves",
@@ -396,7 +359,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Orthon_Hellfire_HandCrossbow",
     "MAG_PHB_CloakOfDisplacement_Cloak",
     "MAG_PHB_CloakOfProtection_Cloak",
-    "MAG_PHB_Defender_Greataxe",
     "MAG_PHB_DwarvenThrower_Warhammer",
     "MAG_PHB_OfEvasion_Ring",
     "MAG_PHB_OfFreeAction_Ring",
@@ -416,8 +378,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Paladin_RestoreChannelDivinity_Armor",
     "MAG_Paladin_SmiteSpellsSupport_Helmet",
     "MAG_ParalyzingRay_Ring",
-    "MAG_PoR_OfVigilance_Halberd",
-    "MAG_Poison_Greatclub",
     "MAG_Poison_InflictPoisonHealSelf_Cloak",
     "MAG_Poison_PoisonExposure_Gloves",
     "MAG_Primeval_Silver_Longsword",
@@ -440,9 +400,7 @@ ENUM_RAW_AttunementList = {
     "MAG_RiskyAttack_Ring",
     "MAG_SHA_SeluneBlessing_Spear",
     "MAG_SHA_SharBlessing_Spear",
-    "MAG_SWA_Roaring_Maul",
     "MAG_Selunite_Isobel_Robe",
-    "MAG_Shadow_Battleaxe",
     "MAG_Shadow_BlindImmunity_Ring",
     "MAG_Shadow_Blinding_Bow",
     "MAG_Shadow_CriticalBoostWhileObscured_Helmet",
@@ -452,16 +410,11 @@ ENUM_RAW_AttunementList = {
     "MAG_Shove_ACboost_Ring",
     "MAG_Slicing_Shortsword",
     "MAG_SpectatorEye_Amulet",
-    "MAG_Spellbreaker_Battleaxe",
-    "MAG_SpiritualStand_Greataxe",
-    "MAG_Steadfast_Maul",
     "MAG_Steadfast_Shield",
     "MAG_StrongString_Longbow",
     "MAG_Surgeon_Bonesaw",
     "MAG_Surgeon_Leech",
-    "MAG_Surgeon_Syringe",
     "MAG_Surgeon_Trepan",
-    "MAG_TWN_Brewery_Greatclub",
     "MAG_TWN_Surgeon_ParalyzingCritical_Amulet",
     "MAG_TWN_Taxblade_Morningstar",
     "MAG_Taras_Collar_Amulet",
@@ -470,14 +423,9 @@ ENUM_RAW_AttunementList = {
     "MAG_TheChromatic_Staff",
     "MAG_TheClover_Scimitar",
     "MAG_TheCrimson_Shortsword",
-    "MAG_TheDestroyer_Maul",
     "MAG_TheDueller_Rapier",
-    "MAG_TheHunters_Dagger",
-    "MAG_TheImpaler_Pike",
     "MAG_TheThorns_Trident",
     "MAG_TheVictory_Longbow",
-    "MAG_TheWoundSeeker_Greatsword",
-    "MAG_Throwable_Pike",
     "MAG_Thunder_ArcaneAcuityOnThunderDamage_Hat",
     "MAG_Thunder_InflictDazeOnReverberatedCreature_Cloak",
     "MAG_Thunder_InflictDazeOnThunderDamage_Ring",
@@ -487,8 +435,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Thunder_ThunderClap_Quarterstaff",
     "MAG_Tyrrant_Warhammer",
     "MAG_Vampiric_Gloves",
-    "MAG_Vicious_Battleaxe",
-    "MAG_Vicious_Dagger",
     "MAG_Vicious_Shortbow",
     "MAG_Vicious_Shortsword",
     "MAG_Viconia_Mace",
@@ -497,32 +443,23 @@ ENUM_RAW_AttunementList = {
     "MAG_Violence_ViolenceOnDamaged_Helmet",
     "MAG_Violence_ViolenceOnDash_Boots",
     "MAG_WATCHER_Human_Crossbow",
-    "MAG_WATCHER_Human_Greataxe",
     "MAG_WYRM_Commander_Longsword",
-    "MAG_WYRM_Farlin_Dagger",
     "MAG_WYRM_OfBalduran_Helmet",
     "MAG_WYRM_OfTruthTelling_Ring",
-    "MAG_WYRM_UndeadBane_GreatAxe",
     "MAG_WYRM_UndeadProtector_Robe",
     "MAG_WYR_Hellrider_Longbow",
-    "MAG_WYR_Orin_Bhaalist_Dagger",
     "MAG_Warlock_Quickened_Gloves",
     "MAG_Warlock_Twinned_Gloves",
     "MAG_WoodWoad_Nature_Shield",
-    "MAG_ZOC_ForceConduit_Halberd",
     "MAG_ZOC_RampartAura_Amulet",
     "MAG_Zhentarim_BloodfeederBlade_Rapier",
     "MAG_Zhentarim_Lockpicking_Gloves",
-    "MAG_Zhentarim_SleeperDagger",
     "MAG_Zhentarim_Swap_Gloves",
     "MAG_ofGreaterHealth_Amulet",
     "MOO_Ketheric_Armor",
     "MOO_WulbrenHammer",
     "ORI_Wyll_Infernal_Rapier",
     "ORI_Wyll_Infernal_Robe",
-    "PLA_ConflictedFlind_Flail_Broken",
-    "PLA_WPN_DreadedSkullsFlail",
-    "PLA_WPN_SwordOfJustice",
     "PLA_ZhentCave_Gloves",
     "Quest_DEN_ARM_LuckyBoots",
     "Quest_GLO_DevilDeal_ResurrectRod",
@@ -536,14 +473,11 @@ ENUM_RAW_AttunementList = {
     "SHA_SandthiefsRing",
     "SHA_SharSpear",
     "TWN_NecklaceOfCharming",
-    "TWN_RatCatcher",
     "TWN_RegretfulHunter_SoulAmulet",
-    "TWN_SharDagger",
     "TWN_ShortswordOfStealth",
     "UND_DeadInWater_CallarduranTrinket",
     "UND_DuergarBlacksmithHammer",
     "UND_DuergarRaft_GruesomeHammer",
-    "UND_DuergarRaft_PestKillerAxe",
     "UND_Duergar_ShortswordOfFirstBlood",
     "UND_KC_Elder_Warpick",
     "UND_KC_RingOfAbsolute",
@@ -570,11 +504,9 @@ ENUM_RAW_AttunementList = {
     "UNI_ARM_Sarevok_Armor",
     "UNI_ARM_Sarevok_Horned_Helmet",
     "UNI_Bow_SpellslotRecharge",
-    "UNI_Cazador_RitualDagger",
     "UNI_DarkJusticiarArmor_HalfPlate",
     "UNI_DarkJusticiar_Helmet",
     "UNI_DarkUrge_Bhaal_Cloak",
-    "UNI_DoomHammer",
     "UNI_GLO_Orin_TeleportRing",
     "UNI_MartyrAmulet",
     "UNI_MassHealRing",
@@ -582,15 +514,10 @@ ENUM_RAW_AttunementList = {
     "UNI_RepeatStaff",
     "UNI_RobeOfSummer",
     "UNI_SHA_DarkJusticiar_Boots",
-    "UNI_SuperheavyWeapon",
     "UNI_WYR_Circus_ClownHammer",
     "WPN_Apostle_Scythe",
     "WPN_Bonesaw",
-    "WPN_Club_WoodWoad_Conjure",
     "WPN_Djinni_Scimitar_PlanarAlly",
-    "WPN_Flail_Air_Myrmidon",
-    "WPN_Flail_Air_Myrmidon_ConjureElemental",
-    "WPN_Flail_Air_Myrmidon_Wildshape",
     "WPN_Leech",
     "WPN_Mace_Deva",
     "WPN_Orthon_Crossbow",
@@ -600,8 +527,6 @@ ENUM_RAW_AttunementList = {
     "WPN_Scimitar_Fire_Myrmidon_ConjureElemental",
     "WPN_Scimitar_Fire_Myrmidon_Wildshape",
     "WPN_SkullFlail_1",
-    "WPN_Syringe",
-    "WPN_Tower_AutomatonHalberd",
     "WPN_Trepan",
     "WPN_Trident_Water_Myrmidon",
     "WPN_Trident_Water_Myrmidon_ConjureElemental",
@@ -610,4 +535,123 @@ ENUM_RAW_AttunementList = {
     "WYR_Circus_HandaxeReturning",
     "WYR_Circus_MumblingStaff",
     "WYR_Circus_TeleportBoots",
+
+
+    -- NOT INCLUDED IN ATTUNEMENT
+    --- CLUB
+    "UND_StrengthChair_Leg", -- CLUB OF HILL GIANT STRENGTH
+    --- DAGGER
+    "MAG_Psychic_MentalSundering_Dagger", -- MIND SUNDERING DAGGER
+    "FOR_IncompleteMasterwork_SussurDagger", -- SUSSUR DAGGER
+    --- FLAIL
+    "MAG_Corrosive_Flail", -- CORROSIVE FLAIL
+    --- GREATCLUB
+    "TWN_RatCatcher", -- RAT BAT???
+    --- GREATSWORD
+    "FOR_IncompleteMasterwork_SussurGreatsword", -- SUSSUR GREATSWORD
+    --- HALBERD
+    "WPN_Tower_AutomatonHalberd", -- LIGHT OF CREATION
+    -- "WPN_Merregon_Halberd", -- MERREGON HALBERD (SAME WITH HALBERD +1)
+
+    -- IN ATTUNEMENT
+    --- BATTLEAXE
+    "MAG_Critical_CriticalCombo_BattleAxe", -- COMBINATION AXE
+    "MAG_Bonded_Throwing_Battleaxe", -- REBOUND BATTLEAXE
+    "MAG_Shadow_Battleaxe", -- SHADOW BATTLEAXE
+    "MAG_Fire_HeatOnWeaponDamage_Battleaxe", -- THERMODYNAMO AXE
+    "MAG_Vicious_Battleaxe", -- VICIOUS BATTLEAXE
+    "MAG_Spellbreaker_Battleaxe", -- WITCHBREAKER
+    --- DAGGER
+    "WPN_Syringe", -- SYRINGE
+    "MAG_Surgeon_Syringe", -- SURGEON SYRINGE
+    "DLC_DD_WPN_Sebilles_Needle", -- NEEDLE OF THE OUTLAW ROGUE (DLC SEBILLE)
+    "GOB_PainPriest_Dagger", -- RITUAL DAGGER
+    "MAG_ArcaneAbsorption_Dagger", -- ARCANE ABSORPTION DAGGER
+    "DEN_CapturedGoblin_MurderDagger", -- ASSASSIN'S TOUCH
+    "MAG_WYR_Orin_Bhaalist_Dagger", -- BLOODTHIRST(BLADE OF THE FIRST BLOOD)
+    "MAG_Frost_Offhand_Dagger", -- COLD SNAP
+    "DEN_Apprentice_DaggerOfShar", -- DAGGER OF SHAR
+    "TWN_SharDagger", -- SHARS STING
+    "MAG_Zhentarim_SleeperDagger", -- DREAD IRON DAGGER
+    "MAG_WYRM_Farlin_Dagger", -- GLEAMDANCE DAGGER
+    "MAG_TheHunters_Dagger", -- HUNTER'S DAGGER
+    "MAG_Murderous_Dagger", -- MURDEROUS CUT
+    "UNI_Cazador_RitualDagger", -- RHAPSODY
+    "MAG_Bhaalist_Paralyzing_Dagger", -- STILLMAKER
+    "GOB_Pens_Dagger", -- WORGFANG(GOBLINBANE DAGGER)
+    "MAG_Vicious_Dagger", -- DOLOR AMARUS
+    ---CLUB
+    "MAG_Enforcer_NonLethalFright_Club", -- ENFORCER CLUB
+    "MAG_Druid_IronWood_Club", -- IRONWOOD CLUB
+    --- FLAIL
+    "MAG_BG_OfEasthaven_Defender_Flail", -- DEFENDER FLAIL
+    "MAG_BG_OfAges_Flail", -- FLAIL OF AGES
+    "MAG_LC_ChainDevil_Flail", -- PLANESLAYER FLAIL
+    "PLA_ConflictedFlind_Flail_Broken", -- SHATTERED FLAIL
+    --- GLAIVE
+    "MAG_BG_DragonsBreath_Glaive", -- DRAKETHROAT GLAIVE
+    "DEN_HalsinBlade", -- SORROW
+    "MAG_MonsterSlayer_Glaive", -- MONSTER SLAYER GLAIVE
+    "MAG_Moonlight_Glaive", -- MOONLIGHT GLAIVE
+    "MAG_Finesse_Glaive", -- THE DANCING BREEZE
+    --- GREATAXE
+    "MAG_LowHP_IncreaseDamage_Greataxe", -- BLOODED GREATAXE
+    "MAG_Bloodsoaked_Greataxe", -- BLOODSOAKED GREATAXE
+    "MAG_PHB_Defender_Greataxe", -- DEFENDER GREATAXE
+    "UND_DuergarRaft_PestKillerAxe", -- EXTERMINATOR'S AXE
+    "MAG_WATCHER_Human_Greataxe", -- HELLFIRE GREATAXE
+    "MAG_SpiritualStand_Greataxe", -- SETHAN
+    "MAG_WYRM_UndeadBane_GreatAxe", -- THE UNDEAD BANE
+    "UNI_SuperheavyWeapon", -- VERY HEAVY GREATAXE
+    --- GREATCLUB
+    "MAG_TWN_Brewery_Greatclub", -- PUNCH-DRUNK BASTARD
+    "MAG_Poison_Greatclub", -- ARGUMENT SOLVER
+    --- GREATSWORD
+    "MAG_Fire_AlwaysDippedInFire_Greatsword", -- EVERBURN BLADE
+    "MAG_LowHP_IncreaseDamagePsychic_GithGreatsword", -- GITHYANKI GREATSWORD
+    "MAG_TheWoundSeeker_Greatsword", -- SVARTLEBEE'S WOUNDSEEKER
+    "PLA_WPN_SwordOfJustice", -- SWORD OF JUSTICE
+    "MAG_Colossal_Greatsword", -- JORGORAL'S GREATSWORD
+    "MAG_Githborn_Mindcrusher_Greatsword", -- SOULBREAKER GREATSWORD
+    "MAG_BG_Sarevok_OfChaos_Greatsword", -- SWORD OF CHAOS
+    "MAG_Giantslayer_Greatsword", -- BALDURAN'S GIANTSLAYER
+    "MAG_GreaterSilver_Greatsword", -- SILVER SWORD OF THE ASTRAL PLANE
+    --- HALBERD
+    "MAG_ZOC_ForceConduit_Halberd", -- THE SKINBURSTER
+    "MAG_BG_Harmonium_Halberd", -- HARMONIUM HALBERD
+    "MAG_Infernal_Hellbeard_Halberd", -- HELLBEARD HALBERD
+    "MAG_PoR_OfVigilance_Halberd", -- HALBERD OF VIGILANCE
+    --- MAUL
+    "UNI_DoomHammer", -- DOOM HAMMER
+    "MAG_Mobility_ExplosionOnJump_Maul", -- HAMARHRAFT
+    "MAG_Steadfast_Maul", -- STEADFAST MAUL
+    "MAG_SWA_Roaring_Maul", -- CORPSEGRINDER
+    "MAG_TheDestroyer_Maul", -- FOEBREAKER
+    --- PIKE
+    "MAG_Throwable_Pike", -- RETURNING PIKE
+    "MAG_Invisible_Pike", -- UNSEEN MENACE
+    "MAG_Force_Pike", -- BREACHING PIKESTAFF
+    "MAG_TheImpaler_Pike", -- THE IMPALER
+
+    -- SUMMONS/NPC/???
+    --- DAGGER
+    "HAV_MAG_ShadowRending_Dagger",
+    --- FLAIL
+    "WPN_Club_WoodWoad_Conjure",
+    "WPN_Flail_Air_Myrmidon", -- AIR MYRMIDON FLAIL
+    "WPN_Flail_Air_Myrmidon_ConjureElemental", -- FLAIL OF THE VORTEX
+    "WPN_Flail_Air_Myrmidon_Wildshape", -- FLAIL OF THE VORTEX
+    "PLA_WPN_DreadedSkullsFlail",
+
+    -- MISSING ID
+    --- DAGGER
+        -- PROMISE
+        -- RITUAL DAGGER OF SHAR
+    --- FLAIL
+        -- FLAIL OF MYRKUL
+        -- MYRKULITE SCOURGE
+    --- GREATAXE
+        -- DOOM AXE
+
+    "NONEXISTENT_ITEM",
 }
