@@ -1,14 +1,5 @@
 local maxAttunementStatus, maxAttunementStatusArtificer, ENUM_RAW_AttunementList
 
--- function to disable attunement while on combat @ RAW.khn, disabled to make 
--- weapon swapping available on hotbar
---
--- function RAW_AttunementCombatRestriction(entity)
---     local entity = entity or context.Source
---     result = (Player(entity) & ~Combat(entity)) | ~Player(entity)
---     return ConditionResult(result.Result, {ConditionError("RAW_AttunementCombat_False")})
--- end
-
 local function RAW_AddAttunement(item)
     local useConditionsPrefix = ""
     if item.UseConditions ~= nil and item.UseConditions ~= "" then
@@ -631,7 +622,7 @@ ENUM_RAW_AttunementList = {
     "MAG_Primeval_Silver_Longsword", -- VOSS' SILVER SWORD
     "MAG_Infernal_Longsword", -- INFERNAL LONGSWORD
     "MAG_LC_Fleshred_Longsword", -- RENDER OF SCRUMPTIOUS FLESH
-    "MAG_MeleeDebuff_AttackDebuff12versatile_OnDamage_Longsword", -- ADAMANTINE LONGSWORD?
+    "MAG_MeleeDebuff_AttackDebuff12versatile_OnDamage_Longsword", -- ADAMANTINE LONGSWORD
     "MAG_Fire_BurningDamage_Longsword", -- ARDUOS FLAME BLADE
     --- TRIDENT
     "MAG_LC_Frigid_Trident", -- ALLANDRA'S WHELM
