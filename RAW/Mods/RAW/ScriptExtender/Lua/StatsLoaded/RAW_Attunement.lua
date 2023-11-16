@@ -1,5 +1,14 @@
 local maxAttunementStatus, maxAttunementStatusArtificer, ENUM_RAW_AttunementList
 
+-- function to disable attunement while on combat @ RAW.khn, disabled to make 
+-- weapon swapping available on hotbar
+--
+-- function RAW_AttunementCombatRestriction(entity)
+--     local entity = entity or context.Source
+--     result = (Player(entity) & ~Combat(entity)) | ~Player(entity)
+--     return ConditionResult(result.Result, {ConditionError("RAW_AttunementCombat_False")})
+-- end
+
 local function RAW_AddAttunement(item)
     local useConditionsPrefix = ""
     if item.UseConditions ~= nil and item.UseConditions ~= "" then
@@ -89,13 +98,11 @@ ENUM_RAW_AttunementList = {
     "GOB_DrowCommander_Amulet",
     "GOB_DrowCommander_Leather_Armor",
     "GOB_DrowCommander_Mace",
-    "GOB_GoblinKing_Warhammer",
     "GOB_Priest_Shield",
     "LOW_DeadMansSwitch_Shield",
     "LOW_JannathRing_Ring",
     "LOW_KerriRing_Ring",
     "LOW_OfWindrider_Amulet",
-    "LOW_OrphicHammer",
     "LOW_PendulumOfMalagard",
     "MAG_Absolute_Protecter_Shield",
     "MAG_Acid_AcidDamageOnWeaponAttack_Ring",
@@ -128,7 +135,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Blindside_Shortsword",
     "MAG_Bonded_Baneful_Shortsword",
     "MAG_Bonded_Shield",
-    "MAG_Bonded_Shocking_Warhammer",
     "MAG_BonusAttack_AgainstMarked_Circlet",
     "MAG_CKM_SerpenScale_Armor",
     "MAG_CQCaster_ArcaneChargeAfterDash_Boots",
@@ -146,7 +152,6 @@ ENUM_RAW_AttunementList = {
     "MAG_ChargedLightning_StaticDischarge_Amulet",
     "MAG_ChargedLightning_StaticDischarge_Shield",
     "MAG_ChargedLightning_TempHP_Helmet",
-    "MAG_ChargedLightning_Trident",
     "MAG_CharismaCaster_Robe",
     "MAG_Cleric_Devotees_Mace",
     "MAG_Critical_ArcanicCritical_Gloves",
@@ -227,7 +232,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Infernal_Metal_Gloves",
     "MAG_Infernal_Metal_Helmet",
     "MAG_Infernal_Plate_Armor",
-    "MAG_Infernal_Warhammer",
     "MAG_JusticiarArmor_Gloves",
     "MAG_Justiciar_Scimitar",
     "MAG_Justiciar_Shield",
@@ -235,7 +239,6 @@ ENUM_RAW_AttunementList = {
     "MAG_LC_BurnOnDamage_Scimitar",
     "MAG_LC_DrowSpider_Gloves",
     "MAG_LC_Fleshrend_Shortsword",
-    "MAG_LC_Frigid_Trident",
     "MAG_LC_HellishMadness_Amulet",
     "MAG_LC_Jannath_Hat",
     "MAG_LC_Lorroakan_Robe",
@@ -248,7 +251,6 @@ ENUM_RAW_AttunementList = {
     "MAG_LC_Umberlee_Protection_Cape",
     "MAG_LC_Umberlee_Regeneration_Boots",
     "MAG_LC_Umberlee_Regeneration_Robe",
-    "MAG_LC_Wave_Trident",
     "MAG_LegendaryEvasion_Amulet",
     "MAG_Lesser_Infernal_Plate_Armor",
     "MAG_LowHP_BonusAction_Helmet",
@@ -304,7 +306,6 @@ ENUM_RAW_AttunementList = {
     "MAG_OpenHand_Radiant_Gloves",
     "MAG_PHB_CloakOfDisplacement_Cloak",
     "MAG_PHB_CloakOfProtection_Cloak",
-    "MAG_PHB_DwarvenThrower_Warhammer",
     "MAG_PHB_OfEvasion_Ring",
     "MAG_PHB_OfFreeAction_Ring",
     "MAG_PHB_OfJumping_Ring",
@@ -362,14 +363,12 @@ ENUM_RAW_AttunementList = {
     "MAG_TheClover_Scimitar",
     "MAG_TheCrimson_Shortsword",
     "MAG_TheDueller_Rapier",
-    "MAG_TheThorns_Trident",
     "MAG_Thunder_ArcaneAcuityOnThunderDamage_Hat",
     "MAG_Thunder_InflictDazeOnReverberatedCreature_Cloak",
     "MAG_Thunder_InflictDazeOnThunderDamage_Ring",
     "MAG_Thunder_ReverberationOnRangeSpellDamage_Amulet",
     "MAG_Thunder_ReverberationOnStatusApply_Boots",
     "MAG_Thunder_Reverberation_Gloves",
-    "MAG_Tyrrant_Warhammer",
     "MAG_Vampiric_Gloves",
     "MAG_Vicious_Shortsword",
     "MAG_Viconia_Mace",
@@ -407,7 +406,6 @@ ENUM_RAW_AttunementList = {
     "TWN_ShortswordOfStealth",
     "UND_DeadInWater_CallarduranTrinket",
     "UND_DuergarBlacksmithHammer",
-    "UND_DuergarRaft_GruesomeHammer",
     "UND_Duergar_ShortswordOfFirstBlood",
     "UND_KC_Elder_Warpick",
     "UND_KC_RingOfAbsolute",
@@ -438,7 +436,6 @@ ENUM_RAW_AttunementList = {
     "UNI_Ravengard_Plate",
     "UNI_RobeOfSummer",
     "UNI_SHA_DarkJusticiar_Boots",
-    "UNI_WYR_Circus_ClownHammer",
     "WPN_Apostle_Scythe",
     "WPN_Bonesaw",
     "WPN_Djinni_Scimitar_PlanarAlly",
@@ -450,10 +447,6 @@ ENUM_RAW_AttunementList = {
     "WPN_Scimitar_Fire_Myrmidon_Wildshape",
     "WPN_SkullFlail_1",
     "WPN_Trepan",
-    "WPN_Trident_Water_Myrmidon",
-    "WPN_Trident_Water_Myrmidon_ConjureElemental",
-    "WPN_Trident_Water_Myrmidon_WildShape",
-    "WPN_Warhammer_Azer",
     "WYR_Circus_HandaxeReturning",
     "WYR_Circus_TeleportBoots",
 
@@ -640,6 +633,20 @@ ENUM_RAW_AttunementList = {
     "MAG_LC_Fleshred_Longsword", -- RENDER OF SCRUMPTIOUS FLESH
     "MAG_MeleeDebuff_AttackDebuff12versatile_OnDamage_Longsword", -- ADAMANTINE LONGSWORD?
     "MAG_Fire_BurningDamage_Longsword", -- ARDUOS FLAME BLADE
+    --- TRIDENT
+    "MAG_LC_Frigid_Trident", -- ALLANDRA'S WHELM
+    "MAG_ChargedLightning_Trident", -- THE SPARKY POINTS
+    "MAG_LC_Wave_Trident", -- TRIDENT OF THE WAVES
+    "MAG_TheThorns_Trident", -- NYRULNA
+    --- WARHAMMER
+    -- "LOW_OrphicHammer", -- ORPHIC HAMMER (QUEST ITEM)
+    "GOB_GoblinKing_Warhammer", -- FAITHBREAKER
+    "UND_DuergarRaft_GruesomeHammer", -- INTRANSIGENT WARHAMMER
+    "MAG_Bonded_Shocking_Warhammer", -- CHARGE-BOUND WARHAMMER
+    "UNI_WYR_Circus_ClownHammer", -- CLOWN HAMMER
+    "MAG_Tyrrant_Warhammer", -- HAMMER OF THE JUST
+    "MAG_PHB_DwarvenThrower_Warhammer", -- DWARVEN THROWER
+    "MAG_Infernal_Warhammer", -- INFERNAL WARHAMMER
 
 
     -- SUMMONS/NPC/???
@@ -648,9 +655,13 @@ ENUM_RAW_AttunementList = {
         -- "WPN_Flail_Air_Myrmidon", -- AIR MYRMIDON FLAIL
         -- "WPN_Flail_Air_Myrmidon_ConjureElemental", -- FLAIL OF THE VORTEX
         -- "WPN_Flail_Air_Myrmidon_Wildshape", -- FLAIL OF THE VORTEX
+        -- "WPN_Trident_Water_Myrmidon", -- TRIDENT OF THE DEPTHS
+        -- "WPN_Trident_Water_Myrmidon_ConjureElemental", -- TRIDENT OF THE DEPTHS
+        -- "WPN_Trident_Water_Myrmidon_WildShape", -- TRIDENT OF THE DEPTHS
         -- "PLA_WPN_DreadedSkullsFlail",
         -- "WPN_Orthon_Crossbow", -- ORTHON CROSSBOW
         -- "WPN_Quaterstaff_Dryad_ConjureWoodlandBeings", -- TWISTED OAK CROOK
+        -- "WPN_Warhammer_Azer", -- AZER WARHAMMER
 
     -- MISSING ID
     --- DAGGER
@@ -661,6 +672,8 @@ ENUM_RAW_AttunementList = {
         -- MYRKULITE SCOURGE
     --- GREATAXE
         -- DOOM AXE
+    --- WARHAMMER
+        -- KETHERIC'S WARHAMMER
 
     "NONEXISTENT_ITEM",
 }
