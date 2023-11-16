@@ -647,6 +647,7 @@ ENUM_RAW_AttunementList = {
     "MAG_Tyrrant_Warhammer", -- HAMMER OF THE JUST
     "MAG_PHB_DwarvenThrower_Warhammer", -- DWARVEN THROWER
     "MAG_Infernal_Warhammer", -- INFERNAL WARHAMMER
+    "MAG_Ketheric_Warhammer", -- KETHERIC'S WARHAMMER
 
 
     -- SUMMONS/NPC/???
@@ -672,8 +673,6 @@ ENUM_RAW_AttunementList = {
         -- MYRKULITE SCOURGE
     --- GREATAXE
         -- DOOM AXE
-    --- WARHAMMER
-        -- KETHERIC'S WARHAMMER
 
     "NONEXISTENT_ITEM",
 }
