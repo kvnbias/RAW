@@ -92,7 +92,6 @@ ENUM_RAW_AttunementList = {
     "GOB_GoblinKing_Warhammer",
     "GOB_Priest_Shield",
     "LOW_DeadMansSwitch_Shield",
-    "LOW_Elfsong_EmperorSword_LongSword",
     "LOW_JannathRing_Ring",
     "LOW_KerriRing_Ring",
     "LOW_OfWindrider_Amulet",
@@ -128,7 +127,6 @@ ENUM_RAW_AttunementList = {
     "MAG_BlackTentacle_Amulet",
     "MAG_Blindside_Shortsword",
     "MAG_Bonded_Baneful_Shortsword",
-    "MAG_Bonded_Lethal_Longsword",
     "MAG_Bonded_Shield",
     "MAG_Bonded_Shocking_Warhammer",
     "MAG_BonusAttack_AgainstMarked_Circlet",
@@ -160,7 +158,6 @@ ENUM_RAW_AttunementList = {
     "MAG_DarkJusticiar_HalfPlate",
     "MAG_Dawn_Morningstar",
     "MAG_DevilsBlackmith_ScaleMail",
-    "MAG_Drowelf_SpiderSnare_Longsword",
     "MAG_Druid_Land_Magic_Leather_Armor",
     "MAG_Druid_Late_Hide_Armor_1",
     "MAG_Druid_Late_Hide_Armor_2",
@@ -185,11 +182,9 @@ ENUM_RAW_AttunementList = {
     "MAG_Enforcer_RejunevatingKnock_Helmet",
     "MAG_Evasive_Shoes",
     "MAG_Fighter_ActionSurge_AttackBonus_Gloves",
-    "MAG_Finesse_Longsword",
     "MAG_Fire_ApplyBurningOnFireDamage_Gloves",
     "MAG_Fire_ArcaneAcuityOnFireDamage_Hat",
     "MAG_Fire_BonusActionOnFireSpell_Circlet",
-    "MAG_Fire_BurningDamage_Longsword",
     "MAG_Fire_BurningOnDamaged_Cloak",
     "MAG_Fire_HeatOnInflictBurning_Boots",
     "MAG_Fire_IncreaseSlashingDamageToBurning_Handaxe",
@@ -225,9 +220,7 @@ ENUM_RAW_AttunementList = {
     "MAG_Healer_TempHPOnHeal_Boots",
     "MAG_Heat_Fire_Robe",
     "MAG_Illithid_Carapace_Armor",
-    "MAG_Illithid_MindOverload_Weapon_Longsword",
     "MAG_Illithid_Regen_Circlet",
-    "MAG_Infernal_Longsword",
     "MAG_Infernal_Mace",
     "MAG_Infernal_Mace_2",
     "MAG_Infernal_Metal_Boots",
@@ -241,7 +234,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Ketheric_Shield",
     "MAG_LC_BurnOnDamage_Scimitar",
     "MAG_LC_DrowSpider_Gloves",
-    "MAG_LC_Fleshred_Longsword",
     "MAG_LC_Fleshrend_Shortsword",
     "MAG_LC_Frigid_Trident",
     "MAG_LC_HellishMadness_Amulet",
@@ -262,7 +254,6 @@ ENUM_RAW_AttunementList = {
     "MAG_LowHP_BonusAction_Helmet",
     "MAG_LowHP_CounterOnDamage_ChainShirt",
     "MAG_LowHP_IgnoreAttackOfOpportunity_Amulet",
-    "MAG_LowHP_IncreaseDamagePsychic_GithLongsword",
     "MAG_LowHP_IncreaseDamagePsychic_GithShortsword",
     "MAG_LowHP_IncreaseSpeed_Boots",
     "MAG_LowHP_IncreasedSpellDamage_Amulet",
@@ -270,7 +261,6 @@ ENUM_RAW_AttunementList = {
     "MAG_LowHP_TemporaryHP_Shield",
     "MAG_LuckySeven_Amulet",
     "MAG_MM_Sorcery_SeekingSpell_Gloves",
-    "MAG_MeleeDebuff_AttackDebuff12versatile_OnDamage_Longsword",
     "MAG_MeleeDebuff_AttackDebuff1_OnDamage_Helmet",
     "MAG_MeleeDebuff_AttackDebuff1_OnDamage_Mace",
     "MAG_MeleeDebuff_AttackDebuff1_OnDamage_ScaleMail",
@@ -294,7 +284,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Myrkulites_CircletOfMyrkul_Circlet",
     "MAG_OB_Paladin_DeathKnight_Armor",
     "MAG_OB_Paladin_DeathKnight_Gloves",
-    "MAG_OB_Paladin_DeathKnight_Longsword",
     "MAG_OB_Paladin_DeathKnight_Shield",
     "MAG_OfArcanicAssault_Robe",
     "MAG_OfArcanicDefense_Robe",
@@ -335,7 +324,6 @@ ENUM_RAW_AttunementList = {
     "MAG_ParalyzingRay_Ring",
     "MAG_Poison_InflictPoisonHealSelf_Cloak",
     "MAG_Poison_PoisonExposure_Gloves",
-    "MAG_Primeval_Silver_Longsword",
     "MAG_Psychic_MentalFatigue_Cape",
     "MAG_Psychic_MentalFatigue_Gloves",
     "MAG_Psychic_MentalOverload_Ring",
@@ -389,7 +377,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Violence_LowHP_Violence_Clothes",
     "MAG_Violence_ViolenceOnDamaged_Helmet",
     "MAG_Violence_ViolenceOnDash_Boots",
-    "MAG_WYRM_Commander_Longsword",
     "MAG_WYRM_OfBalduran_Helmet",
     "MAG_WYRM_OfTruthTelling_Ring",
     "MAG_WYRM_UndeadProtector_Robe",
@@ -432,7 +419,6 @@ ENUM_RAW_AttunementList = {
     "UND_ShadowOfMenzoberranzan",
     "UND_SocietyOfBrilliance_MagicMissileNecklace",
     "UND_SocietyOfBrilliance_PullingRing",
-    "UND_SwordInStone",
     "UND_Tower_AmuletDetectThoughts",
     "UND_Tower_BootsFeatherFall",
     "UND_Tower_RingLight",
@@ -639,6 +625,22 @@ ENUM_RAW_AttunementList = {
     "MAG_LC_OfTheRam_Quarterstaff", -- STAFF OF THE RAM
     "MAG_LC_CazadorVampiric_Quarterstaff", -- WOE
     "MAG_TheChromatic_Staff", -- MARKOHESHKIR
+    --- LONGSWORD
+    -- "MAG_LowHP_IncreaseDamagePsychic_GithLongsword", -- GITHYANKI LONGSWORD (SAME AS LONGSWORD +1)
+    "MAG_OB_Paladin_DeathKnight_Longsword", -- BLACKGUARD'S SWORD
+    "MAG_Illithid_MindOverload_Weapon_Longsword", -- BLADE OF OPPRESSED SOULS
+    "MAG_Drowelf_SpiderSnare_Longsword", -- CRUEL STING
+    "MAG_WYRM_Commander_Longsword", -- DUKE RAVENGARD'S LONGSWORD
+    "MAG_Finesse_Longsword", -- LARETHIAN'S WRATH
+    "UND_SwordInStone", -- PHALAR ALUVE
+    "MAG_Bonded_Lethal_Longsword", -- BLOOD BOUND BLADE
+    "LOW_Elfsong_EmperorSword_LongSword", -- SWORD OF THE EMPEROR
+    "MAG_Primeval_Silver_Longsword", -- VOSS' SILVER SWORD
+    "MAG_Infernal_Longsword", -- INFERNAL LONGSWORD
+    "MAG_LC_Fleshred_Longsword", -- RENDER OF SCRUMPTIOUS FLESH
+    "MAG_MeleeDebuff_AttackDebuff12versatile_OnDamage_Longsword", -- ADAMANTINE LONGSWORD?
+    "MAG_Fire_BurningDamage_Longsword", -- ARDUOS FLAME BLADE
+
 
     -- SUMMONS/NPC/???
         -- "HAV_MAG_ShadowRending_Dagger",
