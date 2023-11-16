@@ -76,29 +76,21 @@ ENUM_RAW_AttunementList = {
     "ARM_HeadbandOfIntellect",
     "ARM_RingOfPoisonResistance",
     "ARM_TalismanOfJergal",
-    "CHA_CompassSpear",
     "CHA_OutpostJewelry",
     "CRE_BloodOfLathander",
     "CRE_Hatchery_AcidPoisonImmunity_Boots",
     "CRE_MAG_Githborn_Amulet",
     "CRE_MAG_Psychic_Githborn_Circlet",
-    "DEN_FaithwardenStaff",
     "DEN_HellridersPride",
-    "DEN_TunnelStaff",
-    "END_Emperor_Staff",
     "FOR_DeathOfATrueSoul_TrueSoul_Ring",
     "FOR_NightWalkers",
     "FOR_OgresForHire_HeadbandOfIntellect",
     "FOR_OwlbearCubs_Armor",
-    "FOR_TrueSoul_Spear",
-    "FOR_WebStaff",
     "GOB_DrowCommander_Amulet",
     "GOB_DrowCommander_Leather_Armor",
     "GOB_DrowCommander_Mace",
     "GOB_GoblinKing_Warhammer",
     "GOB_Priest_Shield",
-    "GOB_Torturer_Spear",
-    "HAV_SpearOfSelune",
     "LOW_DeadMansSwitch_Shield",
     "LOW_Elfsong_EmperorSword_LongSword",
     "LOW_JannathRing_Ring",
@@ -130,7 +122,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Bard_HealingBardicInspiration_Hat",
     "MAG_Bard_RefreshBardicInspirationSlot_Shoes",
     "MAG_Bard_TempHP_Armor",
-    "MAG_BasicEnchanted_Quarterstaff",
     "MAG_Bhaalist_Armor",
     "MAG_Bhaalist_Gloves",
     "MAG_Bhaalist_Hat",
@@ -144,7 +135,6 @@ ENUM_RAW_AttunementList = {
     "MAG_CKM_SerpenScale_Armor",
     "MAG_CQCaster_ArcaneChargeAfterDash_Boots",
     "MAG_CQCaster_CloseRangedSpellMastery_Gloves",
-    "MAG_CQCaster_GainArcaneChargeOnDamage_Quarterstaff",
     "MAG_CQCaster_GainArcaneChargeOnDamaged_Robe",
     "MAG_CQCaster_TempHPAfterCast_Cloak",
     "MAG_ChargedLightning_AbilityCheckBoost_Gloves",
@@ -154,7 +144,6 @@ ENUM_RAW_AttunementList = {
     "MAG_ChargedLightning_Electrocute_Armor",
     "MAG_ChargedLightning_EnsnaringShock_Ring",
     "MAG_ChargedLightning_LightningBlast_Amulet",
-    "MAG_ChargedLightning_Quarterstaff",
     "MAG_ChargedLightning_Resistance_Ring",
     "MAG_ChargedLightning_StaticDischarge_Amulet",
     "MAG_ChargedLightning_StaticDischarge_Shield",
@@ -162,8 +151,6 @@ ENUM_RAW_AttunementList = {
     "MAG_ChargedLightning_Trident",
     "MAG_CharismaCaster_Robe",
     "MAG_Cleric_Devotees_Mace",
-    "MAG_Cold_IncreaseColdDamageOnCast_Staff",
-    "MAG_Combat_Quarterstaff",
     "MAG_Critical_ArcanicCritical_Gloves",
     "MAG_Critical_BolsteringCritical_Armor",
     "MAG_Critical_CriticalExecution_Ring",
@@ -204,7 +191,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Fire_BonusActionOnFireSpell_Circlet",
     "MAG_Fire_BurningDamage_Longsword",
     "MAG_Fire_BurningOnDamaged_Cloak",
-    "MAG_Fire_FireDamage_Quarterstaff",
     "MAG_Fire_HeatOnInflictBurning_Boots",
     "MAG_Fire_IncreaseSlashingDamageToBurning_Handaxe",
     "MAG_Fire_IncreasedDamage_Ring",
@@ -213,7 +199,6 @@ ENUM_RAW_AttunementList = {
     "MAG_FlamingFist_FlamingBlade",
     "MAG_FlamingFist_Flaming_Shield",
     "MAG_FlamingFist_ScoutRing",
-    "MAG_FlamingFist_StaffOfFire",
     "MAG_FreeCast_Shortsword",
     "MAG_Frost_GenerateFrostOnDamage_Robe",
     "MAG_Frost_IceSurfaceProneImmunity_Boots",
@@ -227,12 +212,10 @@ ENUM_RAW_AttunementList = {
     "MAG_Gortash_Boots",
     "MAG_Gortash_Cloth",
     "MAG_Gortash_Gloves",
-    "MAG_GreaterNecromancy_Staff",
     "MAG_HAV_Sylvan_Scimitar",
     "MAG_HAV_ThornBlade_Scimitar",
     "MAG_Harpers_Harmonizing_Rapier",
     "MAG_Harpers_HarpersAmulet",
-    "MAG_Harpers_OfWeapons_Quarterstaff",
     "MAG_Harpers_SingingSword",
     "MAG_Hat_Barbarian_Hide",
     "MAG_Hat_Butler",
@@ -241,7 +224,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Healer_HealSelf_Helmet",
     "MAG_Healer_TempHPOnHeal_Boots",
     "MAG_Heat_Fire_Robe",
-    "MAG_HigherNecromancy_Staff",
     "MAG_Illithid_Carapace_Armor",
     "MAG_Illithid_MindOverload_Weapon_Longsword",
     "MAG_Illithid_Regen_Circlet",
@@ -252,27 +234,21 @@ ENUM_RAW_AttunementList = {
     "MAG_Infernal_Metal_Gloves",
     "MAG_Infernal_Metal_Helmet",
     "MAG_Infernal_Plate_Armor",
-    "MAG_Infernal_Spear",
     "MAG_Infernal_Warhammer",
     "MAG_JusticiarArmor_Gloves",
     "MAG_Justiciar_Scimitar",
     "MAG_Justiciar_Shield",
     "MAG_Ketheric_Shield",
-    "MAG_Kuotoa_Lightning_Spear",
     "MAG_LC_BurnOnDamage_Scimitar",
-    "MAG_LC_CazadorVampiric_Quarterstaff",
-    "MAG_LC_Counterspell_Quarterstaff",
     "MAG_LC_DrowSpider_Gloves",
     "MAG_LC_Fleshred_Longsword",
     "MAG_LC_Fleshrend_Shortsword",
     "MAG_LC_Frigid_Trident",
     "MAG_LC_HellishMadness_Amulet",
     "MAG_LC_Jannath_Hat",
-    "MAG_LC_Lorroakan_Quarterstaff",
     "MAG_LC_Lorroakan_Robe",
     "MAG_LC_Nymph_Cloak",
     "MAG_LC_OfTheFist_MorningStar",
-    "MAG_LC_OfTheRam_Quarterstaff",
     "MAG_LC_PirateCommander_Scimitar",
     "MAG_LC_RadiantLight_Rapier",
     "MAG_LC_TheAmplifier_Amulet",
@@ -330,7 +306,6 @@ ENUM_RAW_AttunementList = {
     "MAG_OfRupture_Rapier",
     "MAG_OfSharpCaster_Hat",
     "MAG_OfShielding_Shield",
-    "MAG_OfSpellPower_Quarterstaff",
     "MAG_OfSpellResistance_Robe",
     "MAG_OfSwordmaster_Gloves",
     "MAG_OfTheBalancedHands_Gloves",
@@ -348,7 +323,6 @@ ENUM_RAW_AttunementList = {
     "MAG_PHB_OfRegeneration_Ring",
     "MAG_PHB_OfSoulCatching_Gloves",
     "MAG_PHB_OfSpeed_Scimitar",
-    "MAG_PHB_PactKeeper_Quarterstaff",
     "MAG_PHB_PeriaptofWoundClosure_Amulet",
     "MAG_PHB_Ring_Of_Protection",
     "MAG_PHB_ScarabOfProtection_Amulet",
@@ -379,8 +353,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Restoration_SpellSlotRestoration_Amulet",
     "MAG_Revitalizing_Warpick",
     "MAG_RiskyAttack_Ring",
-    "MAG_SHA_SeluneBlessing_Spear",
-    "MAG_SHA_SharBlessing_Spear",
     "MAG_Selunite_Isobel_Robe",
     "MAG_Shadow_BlindImmunity_Ring",
     "MAG_Shadow_CriticalBoostWhileObscured_Helmet",
@@ -399,7 +371,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Taras_Collar_Amulet",
     "MAG_TerrainWalkers_Boots",
     "MAG_TheBulwark_Shield",
-    "MAG_TheChromatic_Staff",
     "MAG_TheClover_Scimitar",
     "MAG_TheCrimson_Shortsword",
     "MAG_TheDueller_Rapier",
@@ -410,7 +381,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Thunder_ReverberationOnRangeSpellDamage_Amulet",
     "MAG_Thunder_ReverberationOnStatusApply_Boots",
     "MAG_Thunder_Reverberation_Gloves",
-    "MAG_Thunder_ThunderClap_Quarterstaff",
     "MAG_Tyrrant_Warhammer",
     "MAG_Vampiric_Gloves",
     "MAG_Vicious_Shortsword",
@@ -440,13 +410,11 @@ ENUM_RAW_AttunementList = {
     "Quest_GLO_DevilDeal_ResurrectRod",
     "Quest_GLO_Moonlantern",
     "Quest_GLO_Moonlantern_Gale",
-    "Quest_HAG_HagLair_Staff",
     "Quest_SCL_Moonblade",
     "SCE_KhalidsGift",
     "SCL_SpidersLyre",
     "SHA_JusticiarArmor_Gloves",
     "SHA_SandthiefsRing",
-    "SHA_SharSpear",
     "TWN_NecklaceOfCharming",
     "TWN_RegretfulHunter_SoulAmulet",
     "TWN_ShortswordOfStealth",
@@ -464,12 +432,10 @@ ENUM_RAW_AttunementList = {
     "UND_ShadowOfMenzoberranzan",
     "UND_SocietyOfBrilliance_MagicMissileNecklace",
     "UND_SocietyOfBrilliance_PullingRing",
-    "UND_SocietyOfBrilliance_ResonanceStaff",
     "UND_SwordInStone",
     "UND_Tower_AmuletDetectThoughts",
     "UND_Tower_BootsFeatherFall",
     "UND_Tower_RingLight",
-    "UND_Tower_StaffBlessMystra",
     "UNI_ARM_OfArchery_Gloves",
     "UNI_ARM_OfDefense_Gloves",
     "UNI_ARM_OfGiantHillStrength_Gloves",
@@ -484,7 +450,6 @@ ENUM_RAW_AttunementList = {
     "UNI_MartyrAmulet",
     "UNI_MassHealRing",
     "UNI_Ravengard_Plate",
-    "UNI_RepeatStaff",
     "UNI_RobeOfSummer",
     "UNI_SHA_DarkJusticiar_Boots",
     "UNI_WYR_Circus_ClownHammer",
@@ -494,7 +459,6 @@ ENUM_RAW_AttunementList = {
     "WPN_Leech",
     "WPN_Mace_Deva",
     "WPN_Orthon_ShortSword",
-    "WPN_Quaterstaff_Dryad_ConjureWoodlandBeings",
     "WPN_Scimitar_Fire_Myrmidon",
     "WPN_Scimitar_Fire_Myrmidon_ConjureElemental",
     "WPN_Scimitar_Fire_Myrmidon_Wildshape",
@@ -505,7 +469,6 @@ ENUM_RAW_AttunementList = {
     "WPN_Trident_Water_Myrmidon_WildShape",
     "WPN_Warhammer_Azer",
     "WYR_Circus_HandaxeReturning",
-    "WYR_Circus_MumblingStaff",
     "WYR_Circus_TeleportBoots",
 
 
@@ -524,6 +487,8 @@ ENUM_RAW_AttunementList = {
     --- HALBERD
     -- "WPN_Merregon_Halberd", -- MERREGON HALBERD (SAME WITH HALBERD +1)
     "WPN_Tower_AutomatonHalberd", -- LIGHT OF CREATION
+    --- STAFF
+    "UNI_StaffOfRain", -- RAIN DANCER
 
     -- IN ATTUNEMENT
     --- BATTLEAXE
@@ -636,6 +601,44 @@ ENUM_RAW_AttunementList = {
     "MAG_MagicMissile_HandCrossbow", -- NE'ER MISSER
     "MAG_Orthon_Hellfire_HandCrossbow", -- HELLFIRE HAND CROSSBOW
     "MAG_Cunning_HandCrossbow", -- MAGICAL HAND CROSSBOW
+    --- SPEAR
+    "GOB_Torturer_Spear", -- JAGGED SPEAR
+    "MAG_Kuotoa_Lightning_Spear", -- LIGHTNING JABBER
+    "CHA_CompassSpear", -- THE WATCHER'S GUIDE
+    "FOR_TrueSoul_Spear", -- VISION OF THE ABSOLUTE
+    "SHA_SharSpear", -- SPEAR OF NIGHT
+    "MAG_Infernal_Spear", -- INFERNAL SPEAR
+    "MAG_SHA_SeluneBlessing_Spear", -- SELUNE'S SPEAR OF NIGHT
+    "MAG_SHA_SharBlessing_Spear", -- SHAR'S SPEAR OF EVENING
+    "HAV_SpearOfSelune", -- ???
+    -- QUARTERSTAFF
+    "FOR_WebStaff", -- SPIDERSTEP STAFF
+    "WYR_Circus_MumblingStaff", -- STAFF OF A MUMBLING WIZARD
+    "UNI_RepeatStaff", -- CORELLON'S GRACE
+    "MAG_BasicEnchanted_Quarterstaff", -- MELF'S FIRST STAFF
+    "DEN_TunnelStaff", -- NATURE'S SNARE
+    "UND_Tower_StaffBlessMystra", -- STAFF OF ARCANE BLESSING
+    "Quest_HAG_HagLair_Staff", -- STAFF OF CRONES?
+    "MAG_Combat_Quarterstaff", -- BIGBOY'S CHEW TOY
+    "MAG_Thunder_ThunderClap_Quarterstaff", -- CACOPHONY
+    "MAG_PHB_PactKeeper_Quarterstaff", -- CAITIFF STAFF
+    "UND_SocietyOfBrilliance_ResonanceStaff", -- CREATION'S ECHO
+    "MAG_LC_Lorroakan_Quarterstaff", -- DESPAIR OF ATHKATLA
+    "MAG_Fire_FireDamage_Quarterstaff", -- GOLD WYRMLING STAFF
+    "MAG_Harpers_OfWeapons_Quarterstaff", -- HARPER SACREDSTRIKER
+    "MAG_HigherNecromancy_Staff", -- HOLLOW'S STAFF
+    "DEN_FaithwardenStaff", -- PALE OAK
+    "MAG_CQCaster_GainArcaneChargeOnDamage_Quarterstaff", -- STAFF OF ACCRETION
+    "MAG_LC_Counterspell_Quarterstaff", -- STAFF OF INTERRUPTION
+    "END_Emperor_Staff", -- STAFF OF THE EMPEROR
+    "MAG_ChargedLightning_Quarterstaff", -- THE SPELLSPARKLER
+    "MAG_FlamingFist_StaffOfFire", -- INCANDESCENT STAFF
+    "MAG_Cold_IncreaseColdDamageOnCast_Staff", -- MOURNING FROST
+    "MAG_GreaterNecromancy_Staff", -- STAFF OF CHERISHED NECROMANCY
+    "MAG_OfSpellPower_Quarterstaff", -- STAFF OF SPELL POWER
+    "MAG_LC_OfTheRam_Quarterstaff", -- STAFF OF THE RAM
+    "MAG_LC_CazadorVampiric_Quarterstaff", -- WOE
+    "MAG_TheChromatic_Staff", -- MARKOHESHKIR
 
     -- SUMMONS/NPC/???
         -- "HAV_MAG_ShadowRending_Dagger",
@@ -645,6 +648,7 @@ ENUM_RAW_AttunementList = {
         -- "WPN_Flail_Air_Myrmidon_Wildshape", -- FLAIL OF THE VORTEX
         -- "PLA_WPN_DreadedSkullsFlail",
         -- "WPN_Orthon_Crossbow", -- ORTHON CROSSBOW
+        -- "WPN_Quaterstaff_Dryad_ConjureWoodlandBeings", -- TWISTED OAK CROOK
 
     -- MISSING ID
     --- DAGGER
