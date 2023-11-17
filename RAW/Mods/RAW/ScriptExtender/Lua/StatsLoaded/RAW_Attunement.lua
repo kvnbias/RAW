@@ -100,7 +100,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Acid_AcidMeleeCounter_Cloak",
     "MAG_Acid_NoxiousFumes_Gloves",
     "MAG_Acrobat_Shoes",
-    "MAG_Ambusher_Shortsword",
     "MAG_Arcanist_Gloves",
     "MAG_BG_Gargoyle_Boots",
     "MAG_BG_OfCrushing_Gloves",
@@ -123,8 +122,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Bhaalist_Gloves",
     "MAG_Bhaalist_Hat",
     "MAG_BlackTentacle_Amulet",
-    "MAG_Blindside_Shortsword",
-    "MAG_Bonded_Baneful_Shortsword",
     "MAG_Bonded_Shield",
     "MAG_BonusAttack_AgainstMarked_Circlet",
     "MAG_CKM_SerpenScale_Armor",
@@ -152,7 +149,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Critical_Force_Gloves",
     "MAG_Critical_HidingCritical_Cloak",
     "MAG_DarkJusticiar_HalfPlate",
-    "MAG_Dawn_Morningstar",
     "MAG_DevilsBlackmith_ScaleMail",
     "MAG_Druid_Land_Magic_Leather_Armor",
     "MAG_Druid_Late_Hide_Armor_1",
@@ -162,7 +158,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Druid_Moon_Magic_Leather_Armor",
     "MAG_Druid_Spore_Magic_Leather_Armor",
     "MAG_Druid_Wildshape_Hat",
-    "MAG_Duergar_Sword_KingsKnife",
     "MAG_ElementalGish_AbsorbElements_Cloak",
     "MAG_ElementalGish_BaneOnElementalWeaponDamage_Gloves",
     "MAG_ElementalGish_CantripBooster_Amulet",
@@ -190,7 +185,6 @@ ENUM_RAW_AttunementList = {
     "MAG_FlamingFist_FlamingBlade",
     "MAG_FlamingFist_Flaming_Shield",
     "MAG_FlamingFist_ScoutRing",
-    "MAG_FreeCast_Shortsword",
     "MAG_Frost_GenerateFrostOnDamage_Robe",
     "MAG_Frost_IceSurfaceProneImmunity_Boots",
     "MAG_Gish_ArcaneAcuity_Gloves",
@@ -203,9 +197,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Gortash_Boots",
     "MAG_Gortash_Cloth",
     "MAG_Gortash_Gloves",
-    "MAG_HAV_Sylvan_Scimitar",
-    "MAG_HAV_ThornBlade_Scimitar",
-    "MAG_Harpers_Harmonizing_Rapier",
     "MAG_Harpers_HarpersAmulet",
     "MAG_Harpers_SingingSword",
     "MAG_Hat_Barbarian_Hide",
@@ -224,19 +215,13 @@ ENUM_RAW_AttunementList = {
     "MAG_Infernal_Metal_Helmet",
     "MAG_Infernal_Plate_Armor",
     "MAG_JusticiarArmor_Gloves",
-    "MAG_Justiciar_Scimitar",
     "MAG_Justiciar_Shield",
     "MAG_Ketheric_Shield",
-    "MAG_LC_BurnOnDamage_Scimitar",
     "MAG_LC_DrowSpider_Gloves",
-    "MAG_LC_Fleshrend_Shortsword",
     "MAG_LC_HellishMadness_Amulet",
     "MAG_LC_Jannath_Hat",
     "MAG_LC_Lorroakan_Robe",
     "MAG_LC_Nymph_Cloak",
-    "MAG_LC_OfTheFist_MorningStar",
-    "MAG_LC_PirateCommander_Scimitar",
-    "MAG_LC_RadiantLight_Rapier",
     "MAG_LC_TheAmplifier_Amulet",
     "MAG_LC_Umberlee_Cold_Sickle",
     "MAG_LC_Umberlee_Protection_Cape",
@@ -247,7 +232,6 @@ ENUM_RAW_AttunementList = {
     "MAG_LowHP_BonusAction_Helmet",
     "MAG_LowHP_CounterOnDamage_ChainShirt",
     "MAG_LowHP_IgnoreAttackOfOpportunity_Amulet",
-    "MAG_LowHP_IncreaseDamagePsychic_GithShortsword",
     "MAG_LowHP_IncreaseSpeed_Boots",
     "MAG_LowHP_IncreasedSpellDamage_Amulet",
     "MAG_LowHP_ResistanceFire_Gloves",
@@ -257,13 +241,11 @@ ENUM_RAW_AttunementList = {
     "MAG_MeleeDebuff_AttackDebuff1_OnDamage_Helmet",
     "MAG_MeleeDebuff_AttackDebuff1_OnDamage_Mace",
     "MAG_MeleeDebuff_AttackDebuff1_OnDamage_ScaleMail",
-    "MAG_MeleeDebuff_AttackDebuff1_OnDamage_Scimitar",
     "MAG_MeleeDebuff_AttackDebuff1_OnDamage_Shield",
     "MAG_MeleeDebuff_AttackDebuff2_OnDamage_SplintMail",
     "MAG_MissileProtection_Shield",
     "MAG_Mobility_JumpOnDash_Gloves",
     "MAG_Mobility_LowHP_Momentum_Ring",
-    "MAG_Mobility_MomentumOnAttack_Scimitar",
     "MAG_Mobility_MomentumOnCombatStart_Helmet",
     "MAG_Mobility_MomentumOnDash_Boots",
     "MAG_Mobility_SprintForMomentum_ChainShirt",
@@ -285,7 +267,6 @@ ENUM_RAW_AttunementList = {
     "MAG_OfFeywildSparks_Ring",
     "MAG_OfGreaterSorcery_Amulet",
     "MAG_OfRevivify_Gloves",
-    "MAG_OfRupture_Rapier",
     "MAG_OfSharpCaster_Hat",
     "MAG_OfShielding_Shield",
     "MAG_OfSpellResistance_Robe",
@@ -300,10 +281,8 @@ ENUM_RAW_AttunementList = {
     "MAG_PHB_OfEvasion_Ring",
     "MAG_PHB_OfFreeAction_Ring",
     "MAG_PHB_OfJumping_Ring",
-    "MAG_PHB_OfLifestealing_Shortsword",
     "MAG_PHB_OfRegeneration_Ring",
     "MAG_PHB_OfSoulCatching_Gloves",
-    "MAG_PHB_OfSpeed_Scimitar",
     "MAG_PHB_PeriaptofWoundClosure_Amulet",
     "MAG_PHB_Ring_Of_Protection",
     "MAG_PHB_ScarabOfProtection_Amulet",
@@ -322,7 +301,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Psychic_PsychicFeedback_Armor",
     "MAG_Psychic_Staggering_Amulet",
     "MAG_Psychic_TempHP_Ring",
-    "MAG_RadiantLight_Morningstar",
     "MAG_Radiant_CrusaderMantle_Cloak",
     "MAG_Radiant_DamageBonusOnIlluminatedTarget_Ring",
     "MAG_Radiant_RadiatingOrb_Armor",
@@ -331,29 +309,21 @@ ENUM_RAW_AttunementList = {
     "MAG_Radiant_Radiating_Hammer",
     "MAG_Radiant_Radiating_Helmet",
     "MAG_Restoration_SpellSlotRestoration_Amulet",
-    "MAG_Revitalizing_Warpick",
     "MAG_RiskyAttack_Ring",
     "MAG_Selunite_Isobel_Robe",
     "MAG_Shadow_BlindImmunity_Ring",
     "MAG_Shadow_CriticalBoostWhileObscured_Helmet",
     "MAG_Shadow_ShadowBlade_Ring",
     "MAG_Shadow_Shadowstep_Boots",
-    "MAG_Shadow_Shortsword",
     "MAG_Shove_ACboost_Ring",
-    "MAG_Slicing_Shortsword",
     "MAG_SpectatorEye_Amulet",
     "MAG_Steadfast_Shield",
     "MAG_Surgeon_Bonesaw",
     "MAG_Surgeon_Leech",
-    "MAG_Surgeon_Trepan",
     "MAG_TWN_Surgeon_ParalyzingCritical_Amulet",
-    "MAG_TWN_Taxblade_Morningstar",
     "MAG_Taras_Collar_Amulet",
     "MAG_TerrainWalkers_Boots",
     "MAG_TheBulwark_Shield",
-    "MAG_TheClover_Scimitar",
-    "MAG_TheCrimson_Shortsword",
-    "MAG_TheDueller_Rapier",
     "MAG_Thunder_ArcaneAcuityOnThunderDamage_Hat",
     "MAG_Thunder_InflictDazeOnReverberatedCreature_Cloak",
     "MAG_Thunder_InflictDazeOnThunderDamage_Ring",
@@ -361,7 +331,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Thunder_ReverberationOnStatusApply_Boots",
     "MAG_Thunder_Reverberation_Gloves",
     "MAG_Vampiric_Gloves",
-    "MAG_Vicious_Shortsword",
     "MAG_Viconia_Mace",
     "MAG_Viconia_Robe",
     "MAG_Violence_LowHP_Violence_Clothes",
@@ -374,13 +343,11 @@ ENUM_RAW_AttunementList = {
     "MAG_Warlock_Twinned_Gloves",
     "MAG_WoodWoad_Nature_Shield",
     "MAG_ZOC_RampartAura_Amulet",
-    "MAG_Zhentarim_BloodfeederBlade_Rapier",
     "MAG_Zhentarim_Lockpicking_Gloves",
     "MAG_Zhentarim_Swap_Gloves",
     "MAG_ofGreaterHealth_Amulet",
     "MOO_Ketheric_Armor",
     "MOO_WulbrenHammer",
-    "ORI_Wyll_Infernal_Rapier",
     "ORI_Wyll_Infernal_Robe",
     "PLA_ZhentCave_Gloves",
     "Quest_DEN_ARM_LuckyBoots",
@@ -394,17 +361,13 @@ ENUM_RAW_AttunementList = {
     "SHA_SandthiefsRing",
     "TWN_NecklaceOfCharming",
     "TWN_RegretfulHunter_SoulAmulet",
-    "TWN_ShortswordOfStealth",
     "UND_DeadInWater_CallarduranTrinket",
     "UND_DuergarBlacksmithHammer",
-    "UND_Duergar_ShortswordOfFirstBlood",
-    "UND_KC_Elder_Warpick",
     "UND_KC_RingOfAbsolute",
     "UND_MonkAmulet_Amulet",
     "UND_Myco_Alchemist_HealerGloves",
     "UND_MyconidAmulet_Evil",
     "UND_MyconidAmulet_Good",
-    "UND_Nere_Sword",
     "UND_ShadowOfMenzoberranzan",
     "UND_SocietyOfBrilliance_MagicMissileNecklace",
     "UND_SocietyOfBrilliance_PullingRing",
@@ -429,15 +392,8 @@ ENUM_RAW_AttunementList = {
     "UNI_SHA_DarkJusticiar_Boots",
     "WPN_Apostle_Scythe",
     "WPN_Bonesaw",
-    "WPN_Djinni_Scimitar_PlanarAlly",
     "WPN_Leech",
     "WPN_Mace_Deva",
-    "WPN_Orthon_ShortSword",
-    "WPN_Scimitar_Fire_Myrmidon",
-    "WPN_Scimitar_Fire_Myrmidon_ConjureElemental",
-    "WPN_Scimitar_Fire_Myrmidon_Wildshape",
-    "WPN_SkullFlail_1",
-    "WPN_Trepan",
     "WYR_Circus_HandaxeReturning",
     "WYR_Circus_TeleportBoots",
 
@@ -459,6 +415,8 @@ ENUM_RAW_AttunementList = {
     "WPN_Tower_AutomatonHalberd", -- LIGHT OF CREATION
     --- STAFF
     "UNI_StaffOfRain", -- RAIN DANCER
+    --- RAPIER
+    "UND_Nere_Sword", -- SWORD OF SCREAMS
 
     -- IN ATTUNEMENT
     --- BATTLEAXE
@@ -639,11 +597,53 @@ ENUM_RAW_AttunementList = {
     "MAG_PHB_DwarvenThrower_Warhammer", -- DWARVEN THROWER
     "MAG_Infernal_Warhammer", -- INFERNAL WARHAMMER
     "MAG_Ketheric_Warhammer", -- KETHERIC'S WARHAMMER
-
+    --- MORNING STAR
+    "MAG_Dawn_Morningstar", -- TOUGH SUNRISES
+    "MAG_LC_OfTheFist_MorningStar", -- RAVENGARD'S SCOURGER
+    "MAG_TWN_Taxblade_Morningstar", -- TWIST OF FORTUNE
+    "MAG_RadiantLight_Morningstar", -- THE SACRED STAR
+    --- RAPIER
+    "MAG_OfRupture_Rapier", -- RUPTURING BLADE
+    "MAG_Zhentarim_BloodfeederBlade_Rapier", -- SANGUINE BLADE
+    "MAG_Harpers_Harmonizing_Rapier", -- HARMONIC DUELLER
+    "ORI_Wyll_Infernal_Rapier", -- INFERNAL RAPIER
+    "MAG_LC_RadiantLight_Rapier", -- PELORSUN BLADE
+    "MAG_TheDueller_Rapier", -- DUELLIST'S PREROGATIVE
+    --- SCIMITAR
+    "MAG_Mobility_MomentumOnAttack_Scimitar", -- SPEEDY REPLY
+    "MAG_HAV_Sylvan_Scimitar", -- SYLVAN SCIMITAR
+    "MAG_MeleeDebuff_AttackDebuff1_OnDamage_Scimitar", -- ADAMANTINE SCIMITAR
+    "MAG_HAV_ThornBlade_Scimitar", -- THORN BLADE
+    "MAG_PHB_OfSpeed_Scimitar", -- BELM
+    "MAG_Justiciar_Scimitar", -- JUSTICIAR'S SCIMITAR
+    "MAG_LC_BurnOnDamage_Scimitar", -- KURWIN'S CAUTERISER
+    "MAG_LC_PirateCommander_Scimitar", --- SALTY SCIMITAR (RRR)
+    --- SHORTSWORD
+    -- "MAG_LowHP_IncreaseDamagePsychic_GithShortsword", -- GITHYANKI SHORTSWORD (SAME WITH SHORTSWORD +1)
+    -- "WPN_Trepan", -- TREPAN (TOO WEAK)
+    "MAG_Surgeon_Trepan", -- SURGEON TREPAN
+    "TWN_ShortswordOfStealth", -- ASSASSIN'S SHORTSWORD
+    "MAG_Blindside_Shortsword", -- RENDER OF MIND AND BODY
+    "UND_Duergar_ShortswordOfFirstBlood", -- SHORTSWORD OF FIRST BLOOD
+    "MAG_Ambusher_Shortsword", -- AMBUSHER
+    "MAG_FreeCast_Shortsword", -- EXECUTIONER SWORD
+    "MAG_LC_Fleshrend_Shortsword", -- FLESHRENDER
+    "MAG_Slicing_Shortsword", -- SLICING SHORTSWORD
+    "MAG_Shadow_Shortsword", -- SWORD OF CLUTCHING UMBRA
+    "MAG_Bonded_Baneful_Shortsword", -- THE BANEFUL
+    "MAG_Vicious_Shortsword", -- VICIOUS SHORTSWORD
+    "MAG_Duergar_Sword_KingsKnife", -- KNIFE OF THE UNDERMOUNTAIN KING
+    "MAG_PHB_OfLifestealing_Shortsword", -- SWORD OF LIFE STEALING
+    "MAG_TheCrimson_Shortsword", -- CRIMSON MISCHIEF
+    "MAG_TheClover_Scimitar", -- THE CLOVER
+    --- WARPICK
+    "UND_KC_Elder_Warpick", -- DEEP DELVER
+    "MAG_Revitalizing_Warpick", -- HOPPY
 
     -- SUMMONS/NPC/???
         -- "HAV_MAG_ShadowRending_Dagger",
         -- "WPN_Club_WoodWoad_Conjure",
+        -- "WPN_SkullFlail_1",
         -- "WPN_Flail_Air_Myrmidon", -- AIR MYRMIDON FLAIL
         -- "WPN_Flail_Air_Myrmidon_ConjureElemental", -- FLAIL OF THE VORTEX
         -- "WPN_Flail_Air_Myrmidon_Wildshape", -- FLAIL OF THE VORTEX
@@ -654,6 +654,11 @@ ENUM_RAW_AttunementList = {
         -- "WPN_Orthon_Crossbow", -- ORTHON CROSSBOW
         -- "WPN_Quaterstaff_Dryad_ConjureWoodlandBeings", -- TWISTED OAK CROOK
         -- "WPN_Warhammer_Azer", -- AZER WARHAMMER
+        -- "WPN_Djinni_Scimitar_PlanarAlly", -- DJINNI SCIMITAR
+        -- "WPN_Scimitar_Fire_Myrmidon", -- SCIMITAR OF CINDER
+        -- "WPN_Scimitar_Fire_Myrmidon_ConjureElemental", -- SCIMITAR OF CINDER
+        -- "WPN_Scimitar_Fire_Myrmidon_Wildshape", -- SCIMITAR OF CINDER
+        -- "WPN_Orthon_ShortSword", -- YURGIR SHORTSWORD
 
     -- MISSING ID
     --- DAGGER
@@ -664,6 +669,8 @@ ENUM_RAW_AttunementList = {
         -- MYRKULITE SCOURGE
     --- GREATAXE
         -- DOOM AXE
+    --- SCIMITAR
+        -- KURWIN'S CAUTERISER
 
     "NONEXISTENT_ITEM",
 }
