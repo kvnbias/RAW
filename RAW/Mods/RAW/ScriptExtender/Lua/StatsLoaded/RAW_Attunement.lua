@@ -339,7 +339,7 @@ ENUM_RAW_AttunementList = {
     "MAG_Illithid_MindTax_Amulet", -- SYNAPTIC NEEDLE AMULET
     "ARM_HAG_Phylactery", -- TARNISHED CHARM
     "HAG_EyeballNecklace", -- THE EVER-SEEING EYE
-    "MAG_WYRM_SleepImmunity_Amulet ", -- WAKEFUL AMULET
+    "MAG_WYRM_SleepImmunity_Amulet", -- WAKEFUL AMULET
 
     -- IN ATTUNEMENT --
     "CRE_MAG_Githborn_Amulet", -- ABERRATION HUNTERS' AMULET
