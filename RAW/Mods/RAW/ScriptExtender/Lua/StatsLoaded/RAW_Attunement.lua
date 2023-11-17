@@ -386,7 +386,7 @@ ENUM_RAW_AttunementList = {
     --- MACE
     "GOB_PainPriest_Scourge", -- LOVIATAR'S SCOURGE
     --- SHIELD
-    "MAG_Safeguard_Shield" -- SAFEGUARD SHIELD
+    "MAG_Safeguard_Shield", -- SAFEGUARD SHIELD
     "TWN_ShieldOfWatcher", -- WATCHER'S SHIELD
     "MAG_Druid_Ironvine_Shield", -- IRONVINE SHIELD
     "MAG_Harpers_ShieldsOfShadows", -- GLOOMSTRAND SHIELD
