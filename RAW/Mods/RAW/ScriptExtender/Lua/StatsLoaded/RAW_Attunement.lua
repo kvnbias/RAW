@@ -75,22 +75,16 @@ ENUM_RAW_AttunementList = {
     "ARM_CircletOfBlasting",
     "ARM_HeadbandOfIntellect",
     "ARM_RingOfPoisonResistance",
-    "ARM_TalismanOfJergal",
-    "CHA_OutpostJewelry",
     "CRE_Hatchery_AcidPoisonImmunity_Boots",
-    "CRE_MAG_Githborn_Amulet",
     "CRE_MAG_Psychic_Githborn_Circlet",
     "DEN_HellridersPride",
     "FOR_DeathOfATrueSoul_TrueSoul_Ring",
     "FOR_NightWalkers",
     "FOR_OgresForHire_HeadbandOfIntellect",
     "FOR_OwlbearCubs_Armor",
-    "GOB_DrowCommander_Amulet",
     "GOB_DrowCommander_Leather_Armor",
     "LOW_JannathRing_Ring",
     "LOW_KerriRing_Ring",
-    "LOW_OfWindrider_Amulet",
-    "LOW_PendulumOfMalagard",
     "MAG_Acid_AcidDamageOnWeaponAttack_Ring",
     "MAG_Acid_AcidMeleeCounter_Cloak",
     "MAG_Acid_NoxiousFumes_Gloves",
@@ -115,7 +109,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Bhaalist_Armor",
     "MAG_Bhaalist_Gloves",
     "MAG_Bhaalist_Hat",
-    "MAG_BlackTentacle_Amulet",
     "MAG_BonusAttack_AgainstMarked_Circlet",
     "MAG_CKM_SerpenScale_Armor",
     "MAG_CQCaster_ArcaneChargeAfterDash_Boots",
@@ -128,9 +121,7 @@ ENUM_RAW_AttunementList = {
     "MAG_ChargedLightning_ElectricSurface_Boots",
     "MAG_ChargedLightning_Electrocute_Armor",
     "MAG_ChargedLightning_EnsnaringShock_Ring",
-    "MAG_ChargedLightning_LightningBlast_Amulet",
     "MAG_ChargedLightning_Resistance_Ring",
-    "MAG_ChargedLightning_StaticDischarge_Amulet",
     "MAG_ChargedLightning_TempHP_Helmet",
     "MAG_CharismaCaster_Robe",
     "MAG_Critical_ArcanicCritical_Gloves",
@@ -151,7 +142,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Druid_Wildshape_Hat",
     "MAG_ElementalGish_AbsorbElements_Cloak",
     "MAG_ElementalGish_BaneOnElementalWeaponDamage_Gloves",
-    "MAG_ElementalGish_CantripBooster_Amulet",
     "MAG_ElementalGish_ElementalInfusion_Ring",
     "MAG_EndGameCaster_Cloak",
     "MAG_EndGameCaster_Hood",
@@ -179,18 +169,15 @@ ENUM_RAW_AttunementList = {
     "MAG_Gish_ArcaneSynergy_Ring",
     "MAG_Gish_PsychicDamageBonusWhileConcentrating_Ring",
     "MAG_Gish_TempHPWhileConcentrating_Boots",
-    "MAG_Gish_WeaknessBranding_Amulet",
     "MAG_Githborn_MagicEating_HalfPlate",
     "MAG_GleamingSorcery_Hat",
     "MAG_Gortash_Boots",
     "MAG_Gortash_Cloth",
     "MAG_Gortash_Gloves",
-    "MAG_Harpers_HarpersAmulet",
     "MAG_Harpers_SingingSword",
     "MAG_Hat_Barbarian_Hide",
     "MAG_Hat_Butler",
     "MAG_Healer_DisengageOnHeal_ChainShirt",
-    "MAG_Healer_HPRestoration_Amulet",
     "MAG_Healer_HealSelf_Helmet",
     "MAG_Healer_TempHPOnHeal_Boots",
     "MAG_Heat_Fire_Robe",
@@ -202,23 +189,17 @@ ENUM_RAW_AttunementList = {
     "MAG_Infernal_Plate_Armor",
     "MAG_JusticiarArmor_Gloves",
     "MAG_LC_DrowSpider_Gloves",
-    "MAG_LC_HellishMadness_Amulet",
     "MAG_LC_Jannath_Hat",
     "MAG_LC_Lorroakan_Robe",
     "MAG_LC_Nymph_Cloak",
-    "MAG_LC_TheAmplifier_Amulet",
     "MAG_LC_Umberlee_Protection_Cape",
     "MAG_LC_Umberlee_Regeneration_Boots",
     "MAG_LC_Umberlee_Regeneration_Robe",
-    "MAG_LegendaryEvasion_Amulet",
     "MAG_Lesser_Infernal_Plate_Armor",
     "MAG_LowHP_BonusAction_Helmet",
     "MAG_LowHP_CounterOnDamage_ChainShirt",
-    "MAG_LowHP_IgnoreAttackOfOpportunity_Amulet",
     "MAG_LowHP_IncreaseSpeed_Boots",
-    "MAG_LowHP_IncreasedSpellDamage_Amulet",
     "MAG_LowHP_ResistanceFire_Gloves",
-    "MAG_LuckySeven_Amulet",
     "MAG_MM_Sorcery_SeekingSpell_Gloves",
     "MAG_MeleeDebuff_AttackDebuff1_OnDamage_Helmet",
     "MAG_MeleeDebuff_AttackDebuff1_OnDamage_ScaleMail",
@@ -243,13 +224,11 @@ ENUM_RAW_AttunementList = {
     "MAG_OfAutomaton_Gloves",
     "MAG_OfBlink_Ring",
     "MAG_OfFeywildSparks_Ring",
-    "MAG_OfGreaterSorcery_Amulet",
     "MAG_OfRevivify_Gloves",
     "MAG_OfSharpCaster_Hat",
     "MAG_OfSpellResistance_Robe",
     "MAG_OfSwordmaster_Gloves",
     "MAG_OfTheBalancedHands_Gloves",
-    "MAG_OfTheDevout_Amulet",
     "MAG_OfTheDuelist_Gloves",
     "MAG_OfTheShapeshifter_Mask",
     "MAG_OpenHand_Radiant_Gloves",
@@ -260,10 +239,7 @@ ENUM_RAW_AttunementList = {
     "MAG_PHB_OfJumping_Ring",
     "MAG_PHB_OfRegeneration_Ring",
     "MAG_PHB_OfSoulCatching_Gloves",
-    "MAG_PHB_PeriaptofWoundClosure_Amulet",
     "MAG_PHB_Ring_Of_Protection",
-    "MAG_PHB_ScarabOfProtection_Amulet",
-    "MAG_PHB_ofPower_Pearl_Amulet",
     "MAG_Paladin_LayOnHandsSupport_Gloves",
     "MAG_Paladin_MomentumOnConcentration_Boots",
     "MAG_Paladin_RestoreChannelDivinity_Armor",
@@ -283,7 +259,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Radiant_RadiatingOrb_Gloves",
     "MAG_Radiant_RadiatingOrb_Ring",
     "MAG_Radiant_Radiating_Helmet",
-    "MAG_Restoration_SpellSlotRestoration_Amulet",
     "MAG_RiskyAttack_Ring",
     "MAG_Selunite_Isobel_Robe",
     "MAG_Shadow_BlindImmunity_Ring",
@@ -291,14 +266,10 @@ ENUM_RAW_AttunementList = {
     "MAG_Shadow_ShadowBlade_Ring",
     "MAG_Shadow_Shadowstep_Boots",
     "MAG_Shove_ACboost_Ring",
-    "MAG_SpectatorEye_Amulet",
-    "MAG_TWN_Surgeon_ParalyzingCritical_Amulet",
-    "MAG_Taras_Collar_Amulet",
     "MAG_TerrainWalkers_Boots",
     "MAG_Thunder_ArcaneAcuityOnThunderDamage_Hat",
     "MAG_Thunder_InflictDazeOnReverberatedCreature_Cloak",
     "MAG_Thunder_InflictDazeOnThunderDamage_Ring",
-    "MAG_Thunder_ReverberationOnRangeSpellDamage_Amulet",
     "MAG_Thunder_ReverberationOnStatusApply_Boots",
     "MAG_Thunder_Reverberation_Gloves",
     "MAG_Vampiric_Gloves",
@@ -311,10 +282,8 @@ ENUM_RAW_AttunementList = {
     "MAG_WYRM_UndeadProtector_Robe",
     "MAG_Warlock_Quickened_Gloves",
     "MAG_Warlock_Twinned_Gloves",
-    "MAG_ZOC_RampartAura_Amulet",
     "MAG_Zhentarim_Lockpicking_Gloves",
     "MAG_Zhentarim_Swap_Gloves",
-    "MAG_ofGreaterHealth_Amulet",
     "MOO_Ketheric_Armor",
     "ORI_Wyll_Infernal_Robe",
     "PLA_ZhentCave_Gloves",
@@ -322,23 +291,14 @@ ENUM_RAW_AttunementList = {
     "Quest_GLO_DevilDeal_ResurrectRod",
     "Quest_GLO_Moonlantern",
     "Quest_GLO_Moonlantern_Gale",
-    "Quest_SCL_Moonblade",
-    "SCE_KhalidsGift",
     "SCL_SpidersLyre",
     "SHA_JusticiarArmor_Gloves",
     "SHA_SandthiefsRing",
-    "TWN_NecklaceOfCharming",
-    "TWN_RegretfulHunter_SoulAmulet",
     "UND_DeadInWater_CallarduranTrinket",
     "UND_KC_RingOfAbsolute",
-    "UND_MonkAmulet_Amulet",
     "UND_Myco_Alchemist_HealerGloves",
-    "UND_MyconidAmulet_Evil",
-    "UND_MyconidAmulet_Good",
     "UND_ShadowOfMenzoberranzan",
-    "UND_SocietyOfBrilliance_MagicMissileNecklace",
     "UND_SocietyOfBrilliance_PullingRing",
-    "UND_Tower_AmuletDetectThoughts",
     "UND_Tower_BootsFeatherFall",
     "UND_Tower_RingLight",
     "UNI_ARM_OfArchery_Gloves",
@@ -352,13 +312,92 @@ ENUM_RAW_AttunementList = {
     "UNI_DarkJusticiar_Helmet",
     "UNI_DarkUrge_Bhaal_Cloak",
     "UNI_GLO_Orin_TeleportRing",
-    "UNI_MartyrAmulet",
     "UNI_MassHealRing",
     "UNI_Ravengard_Plate",
     "UNI_RobeOfSummer",
     "UNI_SHA_DarkJusticiar_Boots",
     "WYR_Circus_TeleportBoots",
 
+    ----------------------------------------- ACCESSORIES ----------------------------------------- 
+
+    -- NOT INCLUDED IN ATTUNEMENT
+    "MAG_TheOptimist_Amulet", -- ABSOLUTE CONFIDENCE AMULET
+    "GOB_Priest_Amulet", -- ABSOLUTE'S TALISMAN
+    "QUEST_LOW_Bhaal_Amulet", -- AMULET OF BHAAL
+    "UNI_GOB_SeluneAmulet", -- AMULET OF SELÛNE'S CHOSEN
+    "DEN_BearReward_Amulet", -- AMULET OF SILVANUS
+    "MAG_EGW_OfTheDrunkard_Amulet", -- AMULET OF THE DRUNKARD
+    "UND_Minotaur_BeltAmulet", -- AMULET OF THE UNWORTHY
+    "GOB_Pens_BeastmasterAmulet", -- BEASTMASTER'S CHAIN
+    "MAG_Healer_HealSelfPoisonWeapon_Amulet", -- BROODMOTHER'S REVENGE
+    "MAG_Greenstone_Amulet", -- FEY SEMBLANCE AMULET
+    "MAG_Fire_HeatOnTakingFireDamage_Amulet", -- FIREHEART
+    "MAG_Frost_Frostbite_Amulet", -- FROST PRINCE
+    "MAG_Shadow_FogCloud_Amulet", -- HAMMERGRIM MIST AMULET
+    "DEN_Arabella_Locket", -- KOMIRA'S LOCKET
+    "MAG_SecondChance_Amulet", -- MAGIC AMULET
+    "MAG_Illithid_MindTax_Amulet", -- SYNAPTIC NEEDLE AMULET
+    "ARM_HAG_Phylactery", -- TARNISHED CHARM
+    "HAG_EyeballNecklace", -- THE EVER-SEEING EYE
+    "MAG_WYRM_SleepImmunity_Amulet ", -- WAKEFUL AMULET
+
+    -- IN ATTUNEMENT --
+    "CRE_MAG_Githborn_Amulet", -- ABERRATION HUNTERS' AMULET
+    "MAG_Gish_WeaknessBranding_Amulet", -- AMULET OF BRANDING
+    "UNI_MartyrAmulet", -- AMULET OF ELEMENTAL TORMENT
+    "MAG_ofGreaterHealth_Amulet", -- AMULET OF GREATER HEALTH
+    "GOB_DrowCommander_Amulet", -- AMULET OF MISTY STEP
+    "MAG_Healer_HPRestoration_Amulet", -- AMULET OF RESTORATION
+    "LOW_OfWindrider_Amulet", -- AMULET OF WINDRIDER
+    "MAG_OfTheDevout_Amulet", -- AMULET OF THE DEVOUT
+    "MAG_Harpers_HarpersAmulet", -- AMULET OF THE HARPERS
+    "UND_MyconidAmulet_Evil", -- CHAMPION'S CHAIN
+    "MAG_LuckySeven_Amulet", -- CORVID TOKEN
+    "UND_MyconidAmulet_Good", -- ENVOY'S AMULET
+    "MAG_LowHP_IgnoreAttackOfOpportunity_Amulet", -- MOONDROP PENDANT
+    "SCE_KhalidsGift", -- KHALID'S GIFT
+    "MAG_LC_HellishMadness_Amulet", -- KRUZNABIR'S ASYLUM AMULET
+    "MAG_ChargedLightning_StaticDischarge_Amulet", -- LIGHTNING AURA AMULET
+    "MAG_OfGreaterSorcery_Amulet", -- LOFTY SORCERER'S AMULET
+    "MAG_ElementalGish_CantripBooster_Amulet", -- NECKLACE OF ELEMENTAL AUGMENTATION
+    "MAG_PHB_ofPower_Pearl_Amulet", -- PEARL OF POWER AMULET
+    "MAG_PHB_PeriaptofWoundClosure_Amulet", -- PERIAPT OF WOUND CLOSURE
+    "UND_SocietyOfBrilliance_MagicMissileNecklace", -- PSYCHIC SPARK
+    "MAG_PHB_ScarabOfProtection_Amulet", -- SCARAB OF PROTECTION
+    "UND_MonkAmulet_Amulet", -- SENTIENT AMULET
+    "TWN_NecklaceOfCharming", -- SHAR'S TEMPTATION
+    "CHA_OutpostJewelry", -- SILVER PENDANT
+    "MAG_LC_TheAmplifier_Amulet", -- SPELL SAVANT AMULET
+    "MAG_Restoration_SpellSlotRestoration_Amulet", -- SPELLCRUX AMULET
+    "MAG_Thunder_ReverberationOnRangeSpellDamage_Amulet", -- SPINESHUDDER AMULET
+    "MAG_BlackTentacle_Amulet", -- STRANGE TENDRIL AMULET
+    "MAG_TWN_Surgeon_ParalyzingCritical_Amulet", -- SURGEON'S SUBJUGATION AMULET
+    "ARM_TalismanOfJergal", -- THE AMULET OF LOST VOICES
+    "MAG_ChargedLightning_LightningBlast_Amulet", -- THE BLAST PENDANT
+    "MAG_SpectatorEye_Amulet", -- THE SPECTATOR EYES
+    "MAG_ZOC_RampartAura_Amulet", -- TREACLEFLOW AMULET
+    "MAG_Taras_Collar_Amulet", -- TRESSYM COLLAR
+    "UND_Tower_AmuletDetectThoughts", -- UNCOVERED MYSTERIES
+    "MAG_LegendaryEvasion_Amulet", -- UNFLINCHING PROTECTOR AMULET
+    "MAG_LowHP_IncreasedSpellDamage_Amulet", -- ILMATER'S AID
+
+    -- SUMMONS/NPC/???
+    -- "LOW_PendulumOfMalagard", -- PENDULUM OF MALAGARD
+    -- "TWN_RegretfulHunter_SoulAmulet",
+
+    -- MISSING ID
+
+    -------------------------------------------- ARMOR -------------------------------------------- 
+
+    -- NOT INCLUDED IN ATTUNEMENT
+
+    -- IN ATTUNEMENT
+
+    -- SUMMONS/NPC/???
+
+    -- MISSING ID
+
+    ------------------------------------------- WEAPONS ------------------------------------------- 
 
     -- NOT INCLUDED IN ATTUNEMENT
     --- CLUB
@@ -400,7 +439,7 @@ ENUM_RAW_AttunementList = {
     "MAG_Vicious_Battleaxe", -- VICIOUS BATTLEAXE
     "MAG_Spellbreaker_Battleaxe", -- WITCHBREAKER
     --- DAGGER
-    "WPN_Syringe", -- SYRINGE
+    -- "WPN_Syringe", -- SYRINGE
     "MAG_Surgeon_Syringe", -- SURGEON SYRINGE
     "DLC_DD_WPN_Sebilles_Needle", -- NEEDLE OF THE OUTLAW ROGUE (DLC SEBILLE)
     "GOB_PainPriest_Dagger", -- RITUAL DAGGER
@@ -651,12 +690,13 @@ ENUM_RAW_AttunementList = {
     "MAG_WoodWoad_Nature_Shield", -- WOOD WOAD SHIELD
 
     -- UNCATEGORIZED WEAPONS
-    "WPN_Bonesaw",
+    -- "WPN_Bonesaw",
     "MAG_Surgeon_Bonesaw",
-    "WPN_Leech",
+    -- "WPN_Leech",
     "MAG_Surgeon_Leech",
 
     -- SUMMONS/NPC/???
+        -- "Quest_SCL_Moonblade",
         -- "HAV_MAG_ShadowRending_Dagger",
         -- "WPN_Club_WoodWoad_Conjure",
         -- "WPN_SkullFlail_1",
