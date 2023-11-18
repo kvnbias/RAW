@@ -81,7 +81,6 @@ ENUM_RAW_AttunementList = {
     "FOR_OgresForHire_HeadbandOfIntellect",
     "FOR_OwlbearCubs_Armor",
     "GOB_DrowCommander_Leather_Armor",
-    "MAG_Acid_AcidMeleeCounter_Cloak",
     "MAG_Acid_NoxiousFumes_Gloves",
     "MAG_Acrobat_Shoes",
     "MAG_Arcanist_Gloves",
@@ -109,7 +108,6 @@ ENUM_RAW_AttunementList = {
     "MAG_CQCaster_ArcaneChargeAfterDash_Boots",
     "MAG_CQCaster_CloseRangedSpellMastery_Gloves",
     "MAG_CQCaster_GainArcaneChargeOnDamaged_Robe",
-    "MAG_CQCaster_TempHPAfterCast_Cloak",
     "MAG_ChargedLightning_AbilityCheckBoost_Gloves",
     "MAG_ChargedLightning_BonusAC_Robe",
     "MAG_ChargedLightning_Dash_Boots",
@@ -121,7 +119,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Critical_BolsteringCritical_Armor",
     "MAG_Critical_CriticalSwiftness_Boots",
     "MAG_Critical_Force_Gloves",
-    "MAG_Critical_HidingCritical_Cloak",
     "MAG_DarkJusticiar_HalfPlate",
     "MAG_DevilsBlackmith_ScaleMail",
     "MAG_Druid_Land_Magic_Leather_Armor",
@@ -132,9 +129,7 @@ ENUM_RAW_AttunementList = {
     "MAG_Druid_Moon_Magic_Leather_Armor",
     "MAG_Druid_Spore_Magic_Leather_Armor",
     "MAG_Druid_Wildshape_Hat",
-    "MAG_ElementalGish_AbsorbElements_Cloak",
     "MAG_ElementalGish_BaneOnElementalWeaponDamage_Gloves",
-    "MAG_EndGameCaster_Cloak",
     "MAG_EndGameCaster_Hood",
     "MAG_EndGameCaster_Robe",
     "MAG_EndGame_HalfPlate",
@@ -147,7 +142,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Fire_ApplyBurningOnFireDamage_Gloves",
     "MAG_Fire_ArcaneAcuityOnFireDamage_Hat",
     "MAG_Fire_BonusActionOnFireSpell_Circlet",
-    "MAG_Fire_BurningOnDamaged_Cloak",
     "MAG_Fire_HeatOnInflictBurning_Boots",
     "MAG_FlamingFist_BattleWizardGloves",
     "MAG_FlamingFist_Flame_Armor",
@@ -178,8 +172,6 @@ ENUM_RAW_AttunementList = {
     "MAG_LC_DrowSpider_Gloves",
     "MAG_LC_Jannath_Hat",
     "MAG_LC_Lorroakan_Robe",
-    "MAG_LC_Nymph_Cloak",
-    "MAG_LC_Umberlee_Protection_Cape",
     "MAG_LC_Umberlee_Regeneration_Boots",
     "MAG_LC_Umberlee_Regeneration_Robe",
     "MAG_Lesser_Infernal_Plate_Armor",
@@ -216,19 +208,14 @@ ENUM_RAW_AttunementList = {
     "MAG_OfTheDuelist_Gloves",
     "MAG_OfTheShapeshifter_Mask",
     "MAG_OpenHand_Radiant_Gloves",
-    "MAG_PHB_CloakOfDisplacement_Cloak",
-    "MAG_PHB_CloakOfProtection_Cloak",
     "MAG_PHB_OfSoulCatching_Gloves",
     "MAG_Paladin_LayOnHandsSupport_Gloves",
     "MAG_Paladin_MomentumOnConcentration_Boots",
     "MAG_Paladin_RestoreChannelDivinity_Armor",
     "MAG_Paladin_SmiteSpellsSupport_Helmet",
-    "MAG_Poison_InflictPoisonHealSelf_Cloak",
     "MAG_Poison_PoisonExposure_Gloves",
-    "MAG_Psychic_MentalFatigue_Cape",
     "MAG_Psychic_MentalFatigue_Gloves",
     "MAG_Psychic_PsychicFeedback_Armor",
-    "MAG_Radiant_CrusaderMantle_Cloak",
     "MAG_Radiant_RadiatingOrb_Armor",
     "MAG_Radiant_RadiatingOrb_Gloves",
     "MAG_Radiant_Radiating_Helmet",
@@ -237,7 +224,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Shadow_Shadowstep_Boots",
     "MAG_TerrainWalkers_Boots",
     "MAG_Thunder_ArcaneAcuityOnThunderDamage_Hat",
-    "MAG_Thunder_InflictDazeOnReverberatedCreature_Cloak",
     "MAG_Thunder_ReverberationOnStatusApply_Boots",
     "MAG_Thunder_Reverberation_Gloves",
     "MAG_Vampiric_Gloves",
@@ -272,7 +258,6 @@ ENUM_RAW_AttunementList = {
     "UNI_ARM_Sarevok_Horned_Helmet",
     "UNI_DarkJusticiarArmor_HalfPlate",
     "UNI_DarkJusticiar_Helmet",
-    "UNI_DarkUrge_Bhaal_Cloak",
     "UNI_Ravengard_Plate",
     "UNI_RobeOfSummer",
     "UNI_SHA_DarkJusticiar_Boots",
@@ -281,8 +266,27 @@ ENUM_RAW_AttunementList = {
     -------------------------------------------- ARMOR -------------------------------------------- 
 
     -- NOT INCLUDED IN ATTUNEMENT
+    --- CLOAK
+    "MAG_Shadow_FogOfCloudDisengage_Cloak", -- CLOAK OF CUNNING BRUME
+    "WYR_Circus_WetCloak", -- REVERSE RAIN CLOAK
 
     -- IN ATTUNEMENT
+    --- CLOAK
+    "MAG_Psychic_MentalFatigue_Cape", -- BRAINDRAIN CAPE
+    "MAG_Fire_BurningOnDamaged_Cloak", -- CINDERMOTH CLOAK
+    "MAG_PHB_CloakOfDisplacement_Cloak", -- CLOAK OF DISPLACEMENT
+    "MAG_ElementalGish_AbsorbElements_Cloak", -- CLOAK OF ELEMENTAL ABSORPTION
+    "MAG_PHB_CloakOfProtection_Cloak", -- CLOAK OF PROTECTION
+    "MAG_EndGameCaster_Cloak", -- CLOAK OF THE WEAVE
+    "MAG_Poison_InflictPoisonHealSelf_Cloak", -- DERIVATION CLOAK
+    "MAG_Acid_AcidMeleeCounter_Cloak", -- FLESHMELTER CLOAK
+    "MAG_Radiant_CrusaderMantle_Cloak", -- MANTLE OF THE HOLY WARRIOR
+    "MAG_LC_Nymph_Cloak", -- NYMPH CLOAK
+    "MAG_Critical_HidingCritical_Cloak", -- SHADE-SLAYER CLOAK
+    "UNI_DarkUrge_Bhaal_Cloak", -- THE DEATHSTALKER MANTLE
+    "MAG_Thunder_InflictDazeOnReverberatedCreature_Cloak", -- THUNDERSKIN CLOAK
+    "MAG_CQCaster_TempHPAfterCast_Cloak", -- VIVACIOUS CLOAK
+    "MAG_LC_Umberlee_Protection_Cape", -- WAVEMOTHER'S CLOAK
 
     -- SUMMONS/NPC/???
 
