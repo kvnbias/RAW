@@ -74,18 +74,13 @@ ENUM_RAW_AttunementList = {
     "ARM_BootsOfSpeed",
     "ARM_CircletOfBlasting",
     "ARM_HeadbandOfIntellect",
-    "ARM_RingOfPoisonResistance",
     "CRE_Hatchery_AcidPoisonImmunity_Boots",
     "CRE_MAG_Psychic_Githborn_Circlet",
     "DEN_HellridersPride",
-    "FOR_DeathOfATrueSoul_TrueSoul_Ring",
     "FOR_NightWalkers",
     "FOR_OgresForHire_HeadbandOfIntellect",
     "FOR_OwlbearCubs_Armor",
     "GOB_DrowCommander_Leather_Armor",
-    "LOW_JannathRing_Ring",
-    "LOW_KerriRing_Ring",
-    "MAG_Acid_AcidDamageOnWeaponAttack_Ring",
     "MAG_Acid_AcidMeleeCounter_Cloak",
     "MAG_Acid_NoxiousFumes_Gloves",
     "MAG_Acrobat_Shoes",
@@ -120,13 +115,10 @@ ENUM_RAW_AttunementList = {
     "MAG_ChargedLightning_Dash_Boots",
     "MAG_ChargedLightning_ElectricSurface_Boots",
     "MAG_ChargedLightning_Electrocute_Armor",
-    "MAG_ChargedLightning_EnsnaringShock_Ring",
-    "MAG_ChargedLightning_Resistance_Ring",
     "MAG_ChargedLightning_TempHP_Helmet",
     "MAG_CharismaCaster_Robe",
     "MAG_Critical_ArcanicCritical_Gloves",
     "MAG_Critical_BolsteringCritical_Armor",
-    "MAG_Critical_CriticalExecution_Ring",
     "MAG_Critical_CriticalSwiftness_Boots",
     "MAG_Critical_Force_Gloves",
     "MAG_Critical_HidingCritical_Cloak",
@@ -142,7 +134,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Druid_Wildshape_Hat",
     "MAG_ElementalGish_AbsorbElements_Cloak",
     "MAG_ElementalGish_BaneOnElementalWeaponDamage_Gloves",
-    "MAG_ElementalGish_ElementalInfusion_Ring",
     "MAG_EndGameCaster_Cloak",
     "MAG_EndGameCaster_Hood",
     "MAG_EndGameCaster_Robe",
@@ -158,16 +149,12 @@ ENUM_RAW_AttunementList = {
     "MAG_Fire_BonusActionOnFireSpell_Circlet",
     "MAG_Fire_BurningOnDamaged_Cloak",
     "MAG_Fire_HeatOnInflictBurning_Boots",
-    "MAG_Fire_IncreasedDamage_Ring",
     "MAG_FlamingFist_BattleWizardGloves",
     "MAG_FlamingFist_Flame_Armor",
     "MAG_FlamingFist_FlamingBlade",
-    "MAG_FlamingFist_ScoutRing",
     "MAG_Frost_GenerateFrostOnDamage_Robe",
     "MAG_Frost_IceSurfaceProneImmunity_Boots",
     "MAG_Gish_ArcaneAcuity_Gloves",
-    "MAG_Gish_ArcaneSynergy_Ring",
-    "MAG_Gish_PsychicDamageBonusWhileConcentrating_Ring",
     "MAG_Gish_TempHPWhileConcentrating_Boots",
     "MAG_Githborn_MagicEating_HalfPlate",
     "MAG_GleamingSorcery_Hat",
@@ -205,7 +192,6 @@ ENUM_RAW_AttunementList = {
     "MAG_MeleeDebuff_AttackDebuff1_OnDamage_ScaleMail",
     "MAG_MeleeDebuff_AttackDebuff2_OnDamage_SplintMail",
     "MAG_Mobility_JumpOnDash_Gloves",
-    "MAG_Mobility_LowHP_Momentum_Ring",
     "MAG_Mobility_MomentumOnCombatStart_Helmet",
     "MAG_Mobility_MomentumOnDash_Boots",
     "MAG_Mobility_SprintForMomentum_ChainShirt",
@@ -222,8 +208,6 @@ ENUM_RAW_AttunementList = {
     "MAG_OfArcanicAssault_Robe",
     "MAG_OfArcanicDefense_Robe",
     "MAG_OfAutomaton_Gloves",
-    "MAG_OfBlink_Ring",
-    "MAG_OfFeywildSparks_Ring",
     "MAG_OfRevivify_Gloves",
     "MAG_OfSharpCaster_Hat",
     "MAG_OfSpellResistance_Robe",
@@ -234,42 +218,26 @@ ENUM_RAW_AttunementList = {
     "MAG_OpenHand_Radiant_Gloves",
     "MAG_PHB_CloakOfDisplacement_Cloak",
     "MAG_PHB_CloakOfProtection_Cloak",
-    "MAG_PHB_OfEvasion_Ring",
-    "MAG_PHB_OfFreeAction_Ring",
-    "MAG_PHB_OfJumping_Ring",
-    "MAG_PHB_OfRegeneration_Ring",
     "MAG_PHB_OfSoulCatching_Gloves",
-    "MAG_PHB_Ring_Of_Protection",
     "MAG_Paladin_LayOnHandsSupport_Gloves",
     "MAG_Paladin_MomentumOnConcentration_Boots",
     "MAG_Paladin_RestoreChannelDivinity_Armor",
     "MAG_Paladin_SmiteSpellsSupport_Helmet",
-    "MAG_ParalyzingRay_Ring",
     "MAG_Poison_InflictPoisonHealSelf_Cloak",
     "MAG_Poison_PoisonExposure_Gloves",
     "MAG_Psychic_MentalFatigue_Cape",
     "MAG_Psychic_MentalFatigue_Gloves",
-    "MAG_Psychic_MentalOverload_Ring",
     "MAG_Psychic_PsychicFeedback_Armor",
-    "MAG_Psychic_Staggering_Amulet",
-    "MAG_Psychic_TempHP_Ring",
     "MAG_Radiant_CrusaderMantle_Cloak",
-    "MAG_Radiant_DamageBonusOnIlluminatedTarget_Ring",
     "MAG_Radiant_RadiatingOrb_Armor",
     "MAG_Radiant_RadiatingOrb_Gloves",
-    "MAG_Radiant_RadiatingOrb_Ring",
     "MAG_Radiant_Radiating_Helmet",
-    "MAG_RiskyAttack_Ring",
     "MAG_Selunite_Isobel_Robe",
-    "MAG_Shadow_BlindImmunity_Ring",
     "MAG_Shadow_CriticalBoostWhileObscured_Helmet",
-    "MAG_Shadow_ShadowBlade_Ring",
     "MAG_Shadow_Shadowstep_Boots",
-    "MAG_Shove_ACboost_Ring",
     "MAG_TerrainWalkers_Boots",
     "MAG_Thunder_ArcaneAcuityOnThunderDamage_Hat",
     "MAG_Thunder_InflictDazeOnReverberatedCreature_Cloak",
-    "MAG_Thunder_InflictDazeOnThunderDamage_Ring",
     "MAG_Thunder_ReverberationOnStatusApply_Boots",
     "MAG_Thunder_Reverberation_Gloves",
     "MAG_Vampiric_Gloves",
@@ -278,7 +246,6 @@ ENUM_RAW_AttunementList = {
     "MAG_Violence_ViolenceOnDamaged_Helmet",
     "MAG_Violence_ViolenceOnDash_Boots",
     "MAG_WYRM_OfBalduran_Helmet",
-    "MAG_WYRM_OfTruthTelling_Ring",
     "MAG_WYRM_UndeadProtector_Robe",
     "MAG_Warlock_Quickened_Gloves",
     "MAG_Warlock_Twinned_Gloves",
@@ -293,14 +260,9 @@ ENUM_RAW_AttunementList = {
     "Quest_GLO_Moonlantern_Gale",
     "SCL_SpidersLyre",
     "SHA_JusticiarArmor_Gloves",
-    "SHA_SandthiefsRing",
-    "UND_DeadInWater_CallarduranTrinket",
-    "UND_KC_RingOfAbsolute",
     "UND_Myco_Alchemist_HealerGloves",
     "UND_ShadowOfMenzoberranzan",
-    "UND_SocietyOfBrilliance_PullingRing",
     "UND_Tower_BootsFeatherFall",
-    "UND_Tower_RingLight",
     "UNI_ARM_OfArchery_Gloves",
     "UNI_ARM_OfDefense_Gloves",
     "UNI_ARM_OfGiantHillStrength_Gloves",
@@ -311,16 +273,25 @@ ENUM_RAW_AttunementList = {
     "UNI_DarkJusticiarArmor_HalfPlate",
     "UNI_DarkJusticiar_Helmet",
     "UNI_DarkUrge_Bhaal_Cloak",
-    "UNI_GLO_Orin_TeleportRing",
-    "UNI_MassHealRing",
     "UNI_Ravengard_Plate",
     "UNI_RobeOfSummer",
     "UNI_SHA_DarkJusticiar_Boots",
     "WYR_Circus_TeleportBoots",
 
+    -------------------------------------------- ARMOR -------------------------------------------- 
+
+    -- NOT INCLUDED IN ATTUNEMENT
+
+    -- IN ATTUNEMENT
+
+    -- SUMMONS/NPC/???
+
+    -- MISSING ID
+
     ----------------------------------------- ACCESSORIES ----------------------------------------- 
 
     -- NOT INCLUDED IN ATTUNEMENT
+    --- AMULET
     "MAG_TheOptimist_Amulet", -- ABSOLUTE CONFIDENCE AMULET
     "GOB_Priest_Amulet", -- ABSOLUTE'S TALISMAN
     "QUEST_LOW_Bhaal_Amulet", -- AMULET OF BHAAL
@@ -340,8 +311,41 @@ ENUM_RAW_AttunementList = {
     "ARM_HAG_Phylactery", -- TARNISHED CHARM
     "HAG_EyeballNecklace", -- THE EVER-SEEING EYE
     "MAG_WYRM_SleepImmunity_Amulet", -- WAKEFUL AMULET
+    --- RING
+    "MAG_ArcaneTrickster_Ring", -- BAND OF THE MYSTIC SCOUNDREL
+    "ARM_DrunkGoblinRing", -- CRUSHER'S RING
+    "UNI_WYR_Circus_WheelRing", -- DJINNI RING
+    "UND_MushroomHunger_RingOfExploration", -- EXPLORER'S RING
+    "HAG_HagsRing", -- HAG'S RING
+    "CRA_HermitCrab_Ring", -- HERMIT CRAB
+    "MAG_LOW_Rat_Keepsake_Ring", -- KEEPSAKE RING
+    "MAG_Orpheus_Ring", -- ORPHIC RING
+    "MAG_Poison_PoisonLethality_Ring", -- POISONER'S RING
+    "MAG_Psychic_TempHP_Ring", -- PYSCHIC BOLSTERING RING
+    "MAG_Illithid_CharmPerson_Ring", -- RING OF BEGUILING
+    "DEN_HarpyMeal_NestRing", -- RING OF COLOUR SPRAY
+    "MAG_Myrkulites_RingofMyrkul_Ring", -- RING OF EXALTED MARROW
+    "MAG_Fire_IncreasedDamage_Ring", -- RING OF FIRE
+    "MAG_Harpers_RingOfProjection", -- RING OF FLINGING
+    "MAG_Harpers_RingOfAttraction", -- RING OF GENIALITY
+    "UNI_UND_RingOfMindShielding", -- RING OF MIND-SHIELDING
+    "MAG_Fire_SelfImmolation_Ring", -- RING OF SELF IMMOLATION
+    "MAG_PassWithoutTrace_Ring", -- RING OF SHADOWS
+    "MAG_Harpers_RingOfTwilight", -- RING OF TWILIGHT
+    "MAG_TheOptimist_Ring", -- SEEMINGLY GLEAMING RING
+    "SCL_MastiffPoachers_Ring", -- SHADOW-CLOAKED RING
+    "MAG_ShapeshiftersBurgeon_Ring", -- SHAPESHIFTER'S BOON RING
+    "MAG_FlamingFist_ScoutRing", -- SHIFTING CORPUS RING
+    "PLA_SmugglerRing", -- SMUGGLER'S RING
+    "MAG_Frost_GenerateSurfaceOnColdDamage_Ring", -- SNOWBURST RING
+    "UND_SocietyOfBrilliance_DarkvisionRing", -- SUNWALKER'S GIFT
+    "UND_Tower_RingArcana", -- THE MAGE'S FRIEND
+    "TWN_BondedByLove_WifesRing", -- TRUE LOVE'S CARESS
+    "TWN_BondedByLove_HusbandsRing", -- TRUE LOVE'S EMBRACE
+    "MAG_OfUndeadServant_Ring", -- CRYPT LORD RING
 
     -- IN ATTUNEMENT --
+    --- AMULET
     "CRE_MAG_Githborn_Amulet", -- ABERRATION HUNTERS' AMULET
     "MAG_Gish_WeaknessBranding_Amulet", -- AMULET OF BRANDING
     "UNI_MartyrAmulet", -- AMULET OF ELEMENTAL TORMENT
@@ -380,22 +384,53 @@ ENUM_RAW_AttunementList = {
     "UND_Tower_AmuletDetectThoughts", -- UNCOVERED MYSTERIES
     "MAG_LegendaryEvasion_Amulet", -- UNFLINCHING PROTECTOR AMULET
     "MAG_LowHP_IncreasedSpellDamage_Amulet", -- ILMATER'S AID
+    "MAG_Psychic_Staggering_Amulet", -- STAGGERING AMULET
+    --- RING
+    "MAG_ChargedLightning_EnsnaringShock_Ring", -- A SPARKING PROMISE
+    "FOR_DeathOfATrueSoul_TrueSoul_Ring", -- ABSOLUTE'S SMITE
+    "LOW_KerriRing_Ring", -- AFTER DEATH DO US PART
+    "MAG_Shove_ACboost_Ring", -- BRACING BAND
+    "MAG_ParalyzingRay_Ring", -- BURNISHED RING
+    "MAG_Radiant_DamageBonusOnIlluminatedTarget_Ring", -- CALLOUS GLOW RING
+    "MAG_Acid_AcidDamageOnWeaponAttack_Ring", -- CAUSTIC BAND
+    "MAG_Radiant_RadiatingOrb_Ring", -- CORUSCATION RING
+    "MAG_Shadow_BlindImmunity_Ring", -- EVERSIGHT RING
+    "UND_DeadInWater_CallarduranTrinket", -- FETISH OF CALLARDURAN SMOOTHHANDS
+    "UND_Tower_RingLight", -- GUIDING LIGHT
+    "MAG_Critical_CriticalExecution_Ring", -- KILLER'S SWEETHEART
+    "UNI_GLO_Orin_TeleportRing", -- ORIN'S TEMPLE RING
+    "UND_KC_RingOfAbsolute", -- RING OF ABSOLUTE FORCE
+    "MAG_Gish_ArcaneSynergy_Ring", -- RING OF ARCANE SYNERGY
+    "MAG_OfBlink_Ring", -- RING OF BLINK
+    "MAG_ElementalGish_ElementalInfusion_Ring", -- RING OF ELEMENTAL INFUSION
+    "MAG_PHB_OfEvasion_Ring", -- RING OF EVASION
+    "MAG_OfFeywildSparks_Ring", -- RING OF FEYWILD SPARKS
+    "MAG_PHB_OfFreeAction_Ring", -- RING OF FREE ACTION
+    "MAG_PHB_OfJumping_Ring", -- RING OF JUMPING
+    "MAG_Psychic_MentalOverload_Ring", -- RING OF MENTAL INHIBITION
+    "ARM_RingOfPoisonResistance", -- RING OF POISON RESISTANCE
+    "MAG_PHB_Ring_Of_Protection", -- RING OF PROTECTION
+    "MAG_PHB_OfRegeneration_Ring", -- RING OF REGENERATION
+    "UND_SocietyOfBrilliance_PullingRing", -- RING OF SALVING
+    "MAG_Thunder_InflictDazeOnThunderDamage_Ring", -- RING OF SPITEFUL THUNDER
+    "MAG_WYRM_OfTruthTelling_Ring", -- RING OF TRUTHFULNESS
+    "MAG_RiskyAttack_Ring", -- RISKY RING
+    "SHA_SandthiefsRing", -- SANDTHIEF'S RING
+    "MAG_Shadow_ShadowBlade_Ring", -- SHADOW BLADE RING
+    "MAG_Mobility_LowHP_Momentum_Ring", -- SPURRED BAND
+    "MAG_Gish_PsychicDamageBonusWhileConcentrating_Ring", -- STRANGE CONDUIT RING
+    "MAG_ChargedLightning_Resistance_Ring", -- THE SPARKSWALL
+    "UNI_MassHealRing", -- THE WHISPERING PROMISE
+    "LOW_JannathRing_Ring", -- TILL DEATH DO US PART
+    "MAG_Psychic_TempHP_Ring", -- PYSCHIC BOLSTERING RING
 
     -- SUMMONS/NPC/???
-    -- "LOW_PendulumOfMalagard", -- PENDULUM OF MALAGARD
-    -- "TWN_RegretfulHunter_SoulAmulet",
+        -- "LOW_PendulumOfMalagard", -- PENDULUM OF MALAGARD
+        -- "TWN_RegretfulHunter_SoulAmulet",
 
     -- MISSING ID
-
-    -------------------------------------------- ARMOR -------------------------------------------- 
-
-    -- NOT INCLUDED IN ATTUNEMENT
-
-    -- IN ATTUNEMENT
-
-    -- SUMMONS/NPC/???
-
-    -- MISSING ID
+        -- FAMILY RING
+        -- TARNISHED RING
 
     ------------------------------------------- WEAPONS ------------------------------------------- 
 
