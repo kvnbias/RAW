@@ -71,20 +71,15 @@ end
 -- Source: https://docs.google.com/spreadsheets/d/1yCJ9ITC180dqykK713iHMEsrvVOHkgOmLF882-yr_hQ/edit#gid=0&fvid=1734738953
 ENUM_RAW_AttunementList = {
     "ACT1_HAG_HagMask",
-    "ARM_BootsOfSpeed",
     "ARM_CircletOfBlasting",
     "ARM_HeadbandOfIntellect",
-    "CRE_Hatchery_AcidPoisonImmunity_Boots",
     "CRE_MAG_Psychic_Githborn_Circlet",
     "DEN_HellridersPride",
-    "FOR_NightWalkers",
     "FOR_OgresForHire_HeadbandOfIntellect",
     "FOR_OwlbearCubs_Armor",
     "GOB_DrowCommander_Leather_Armor",
     "MAG_Acid_NoxiousFumes_Gloves",
-    "MAG_Acrobat_Shoes",
     "MAG_Arcanist_Gloves",
-    "MAG_BG_Gargoyle_Boots",
     "MAG_BG_OfCrushing_Gloves",
     "MAG_BG_OfDexterity_Gloves",
     "MAG_BG_OfTheMasters_Legacy_Gauntlet",
@@ -95,29 +90,23 @@ ENUM_RAW_AttunementList = {
     "MAG_BarbMonk_Offensive_Cloth",
     "MAG_Barbarian_BoneSpike_Armor",
     "MAG_Barbarian_BoneSpike_Helmet",
-    "MAG_Barbarian_BoneSpike_Shoes",
     "MAG_Barbarian_Magic_Armor_1",
     "MAG_Bard_HealingBardicInspiration_Hat",
-    "MAG_Bard_RefreshBardicInspirationSlot_Shoes",
     "MAG_Bard_TempHP_Armor",
     "MAG_Bhaalist_Armor",
     "MAG_Bhaalist_Gloves",
     "MAG_Bhaalist_Hat",
     "MAG_BonusAttack_AgainstMarked_Circlet",
     "MAG_CKM_SerpenScale_Armor",
-    "MAG_CQCaster_ArcaneChargeAfterDash_Boots",
     "MAG_CQCaster_CloseRangedSpellMastery_Gloves",
     "MAG_CQCaster_GainArcaneChargeOnDamaged_Robe",
     "MAG_ChargedLightning_AbilityCheckBoost_Gloves",
     "MAG_ChargedLightning_BonusAC_Robe",
-    "MAG_ChargedLightning_Dash_Boots",
-    "MAG_ChargedLightning_ElectricSurface_Boots",
     "MAG_ChargedLightning_Electrocute_Armor",
     "MAG_ChargedLightning_TempHP_Helmet",
     "MAG_CharismaCaster_Robe",
     "MAG_Critical_ArcanicCritical_Gloves",
     "MAG_Critical_BolsteringCritical_Armor",
-    "MAG_Critical_CriticalSwiftness_Boots",
     "MAG_Critical_Force_Gloves",
     "MAG_DarkJusticiar_HalfPlate",
     "MAG_DevilsBlackmith_ScaleMail",
@@ -133,26 +122,20 @@ ENUM_RAW_AttunementList = {
     "MAG_EndGameCaster_Hood",
     "MAG_EndGameCaster_Robe",
     "MAG_EndGame_HalfPlate",
-    "MAG_EndGame_Metal_Boots",
     "MAG_EndGame_Plate_Armor",
     "MAG_EndGame_StuddedLeather_Armor",
     "MAG_Enforcer_RejunevatingKnock_Helmet",
-    "MAG_Evasive_Shoes",
     "MAG_Fighter_ActionSurge_AttackBonus_Gloves",
     "MAG_Fire_ApplyBurningOnFireDamage_Gloves",
     "MAG_Fire_ArcaneAcuityOnFireDamage_Hat",
     "MAG_Fire_BonusActionOnFireSpell_Circlet",
-    "MAG_Fire_HeatOnInflictBurning_Boots",
     "MAG_FlamingFist_BattleWizardGloves",
     "MAG_FlamingFist_Flame_Armor",
     "MAG_FlamingFist_FlamingBlade",
     "MAG_Frost_GenerateFrostOnDamage_Robe",
-    "MAG_Frost_IceSurfaceProneImmunity_Boots",
     "MAG_Gish_ArcaneAcuity_Gloves",
-    "MAG_Gish_TempHPWhileConcentrating_Boots",
     "MAG_Githborn_MagicEating_HalfPlate",
     "MAG_GleamingSorcery_Hat",
-    "MAG_Gortash_Boots",
     "MAG_Gortash_Cloth",
     "MAG_Gortash_Gloves",
     "MAG_Harpers_SingingSword",
@@ -160,11 +143,9 @@ ENUM_RAW_AttunementList = {
     "MAG_Hat_Butler",
     "MAG_Healer_DisengageOnHeal_ChainShirt",
     "MAG_Healer_HealSelf_Helmet",
-    "MAG_Healer_TempHPOnHeal_Boots",
     "MAG_Heat_Fire_Robe",
     "MAG_Illithid_Carapace_Armor",
     "MAG_Illithid_Regen_Circlet",
-    "MAG_Infernal_Metal_Boots",
     "MAG_Infernal_Metal_Gloves",
     "MAG_Infernal_Metal_Helmet",
     "MAG_Infernal_Plate_Armor",
@@ -172,12 +153,10 @@ ENUM_RAW_AttunementList = {
     "MAG_LC_DrowSpider_Gloves",
     "MAG_LC_Jannath_Hat",
     "MAG_LC_Lorroakan_Robe",
-    "MAG_LC_Umberlee_Regeneration_Boots",
     "MAG_LC_Umberlee_Regeneration_Robe",
     "MAG_Lesser_Infernal_Plate_Armor",
     "MAG_LowHP_BonusAction_Helmet",
     "MAG_LowHP_CounterOnDamage_ChainShirt",
-    "MAG_LowHP_IncreaseSpeed_Boots",
     "MAG_LowHP_ResistanceFire_Gloves",
     "MAG_MM_Sorcery_SeekingSpell_Gloves",
     "MAG_MeleeDebuff_AttackDebuff1_OnDamage_Helmet",
@@ -185,7 +164,6 @@ ENUM_RAW_AttunementList = {
     "MAG_MeleeDebuff_AttackDebuff2_OnDamage_SplintMail",
     "MAG_Mobility_JumpOnDash_Gloves",
     "MAG_Mobility_MomentumOnCombatStart_Helmet",
-    "MAG_Mobility_MomentumOnDash_Boots",
     "MAG_Mobility_SprintForMomentum_ChainShirt",
     "MAG_Monk_Cold_Gloves",
     "MAG_Monk_Fire_Gloves",
@@ -210,7 +188,6 @@ ENUM_RAW_AttunementList = {
     "MAG_OpenHand_Radiant_Gloves",
     "MAG_PHB_OfSoulCatching_Gloves",
     "MAG_Paladin_LayOnHandsSupport_Gloves",
-    "MAG_Paladin_MomentumOnConcentration_Boots",
     "MAG_Paladin_RestoreChannelDivinity_Armor",
     "MAG_Paladin_SmiteSpellsSupport_Helmet",
     "MAG_Poison_PoisonExposure_Gloves",
@@ -221,16 +198,12 @@ ENUM_RAW_AttunementList = {
     "MAG_Radiant_Radiating_Helmet",
     "MAG_Selunite_Isobel_Robe",
     "MAG_Shadow_CriticalBoostWhileObscured_Helmet",
-    "MAG_Shadow_Shadowstep_Boots",
-    "MAG_TerrainWalkers_Boots",
     "MAG_Thunder_ArcaneAcuityOnThunderDamage_Hat",
-    "MAG_Thunder_ReverberationOnStatusApply_Boots",
     "MAG_Thunder_Reverberation_Gloves",
     "MAG_Vampiric_Gloves",
     "MAG_Viconia_Robe",
     "MAG_Violence_LowHP_Violence_Clothes",
     "MAG_Violence_ViolenceOnDamaged_Helmet",
-    "MAG_Violence_ViolenceOnDash_Boots",
     "MAG_WYRM_OfBalduran_Helmet",
     "MAG_WYRM_UndeadProtector_Robe",
     "MAG_Warlock_Quickened_Gloves",
@@ -240,7 +213,6 @@ ENUM_RAW_AttunementList = {
     "MOO_Ketheric_Armor",
     "ORI_Wyll_Infernal_Robe",
     "PLA_ZhentCave_Gloves",
-    "Quest_DEN_ARM_LuckyBoots",
     "Quest_GLO_DevilDeal_ResurrectRod",
     "Quest_GLO_Moonlantern",
     "Quest_GLO_Moonlantern_Gale",
@@ -248,7 +220,6 @@ ENUM_RAW_AttunementList = {
     "SHA_JusticiarArmor_Gloves",
     "UND_Myco_Alchemist_HealerGloves",
     "UND_ShadowOfMenzoberranzan",
-    "UND_Tower_BootsFeatherFall",
     "UNI_ARM_OfArchery_Gloves",
     "UNI_ARM_OfDefense_Gloves",
     "UNI_ARM_OfGiantHillStrength_Gloves",
@@ -260,8 +231,6 @@ ENUM_RAW_AttunementList = {
     "UNI_DarkJusticiar_Helmet",
     "UNI_Ravengard_Plate",
     "UNI_RobeOfSummer",
-    "UNI_SHA_DarkJusticiar_Boots",
-    "WYR_Circus_TeleportBoots",
 
     -------------------------------------------- ARMOR -------------------------------------------- 
 
@@ -269,6 +238,19 @@ ENUM_RAW_AttunementList = {
     --- CLOAK
     "MAG_Shadow_FogOfCloudDisengage_Cloak", -- CLOAK OF CUNNING BRUME
     "WYR_Circus_WetCloak", -- REVERSE RAIN CLOAK
+    --- BOOTS
+    "MAG_Githborn_PsionicMovement_Boots", -- BOOTS OF PSIONIC MOVEMENT
+    "MAG_OB_Paladin_DeathKnight_Boots", -- BLACKGUARD'S GREAVES
+    "TWN_BootsOfApparentDeath", -- BOOTS OF APPARENT DEATH
+    "MAG_Monk_Magic_Boots", -- BOOTS OF UNINHIBITED KUSHIGO
+    "MAG_Projectile_Shoes", -- SLINGING SHOES
+    "ARM_BootsOfDimensionalDoor", -- SPACESHUNT BOOTS
+    "MAG_Jumping_Shoes", -- SWIRESY SHOES
+    "MAG_Gortash_Boots", -- TYRANNICAL JACKBOOTS
+    "MAG_ElementalGish_MomentumOnElementalDamage_Boots", -- BOOTS OF ELEMENTAL MOMENTUM
+    "MAG_Thunder_ReverberationOnStatusApply_Boots", -- BOOTS OF STORMY CLAMOUR
+    "FOR_SpiderstepBoots", -- SPIDERSTEP BOOTS
+    "MAG_ZOC_ForceConduitWhileSurounded_Boots", -- TENACIOUS BOOTS
 
     -- IN ATTUNEMENT
     --- CLOAK
@@ -287,10 +269,42 @@ ENUM_RAW_AttunementList = {
     "MAG_Thunder_InflictDazeOnReverberatedCreature_Cloak", -- THUNDERSKIN CLOAK
     "MAG_CQCaster_TempHPAfterCast_Cloak", -- VIVACIOUS CLOAK
     "MAG_LC_Umberlee_Protection_Cape", -- WAVEMOTHER'S CLOAK
+    --- BOOTS
+    "MAG_Barbarian_BoneSpike_Shoes", -- BONESPIKE BOOTS
+    "MAG_EndGame_Metal_Boots", -- BOOTS OF PERSISTENCE
+    "FOR_NightWalkers", -- DISINTEGRATING NIGHT WALKERS
+    "MAG_BG_Gargoyle_Boots", -- GARGOYLE BOOTS
+    "MAG_Infernal_Metal_Boots", -- HELLDUSK BOOTS
+    "MAG_Acrobat_Shoes", -- ACROBAT SHOES
+    "MAG_CQCaster_ArcaneChargeAfterDash_Boots", -- BOOTS OF ARCANE BOLSTERING
+    "MAG_Bard_RefreshBardicInspirationSlot_Shoes", -- BOOTS OF BRILLIANCE
+    "MAG_TerrainWalkers_Boots", -- BOOTS OF GENIAL STRIDING
+    "ARM_BootsOfSpeed", -- BOOTS OF SPEED
+    "MAG_Critical_CriticalSwiftness_Boots", -- BRISKWIND BOOTS
+    "UNI_SHA_DarkJusticiar_Boots", -- DARK JUSTICIAR BOOTS
+    "MAG_Evasive_Shoes", -- EVASIVE SHOES
+    "MAG_ChargedLightning_Dash_Boots", -- THE SPEEDY LIGHTFEET
+    "MAG_ChargedLightning_ElectricSurface_Boots", -- THE WATERSPARKERS
+    "MAG_Mobility_MomentumOnDash_Boots", -- SPRINGSTEP BOOTS
+    "MAG_LC_Umberlee_Regeneration_Boots", -- WAVEMOTHER'S BOOTS
+    "MAG_Gish_TempHPWhileConcentrating_Boots", -- VITAL CONDUIT BOOTS
+    "MAG_Fire_HeatOnInflictBurning_Boots", -- CINDER SHOES
+    "MAG_Healer_TempHPOnHeal_Boots", -- BOOTS OF AID AND COMFORT
+    "WYR_Circus_TeleportBoots", -- BOOTS OF VERY FAST BLINKING
+    "MAG_LowHP_IncreaseSpeed_Boots", -- FEATHERLIGHT BOOTS
+    "MAG_Frost_IceSurfaceProneImmunity_Boots", -- HOARFROST BOOTS
+    "UND_Tower_BootsFeatherFall", -- MYSTRA'S GRACE
+    "MAG_Shadow_Shadowstep_Boots", -- SHADOWSTEP BOOTS
+    "CRE_Hatchery_AcidPoisonImmunity_Boots", -- VARSH KO'KUU'S BOOTS
+    "MAG_Paladin_MomentumOnConcentration_Boots", -- BOOTS OF STRIDING
+    "MAG_Violence_ViolenceOnDash_Boots", -- LINEBREAKER BOOTS,
 
     -- SUMMONS/NPC/???
+        -- "Quest_DEN_ARM_LuckyBoots",
 
     -- MISSING ID
+    --- BOOTS
+        -- UNWANTED MASTERWORK GREAVES
 
     ----------------------------------------- ACCESSORIES ----------------------------------------- 
 
