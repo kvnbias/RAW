@@ -271,7 +271,7 @@ ENUM_RAW_AttunementList = {
     "MAG_OfAutomaton_Gloves", -- GLOVES OF THE AUTOMATON
     "MAG_OfTheBalancedHands_Gloves", -- GLOVES OF THE BALANCED HANDS
     "MAG_OfTheDuelist_Gloves", -- GLOVES OF THE DUELLIST
-    "MAG_Infernal_Metal_Gloves" -- HELLDUSK GLOVES
+    "MAG_Infernal_Metal_Gloves", -- HELLDUSK GLOVES
     "DEN_HellridersPride", -- HELLRIDER'S PRIDE
     "UND_Myco_Alchemist_HealerGloves", -- HERBALIST'S GLOVES
     "MAG_Acid_NoxiousFumes_Gloves", -- ICHOROUS GLOVES
