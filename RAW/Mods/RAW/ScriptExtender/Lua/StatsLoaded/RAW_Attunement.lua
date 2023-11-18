@@ -74,17 +74,9 @@ ENUM_RAW_AttunementList = {
     "ARM_CircletOfBlasting",
     "ARM_HeadbandOfIntellect",
     "CRE_MAG_Psychic_Githborn_Circlet",
-    "DEN_HellridersPride",
     "FOR_OgresForHire_HeadbandOfIntellect",
     "FOR_OwlbearCubs_Armor",
     "GOB_DrowCommander_Leather_Armor",
-    "MAG_Acid_NoxiousFumes_Gloves",
-    "MAG_Arcanist_Gloves",
-    "MAG_BG_OfCrushing_Gloves",
-    "MAG_BG_OfDexterity_Gloves",
-    "MAG_BG_OfTheMasters_Legacy_Gauntlet",
-    "MAG_BG_Wondrous_Gloves",
-    "MAG_Banites_Gloves",
     "MAG_BarbMonk_Cloth_Hat_A_1_Late",
     "MAG_BarbMonk_Defensive_Cloth",
     "MAG_BarbMonk_Offensive_Cloth",
@@ -94,20 +86,15 @@ ENUM_RAW_AttunementList = {
     "MAG_Bard_HealingBardicInspiration_Hat",
     "MAG_Bard_TempHP_Armor",
     "MAG_Bhaalist_Armor",
-    "MAG_Bhaalist_Gloves",
     "MAG_Bhaalist_Hat",
     "MAG_BonusAttack_AgainstMarked_Circlet",
     "MAG_CKM_SerpenScale_Armor",
-    "MAG_CQCaster_CloseRangedSpellMastery_Gloves",
     "MAG_CQCaster_GainArcaneChargeOnDamaged_Robe",
-    "MAG_ChargedLightning_AbilityCheckBoost_Gloves",
     "MAG_ChargedLightning_BonusAC_Robe",
     "MAG_ChargedLightning_Electrocute_Armor",
     "MAG_ChargedLightning_TempHP_Helmet",
     "MAG_CharismaCaster_Robe",
-    "MAG_Critical_ArcanicCritical_Gloves",
     "MAG_Critical_BolsteringCritical_Armor",
-    "MAG_Critical_Force_Gloves",
     "MAG_DarkJusticiar_HalfPlate",
     "MAG_DevilsBlackmith_ScaleMail",
     "MAG_Druid_Land_Magic_Leather_Armor",
@@ -118,26 +105,20 @@ ENUM_RAW_AttunementList = {
     "MAG_Druid_Moon_Magic_Leather_Armor",
     "MAG_Druid_Spore_Magic_Leather_Armor",
     "MAG_Druid_Wildshape_Hat",
-    "MAG_ElementalGish_BaneOnElementalWeaponDamage_Gloves",
     "MAG_EndGameCaster_Hood",
     "MAG_EndGameCaster_Robe",
     "MAG_EndGame_HalfPlate",
     "MAG_EndGame_Plate_Armor",
     "MAG_EndGame_StuddedLeather_Armor",
     "MAG_Enforcer_RejunevatingKnock_Helmet",
-    "MAG_Fighter_ActionSurge_AttackBonus_Gloves",
-    "MAG_Fire_ApplyBurningOnFireDamage_Gloves",
     "MAG_Fire_ArcaneAcuityOnFireDamage_Hat",
     "MAG_Fire_BonusActionOnFireSpell_Circlet",
-    "MAG_FlamingFist_BattleWizardGloves",
     "MAG_FlamingFist_Flame_Armor",
     "MAG_FlamingFist_FlamingBlade",
     "MAG_Frost_GenerateFrostOnDamage_Robe",
-    "MAG_Gish_ArcaneAcuity_Gloves",
     "MAG_Githborn_MagicEating_HalfPlate",
     "MAG_GleamingSorcery_Hat",
     "MAG_Gortash_Cloth",
-    "MAG_Gortash_Gloves",
     "MAG_Harpers_SingingSword",
     "MAG_Hat_Barbarian_Hide",
     "MAG_Hat_Butler",
@@ -146,84 +127,49 @@ ENUM_RAW_AttunementList = {
     "MAG_Heat_Fire_Robe",
     "MAG_Illithid_Carapace_Armor",
     "MAG_Illithid_Regen_Circlet",
-    "MAG_Infernal_Metal_Gloves",
     "MAG_Infernal_Metal_Helmet",
     "MAG_Infernal_Plate_Armor",
-    "MAG_JusticiarArmor_Gloves",
-    "MAG_LC_DrowSpider_Gloves",
     "MAG_LC_Jannath_Hat",
     "MAG_LC_Lorroakan_Robe",
     "MAG_LC_Umberlee_Regeneration_Robe",
     "MAG_Lesser_Infernal_Plate_Armor",
     "MAG_LowHP_BonusAction_Helmet",
     "MAG_LowHP_CounterOnDamage_ChainShirt",
-    "MAG_LowHP_ResistanceFire_Gloves",
-    "MAG_MM_Sorcery_SeekingSpell_Gloves",
     "MAG_MeleeDebuff_AttackDebuff1_OnDamage_Helmet",
     "MAG_MeleeDebuff_AttackDebuff1_OnDamage_ScaleMail",
     "MAG_MeleeDebuff_AttackDebuff2_OnDamage_SplintMail",
-    "MAG_Mobility_JumpOnDash_Gloves",
     "MAG_Mobility_MomentumOnCombatStart_Helmet",
     "MAG_Mobility_SprintForMomentum_ChainShirt",
-    "MAG_Monk_Cold_Gloves",
-    "MAG_Monk_Fire_Gloves",
-    "MAG_Monk_Lightning_Gloves",
     "MAG_Monk_Magic_Armor_1",
     "MAG_Monk_SoulPerception_Hat",
     "MAG_Monk_SoulRejunevation_Armor",
-    "MAG_Monk_Thunder_Gloves",
     "MAG_Myrkulites_CircletOfMyrkul_Circlet",
     "MAG_OB_Paladin_DeathKnight_Armor",
-    "MAG_OB_Paladin_DeathKnight_Gloves",
     "MAG_OfArcanicAssault_Robe",
     "MAG_OfArcanicDefense_Robe",
-    "MAG_OfAutomaton_Gloves",
-    "MAG_OfRevivify_Gloves",
     "MAG_OfSharpCaster_Hat",
     "MAG_OfSpellResistance_Robe",
-    "MAG_OfSwordmaster_Gloves",
-    "MAG_OfTheBalancedHands_Gloves",
-    "MAG_OfTheDuelist_Gloves",
     "MAG_OfTheShapeshifter_Mask",
-    "MAG_OpenHand_Radiant_Gloves",
-    "MAG_PHB_OfSoulCatching_Gloves",
-    "MAG_Paladin_LayOnHandsSupport_Gloves",
     "MAG_Paladin_RestoreChannelDivinity_Armor",
     "MAG_Paladin_SmiteSpellsSupport_Helmet",
-    "MAG_Poison_PoisonExposure_Gloves",
-    "MAG_Psychic_MentalFatigue_Gloves",
     "MAG_Psychic_PsychicFeedback_Armor",
     "MAG_Radiant_RadiatingOrb_Armor",
-    "MAG_Radiant_RadiatingOrb_Gloves",
     "MAG_Radiant_Radiating_Helmet",
     "MAG_Selunite_Isobel_Robe",
     "MAG_Shadow_CriticalBoostWhileObscured_Helmet",
     "MAG_Thunder_ArcaneAcuityOnThunderDamage_Hat",
-    "MAG_Thunder_Reverberation_Gloves",
-    "MAG_Vampiric_Gloves",
     "MAG_Viconia_Robe",
     "MAG_Violence_LowHP_Violence_Clothes",
     "MAG_Violence_ViolenceOnDamaged_Helmet",
     "MAG_WYRM_OfBalduran_Helmet",
     "MAG_WYRM_UndeadProtector_Robe",
-    "MAG_Warlock_Quickened_Gloves",
-    "MAG_Warlock_Twinned_Gloves",
-    "MAG_Zhentarim_Lockpicking_Gloves",
-    "MAG_Zhentarim_Swap_Gloves",
     "MOO_Ketheric_Armor",
     "ORI_Wyll_Infernal_Robe",
-    "PLA_ZhentCave_Gloves",
     "Quest_GLO_DevilDeal_ResurrectRod",
     "Quest_GLO_Moonlantern",
     "Quest_GLO_Moonlantern_Gale",
     "SCL_SpidersLyre",
-    "SHA_JusticiarArmor_Gloves",
-    "UND_Myco_Alchemist_HealerGloves",
     "UND_ShadowOfMenzoberranzan",
-    "UNI_ARM_OfArchery_Gloves",
-    "UNI_ARM_OfDefense_Gloves",
-    "UNI_ARM_OfGiantHillStrength_Gloves",
-    "UNI_ARM_OfMissileSnaring_Gloves",
     "UNI_ARM_OfTeleportation_Helm",
     "UNI_ARM_Sarevok_Armor",
     "UNI_ARM_Sarevok_Horned_Helmet",
@@ -251,6 +197,26 @@ ENUM_RAW_AttunementList = {
     "MAG_Thunder_ReverberationOnStatusApply_Boots", -- BOOTS OF STORMY CLAMOUR
     "FOR_SpiderstepBoots", -- SPIDERSTEP BOOTS
     "MAG_ZOC_ForceConduitWhileSurounded_Boots", -- TENACIOUS BOOTS
+    --- GLOVES
+    "MAG_Zhentarim_Demonspirit_Gloves", -- ABYSS BECKONERS
+    "MAG_Barbarian_BoneSpike_Gloves", -- BONESPIKE GLOVES
+    "MAG_Illithid_Carapace_Gloves", -- CEREBRAL CITADEL GLOVES
+    "MAG_OfWarMaster_Gloves", -- GAUNTLETS OF THE WARMASTER
+    "MAG_PHB_OfThievery_Gloves", -- GLOVES OF THIEVERY
+    "MAG_Monk_Magic_Gloves", -- GLOVES OF UNINHIBITED KUSHIGO
+    "MAG_ZOC_AdvantageOnMeleeAttackWhileSurounded_Gloves", -- GLOVES OF THE GROWLING UNDERDOG
+    "MAG_Githborn_MageHandSupport_Gloves", -- HR'A'CKNIR BRACERS
+    "MAG_Harpers_JhannylGloves", -- JHANNYL'S GLOVES
+    "MAG_Martial_Exertion_Gloves", -- MARTIAL EXERTION GLOVES
+    "MAG_BG_Nimblefinger_Gloves", -- NIMBLEFINGER GLOVES
+    "MAG_Raven_Gloves", -- RAVEN GLOVES
+    "MAG_Stalker_Gloves", -- STALKER GLOVES
+    "MAG_Fire_HeatOnFireDamage_Gloves", -- THERMOARCANIC GLOVES
+    "WYR_Circus_ThiefGloves", -- UNLUCKY THIEF'S GLOVES
+    "MAG_LC_Tinkerer_Gloves", -- WINKLING GLOVES
+    "MAG_Frost_GenerateFrostOnDamage_Gloves", -- WINTER'S CLUTCHES
+    "MAG_Rage_TempHPOnExit_Gloves", -- REASON'S GRASP
+    "DEN_RaidingParty_GoblinCaptain_Gloves", -- GLOVES OF POWER
 
     -- IN ATTUNEMENT
     --- CLOAK
@@ -298,6 +264,62 @@ ENUM_RAW_AttunementList = {
     "CRE_Hatchery_AcidPoisonImmunity_Boots", -- VARSH KO'KUU'S BOOTS
     "MAG_Paladin_MomentumOnConcentration_Boots", -- BOOTS OF STRIDING
     "MAG_Violence_ViolenceOnDash_Boots", -- LINEBREAKER BOOTS,
+    --- GLOVES
+    "MAG_Bhaalist_Gloves", -- BHAALIST GLOVES
+    "MAG_OB_Paladin_DeathKnight_Gloves", -- BLACKGUARD'S GAUNTLETS
+    "UNI_ARM_OfDefense_Gloves", -- BRACERS OF DEFENCE
+    "MAG_Psychic_MentalFatigue_Gloves", -- BRAINDRAIN GLOVES
+    "MAG_FlamingFist_BattleWizardGloves", -- CINDERSNAP GLOVES
+    "MAG_Critical_Force_Gloves", -- CRATERFLESH GLOVES
+    "MAG_CQCaster_CloseRangedSpellMastery_Gloves", -- DAREDEVIL GLOVES
+    "MAG_Zhentarim_Swap_Gloves", -- DARK DISPLACEMENT GLOVES
+    "SHA_JusticiarArmor_Gloves", -- DARK JUSTICIAR GAUNTLETS
+    "MAG_JusticiarArmor_Gloves", -- DARK JUSTICIAR GAUNTLETS (RARE)
+    "MAG_Critical_ArcanicCritical_Gloves", -- DEADLY CHANNELLER GLOVES
+    "MAG_Lesser_Infernal_Metal_Gloves", -- FLAWED HELLDUSK GLOVES
+    "MAG_Gortash_Gloves", -- GAUNTLET OF THE TYRANT (NETHERSTONE-STUDDED GAUNTLET)
+    "UNI_ARM_OfGiantHillStrength_Gloves", -- GAUNTLETS OF HILL GIANT STRENGTH
+    "MAG_Fighter_ActionSurge_AttackBonus_Gloves", -- GAUNTLETS OF SURGING ACCURACY
+    "MAG_Warlock_Twinned_Gloves", -- GEMINI GLOVES
+    "UNI_ARM_OfArchery_Gloves", -- GLOVES OF ARCHERY
+    "MAG_ElementalGish_BaneOnElementalWeaponDamage_Gloves", -- GLOVES OF BANEFUL STRIKING
+    "MAG_Gish_ArcaneAcuity_Gloves", -- GLOVES OF BATTLEMAGE'S POWER
+    "MAG_Thunder_Reverberation_Gloves", -- GLOVES OF BELLIGERENT SKIES
+    "MAG_Monk_Fire_Gloves", -- GLOVES OF CINDER AND SIZZLE
+    "MAG_BG_OfCrushing_Gloves", -- GLOVES OF CRUSHING
+    "MAG_BG_OfDexterity_Gloves", -- GLOVES OF DEXTERITY
+    "MAG_LowHP_ResistanceFire_Gloves", -- GLOVES OF FIRE RESISTANCE
+    "MAG_Fire_ApplyBurningOnFireDamage_Gloves", -- GLOVES OF FLINT AND STEEL
+    "PLA_ZhentCave_Gloves", -- GLOVES OF HAIL OF THORNS
+    "MAG_Paladin_LayOnHandsSupport_Gloves", -- GLOVES OF HEROISM
+    "UNI_ARM_OfMissileSnaring_Gloves", -- GLOVES OF MISSILE SNARING
+    "MAG_PHB_OfSoulCatching_Gloves", -- GLOVES OF SOUL CATCHING
+    "MAG_OfAutomaton_Gloves", -- GLOVES OF THE AUTOMATON
+    "MAG_OfTheBalancedHands_Gloves", -- GLOVES OF THE BALANCED HANDS
+    "MAG_OfTheDuelist_Gloves", -- GLOVES OF THE DUELLIST
+    "MAG_Infernal_Metal_Gloves" -- HELLDUSK GLOVES
+    "DEN_HellridersPride", -- HELLRIDER'S PRIDE
+    "UND_Myco_Alchemist_HealerGloves", -- HERBALIST'S GLOVES
+    "MAG_Acid_NoxiousFumes_Gloves", -- ICHOROUS GLOVES
+    "MAG_Zhentarim_Lockpicking_Gloves", -- KNOCK KNUCKLE GLOVES
+    "MAG_BG_OfTheMasters_Legacy_Gauntlet", -- LEGACY OF THE MASTERS
+    "MAG_Radiant_RadiatingOrb_Gloves", -- LUMINOUS GLOVES
+    "MAG_LC_DrowSpider_Gloves", -- PALE WIDOW GLOVES
+    "MAG_Poison_PoisonExposure_Gloves", -- POISONER'S GLOVES
+    "MAG_Warlock_Quickened_Gloves", -- QUICKSPELL GLOVES
+    "MAG_OpenHand_Radiant_Gloves", -- SERAPHIC PUGILIST GLOVES
+    "MAG_Banites_Gloves", -- SERVITOR OF THE BLACK HAND GLOVES
+    "MAG_Monk_Cold_Gloves", -- SNOW-DUSTED MONASTERY
+    "MAG_Arcanist_Gloves", -- SPELLMIGHT GLOVES
+    "MAG_MM_Sorcery_SeekingSpell_Gloves", -- SPELLSEEKING GLOVES
+    "MAG_OfSwordmaster_Gloves", -- SWORDMASTER GLOVES
+    "MAG_Monk_Lightning_Gloves", -- THE FORK-LIGHTNING FINGERS
+    "MAG_OfRevivify_Gloves", -- THE REVIVING HANDS
+    "MAG_ChargedLightning_AbilityCheckBoost_Gloves", -- THE SPARKLE HANDS
+    "MAG_Monk_Thunder_Gloves", -- THUNDERPALM STRIKERS
+    "MAG_Vampiric_Gloves", -- VAMPIRIC GLOVES
+    "MAG_BG_Wondrous_Gloves", -- WONDROUS GLOVES
+    "MAG_Mobility_JumpOnDash_Gloves", -- FLEETFINGERS
 
     -- SUMMONS/NPC/???
         -- "Quest_DEN_ARM_LuckyBoots",
@@ -305,6 +327,9 @@ ENUM_RAW_AttunementList = {
     -- MISSING ID
     --- BOOTS
         -- UNWANTED MASTERWORK GREAVES
+    --- GLOVES
+        -- GLOVES OF SUCCOUR
+        -- UNWANTED MASTERWORK GAUNTLETS
 
     ----------------------------------------- ACCESSORIES ----------------------------------------- 
 
