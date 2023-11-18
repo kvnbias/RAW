@@ -70,29 +70,18 @@ end
 
 -- Source: https://docs.google.com/spreadsheets/d/1yCJ9ITC180dqykK713iHMEsrvVOHkgOmLF882-yr_hQ/edit#gid=0&fvid=1734738953
 ENUM_RAW_AttunementList = {
-    "ACT1_HAG_HagMask",
-    "ARM_CircletOfBlasting",
-    "ARM_HeadbandOfIntellect",
-    "CRE_MAG_Psychic_Githborn_Circlet",
-    "FOR_OgresForHire_HeadbandOfIntellect",
     "FOR_OwlbearCubs_Armor",
     "GOB_DrowCommander_Leather_Armor",
-    "MAG_BarbMonk_Cloth_Hat_A_1_Late",
     "MAG_BarbMonk_Defensive_Cloth",
     "MAG_BarbMonk_Offensive_Cloth",
     "MAG_Barbarian_BoneSpike_Armor",
-    "MAG_Barbarian_BoneSpike_Helmet",
     "MAG_Barbarian_Magic_Armor_1",
-    "MAG_Bard_HealingBardicInspiration_Hat",
     "MAG_Bard_TempHP_Armor",
     "MAG_Bhaalist_Armor",
-    "MAG_Bhaalist_Hat",
-    "MAG_BonusAttack_AgainstMarked_Circlet",
     "MAG_CKM_SerpenScale_Armor",
     "MAG_CQCaster_GainArcaneChargeOnDamaged_Robe",
     "MAG_ChargedLightning_BonusAC_Robe",
     "MAG_ChargedLightning_Electrocute_Armor",
-    "MAG_ChargedLightning_TempHP_Helmet",
     "MAG_CharismaCaster_Robe",
     "MAG_Critical_BolsteringCritical_Armor",
     "MAG_DarkJusticiar_HalfPlate",
@@ -104,77 +93,42 @@ ENUM_RAW_AttunementList = {
     "MAG_Druid_Magic_StuddedLeather_Armor",
     "MAG_Druid_Moon_Magic_Leather_Armor",
     "MAG_Druid_Spore_Magic_Leather_Armor",
-    "MAG_Druid_Wildshape_Hat",
-    "MAG_EndGameCaster_Hood",
     "MAG_EndGameCaster_Robe",
     "MAG_EndGame_HalfPlate",
     "MAG_EndGame_Plate_Armor",
     "MAG_EndGame_StuddedLeather_Armor",
-    "MAG_Enforcer_RejunevatingKnock_Helmet",
-    "MAG_Fire_ArcaneAcuityOnFireDamage_Hat",
-    "MAG_Fire_BonusActionOnFireSpell_Circlet",
     "MAG_FlamingFist_Flame_Armor",
-    "MAG_FlamingFist_FlamingBlade",
     "MAG_Frost_GenerateFrostOnDamage_Robe",
     "MAG_Githborn_MagicEating_HalfPlate",
-    "MAG_GleamingSorcery_Hat",
     "MAG_Gortash_Cloth",
-    "MAG_Harpers_SingingSword",
-    "MAG_Hat_Barbarian_Hide",
-    "MAG_Hat_Butler",
     "MAG_Healer_DisengageOnHeal_ChainShirt",
-    "MAG_Healer_HealSelf_Helmet",
     "MAG_Heat_Fire_Robe",
     "MAG_Illithid_Carapace_Armor",
-    "MAG_Illithid_Regen_Circlet",
-    "MAG_Infernal_Metal_Helmet",
     "MAG_Infernal_Plate_Armor",
-    "MAG_LC_Jannath_Hat",
     "MAG_LC_Lorroakan_Robe",
     "MAG_LC_Umberlee_Regeneration_Robe",
     "MAG_Lesser_Infernal_Plate_Armor",
-    "MAG_LowHP_BonusAction_Helmet",
     "MAG_LowHP_CounterOnDamage_ChainShirt",
-    "MAG_MeleeDebuff_AttackDebuff1_OnDamage_Helmet",
     "MAG_MeleeDebuff_AttackDebuff1_OnDamage_ScaleMail",
     "MAG_MeleeDebuff_AttackDebuff2_OnDamage_SplintMail",
-    "MAG_Mobility_MomentumOnCombatStart_Helmet",
     "MAG_Mobility_SprintForMomentum_ChainShirt",
     "MAG_Monk_Magic_Armor_1",
-    "MAG_Monk_SoulPerception_Hat",
     "MAG_Monk_SoulRejunevation_Armor",
-    "MAG_Myrkulites_CircletOfMyrkul_Circlet",
     "MAG_OB_Paladin_DeathKnight_Armor",
     "MAG_OfArcanicAssault_Robe",
     "MAG_OfArcanicDefense_Robe",
-    "MAG_OfSharpCaster_Hat",
     "MAG_OfSpellResistance_Robe",
-    "MAG_OfTheShapeshifter_Mask",
     "MAG_Paladin_RestoreChannelDivinity_Armor",
-    "MAG_Paladin_SmiteSpellsSupport_Helmet",
     "MAG_Psychic_PsychicFeedback_Armor",
     "MAG_Radiant_RadiatingOrb_Armor",
-    "MAG_Radiant_Radiating_Helmet",
     "MAG_Selunite_Isobel_Robe",
-    "MAG_Shadow_CriticalBoostWhileObscured_Helmet",
-    "MAG_Thunder_ArcaneAcuityOnThunderDamage_Hat",
     "MAG_Viconia_Robe",
     "MAG_Violence_LowHP_Violence_Clothes",
-    "MAG_Violence_ViolenceOnDamaged_Helmet",
-    "MAG_WYRM_OfBalduran_Helmet",
     "MAG_WYRM_UndeadProtector_Robe",
     "MOO_Ketheric_Armor",
     "ORI_Wyll_Infernal_Robe",
-    "Quest_GLO_DevilDeal_ResurrectRod",
-    "Quest_GLO_Moonlantern",
-    "Quest_GLO_Moonlantern_Gale",
-    "SCL_SpidersLyre",
-    "UND_ShadowOfMenzoberranzan",
-    "UNI_ARM_OfTeleportation_Helm",
     "UNI_ARM_Sarevok_Armor",
-    "UNI_ARM_Sarevok_Horned_Helmet",
     "UNI_DarkJusticiarArmor_HalfPlate",
-    "UNI_DarkJusticiar_Helmet",
     "UNI_Ravengard_Plate",
     "UNI_RobeOfSummer",
 
@@ -217,6 +171,26 @@ ENUM_RAW_AttunementList = {
     "MAG_Frost_GenerateFrostOnDamage_Gloves", -- WINTER'S CLUTCHES
     "MAG_Rage_TempHPOnExit_Gloves", -- REASON'S GRASP
     "DEN_RaidingParty_GoblinCaptain_Gloves", -- GLOVES OF POWER
+    --- HELM
+    -- "ARM_MerregonMask", -- DEVILFOIL MASK
+    "MAG_Gish_ArcaneSynergy_Circlet", -- DIADEM OF ARCANE SYNERGY
+    "MAG_Hat_Circushat", -- HAT OF UPROARIOUS LAUGHTER
+    "MAG_Monk_Magic_Hat", -- HAT OF UNINHIBITED KUSHIGO
+    "MAG_Lesser_Infernal_Metal_Helmet", -- HELLGLOOM HELMET (FLAWED HELLDUSK HELMET)
+    "MAG_BarbMonk_Leather_Circlet", -- SCABBY PUGILIST CIRCLET
+    "MAG_Helmet_Human_Watcher", -- STEELWATCHER HELMET
+    "MAG_Wizard_Pointy_Hat", -- THE POINTY HAT
+    "MAG_ZOC_Force_Helmet", -- TIGHTENING ORBIT HELM
+    "UNI_Druid_Helmet_Circlet", -- KEY OF THE ANCIENT (ARCANE CIRCLET)
+    "MAG_CQCaster_SpellDCBonusWhileThreatened_Circlet", -- BROWBEATEN CIRCLET
+    "MAG_Frost_GenerateFrostOnStatusApply_Hat", -- COLDBRIM HAT
+    "UND_Justiciar_Helmet_Magic", -- DARK JUSTICIAR MASK
+    "UND_Justiciar_Mask_Magic", -- DARK JUSTICIAR MASK (MEH)
+    "MAG_ElementalGish_ArcaneAcuity_Helmet", -- HELMET OF ARCANE ACUITY
+    "UND_FairyRing_AntiCharmHelmet", -- HELMET OF AUTONOMY
+    "MAG_ChargedLightning_TempHP_Helmet", -- THE LIFEBRINGER
+    "MAG_ofMarksmanship_Hat", -- MARKSMANSHIP HAT
+    "MAG_Shadow_SpellDCBonusWhileObscured_Circlet", -- THE SHADESPELL CIRCLET
 
     -- IN ATTUNEMENT
     --- CLOAK
@@ -320,6 +294,45 @@ ENUM_RAW_AttunementList = {
     "MAG_Vampiric_Gloves", -- VAMPIRIC GLOVES
     "MAG_BG_Wondrous_Gloves", -- WONDROUS GLOVES
     "MAG_Mobility_JumpOnDash_Gloves", -- FLEETFINGERS
+    --- HELM
+    -- "ACT1_HAG_HagMask", -- HAG MASK
+    "MAG_WYRM_OfBalduran_Helmet", -- HELM OF BALDURAN
+    "MAG_Bhaalist_Hat", -- ASSASSIN OF BHAAL COWL
+    "MAG_GleamingSorcery_Hat", -- BIRTHRIGHT
+    "MAG_Barbarian_BoneSpike_Helmet", -- BONESPIKE HELMET
+    "MAG_BonusAttack_AgainstMarked_Circlet", -- CIRCLET OF HUNTING
+    "UNI_DarkJusticiar_Helmet", -- DARK JUSTICIAR HELMET
+    "MAG_MeleeDebuff_AttackDebuff1_OnDamage_Helmet", -- GRYMSKULL HELM
+    "MAG_Infernal_Metal_Helmet", -- HELLDUSK HELMET
+    "MAG_LowHP_BonusAction_Helmet", -- HELMET OF GRIT
+    "MAG_EndGameCaster_Hood", -- HOOD OF THE WEAVE
+    "MAG_Hat_Barbarian_Hide", -- HORNS OF THE BERSERKER
+    "MAG_LC_Jannath_Hat", -- JANNATH'S HAT
+    "MAG_Monk_SoulPerception_Hat", -- MASK OF SOUL PERCEPTION
+    "MAG_Fire_BonusActionOnFireSpell_Circlet", -- PYROQUICKNESS HAT (CIRCLET OF FIRE)
+    "UNI_ARM_Sarevok_Horned_Helmet", -- SAREVOK'S HORNED HELMET
+    "MAG_Druid_Wildshape_Hat", -- SHAPESHIFTER HAT
+    "MAG_Violence_ViolenceOnDamaged_Helmet", -- CAP OF WRATH
+    "MAG_Myrkulites_CircletOfMyrkul_Circlet", -- CIRCLE OF BONES
+    "ARM_CircletOfBlasting", -- CIRCLET OF BLASTING
+    "MAG_Illithid_Regen_Circlet", -- CIRCLET OF MENTAL ANGUISH
+    "CRE_MAG_Psychic_Githborn_Circlet", -- CIRCLET OF PSIONIC REVENGE
+    "MAG_BarbMonk_Cloth_Hat_A_1_Late", -- FISTBREAKER HELM
+    "MAG_Hat_Butler", -- GIBUS OF THE WORSHIPFUL SERVANT
+    "MAG_Mobility_MomentumOnCombatStart_Helmet", -- HASTE HELM
+    "MAG_OfSharpCaster_Hat", -- HAT OF THE SHARP CASTER
+    "UNI_ARM_OfTeleportation_Helm", -- HELM OF ARCANE GATE
+    "UND_ShadowOfMenzoberranzan", -- SHADOW OF MENZOBERRANZAN
+    "MAG_Bard_HealingBardicInspiration_Hat", -- CAP OF CURING
+    "MAG_Shadow_CriticalBoostWhileObscured_Helmet", -- COVERT COWL
+    "MAG_Enforcer_RejunevatingKnock_Helmet", -- ENFORCER HELMET
+    "MAG_Fire_ArcaneAcuityOnFireDamage_Hat", -- HAT OF FIRE ACUITY
+    "MAG_Thunder_ArcaneAcuityOnThunderDamage_Hat", -- HAT OF STORM SCION'S POWER
+    "MAG_Paladin_SmiteSpellsSupport_Helmet", -- HELMET OF SMITING
+    "MAG_Radiant_Radiating_Helmet", -- HOLY LANCE HELM
+    "MAG_Healer_HealSelf_Helmet", -- WAPIRA'S CROWN
+    "ARM_HeadbandOfIntellect", -- WARPED HEADBAND OF INTELLECT
+    "MAG_OfTheShapeshifter_Mask", -- MASK OF THE SHAPESHIFTER
 
     -- SUMMONS/NPC/???
         -- "Quest_DEN_ARM_LuckyBoots",
@@ -663,14 +676,16 @@ ENUM_RAW_AttunementList = {
     "MAG_Drowelf_SpiderSnare_Longsword", -- CRUEL STING
     "MAG_WYRM_Commander_Longsword", -- DUKE RAVENGARD'S LONGSWORD
     "MAG_Finesse_Longsword", -- LARETHIAN'S WRATH
-    "UND_SwordInStone", -- PHALAR ALUVE
+    "UND_SwordInStone", -- PHALAR ALUVE?
+    "MAG_Harpers_SingingSword", -- PHALAR ALUVE?
     "MAG_Bonded_Lethal_Longsword", -- BLOOD BOUND BLADE
     "LOW_Elfsong_EmperorSword_LongSword", -- SWORD OF THE EMPEROR
     "MAG_Primeval_Silver_Longsword", -- VOSS' SILVER SWORD
     "MAG_Infernal_Longsword", -- INFERNAL LONGSWORD
     "MAG_LC_Fleshred_Longsword", -- RENDER OF SCRUMPTIOUS FLESH
     "MAG_MeleeDebuff_AttackDebuff12versatile_OnDamage_Longsword", -- ADAMANTINE LONGSWORD
-    "MAG_Fire_BurningDamage_Longsword", -- ARDUOS FLAME BLADE
+    "MAG_FlamingFist_FlamingBlade", -- ARDUOS FLAME BLADE?
+    "MAG_Fire_BurningDamage_Longsword", -- ARDUOS FLAME BLADE?
     --- TRIDENT
     "MAG_LC_Frigid_Trident", -- ALLANDRA'S WHELM
     "MAG_ChargedLightning_Trident", -- THE SPARKY POINTS
