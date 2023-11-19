@@ -33,6 +33,57 @@
             ]
         }
     },
+    "downed": {
+        "displayName": "Downed",
+        "description": "Healing a downed character allows them to play their turn normally.",
+        "enabled": true,
+        "value": null,
+        "dependencies": [],
+        "conflicts": [],
+        "files": {
+            "enabled": [],
+            "disabled": [
+                {
+                    "from": "Public/RAW/Stats/Generated/Data/Downed.txt",
+                    "to": "Public/RAW/Stats/Generated/Data/Empty.txt"
+                }
+            ]
+        }
+    },
+    "freeWeaponEquip": {
+        "displayName": "Free Weapon Equip",
+        "description": "The first weapon equipped in a turn doesn't cost an Action Point.",
+        "enabled": true,
+        "value": null,
+        "dependencies": [],
+        "conflicts": [],
+        "files": {
+            "enabled": [],
+            "disabled": [
+                {
+                    "from": "Public/RAW/Stats/Generated/Data/EquipAction.txt",
+                    "to": "Public/RAW/Stats/Generated/Data/Empty.txt"
+                }
+            ]
+        }
+    },
+    "stabilize": {
+        "displayName": "Stabilize",
+        "description": "Changes Help to only stabilize a character, healing once out of combat.",
+        "enabled": true,
+        "value": null,
+        "dependencies": [],
+        "conflicts": [],
+        "files": {
+            "enabled": [],
+            "disabled": [
+                {
+                    "from": "Public/RAW/Stats/Generated/Data/Stabilize.txt",
+                    "to": "Public/RAW/Stats/Generated/Data/Empty.txt"
+                }
+            ]
+        }
+    },
     "weaponSets": {
         "displayName": "Weapon Sets",
         "description": "Disable Weapon Sets. Equipping a ranged weapon unequips melee weapons and vice-versa.",

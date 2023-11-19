@@ -22,10 +22,10 @@ Zerd's Rules As Written for Baldur's Gate 3
 * However, not all original rules are applicable or possible to be implemented on BG3. Therefore, this is my personal take on how better to apply 5e's ruleset to BG3.
 
 # Features
-* See all current features [here](https://github.com/ZerdBG3/RAW/blob/main/Features.md)
+* See all current features [here](https://github.com/kvnbias/ZerdBG3/blob/main/Features.md)
 
 # Installing
-* Installation and updating instructions are found on the [Installation Guide](https://github.com/ZerdBG3/RAW/blob/main/Installing.md)
+* Installation and updating instructions are found on the [Installation Guide](https://github.com/kvnbias/ZerdBG3/blob/main/Installing.md)
 * This mod requires Norbyte's [BG3 Script Extender](https://github.com/Norbyte/bg3se/releases)
 
 # Compatibility

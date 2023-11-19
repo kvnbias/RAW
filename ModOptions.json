@@ -7,6 +7,15 @@
         "concentration_failsafe": {
             "enabled": true
         },
+        "downed": {
+            "enabled": true
+        },
+        "freeWeaponEquip": {
+            "enabled": true
+        },
+        "stabilize": {
+            "enabled": true
+        },
         "weaponSets": {
             "enabled": true
         }

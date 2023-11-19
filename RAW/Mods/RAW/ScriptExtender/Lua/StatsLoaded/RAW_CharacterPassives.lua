@@ -33,10 +33,9 @@ end
 
 ENUM_RAW_CharacterDefaultPassives = {
     ["all"] = {
-        "RAW_OffHand_Enabler",
+        -- replenish action on turn end
         "RAW_OnTurnTracker",
     },
     ["hero"] = {
-        "RAW_UnlockEquipWeaponPoint",
     },
 }
