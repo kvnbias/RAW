@@ -68,70 +68,7 @@ end
 
 ---------------------------------------- MODELS ----------------------------------------
 
--- Source: https://docs.google.com/spreadsheets/d/1yCJ9ITC180dqykK713iHMEsrvVOHkgOmLF882-yr_hQ/edit#gid=0&fvid=1734738953
 ENUM_RAW_AttunementList = {
-    "FOR_OwlbearCubs_Armor",
-    "GOB_DrowCommander_Leather_Armor",
-    "MAG_BarbMonk_Defensive_Cloth",
-    "MAG_BarbMonk_Offensive_Cloth",
-    "MAG_Barbarian_BoneSpike_Armor",
-    "MAG_Barbarian_Magic_Armor_1",
-    "MAG_Bard_TempHP_Armor",
-    "MAG_Bhaalist_Armor",
-    "MAG_CKM_SerpenScale_Armor",
-    "MAG_CQCaster_GainArcaneChargeOnDamaged_Robe",
-    "MAG_ChargedLightning_BonusAC_Robe",
-    "MAG_ChargedLightning_Electrocute_Armor",
-    "MAG_CharismaCaster_Robe",
-    "MAG_Critical_BolsteringCritical_Armor",
-    "MAG_DarkJusticiar_HalfPlate",
-    "MAG_DevilsBlackmith_ScaleMail",
-    "MAG_Druid_Land_Magic_Leather_Armor",
-    "MAG_Druid_Late_Hide_Armor_1",
-    "MAG_Druid_Late_Hide_Armor_2",
-    "MAG_Druid_Magic_Hide_Armor",
-    "MAG_Druid_Magic_StuddedLeather_Armor",
-    "MAG_Druid_Moon_Magic_Leather_Armor",
-    "MAG_Druid_Spore_Magic_Leather_Armor",
-    "MAG_EndGameCaster_Robe",
-    "MAG_EndGame_HalfPlate",
-    "MAG_EndGame_Plate_Armor",
-    "MAG_EndGame_StuddedLeather_Armor",
-    "MAG_FlamingFist_Flame_Armor",
-    "MAG_Frost_GenerateFrostOnDamage_Robe",
-    "MAG_Githborn_MagicEating_HalfPlate",
-    "MAG_Gortash_Cloth",
-    "MAG_Healer_DisengageOnHeal_ChainShirt",
-    "MAG_Heat_Fire_Robe",
-    "MAG_Illithid_Carapace_Armor",
-    "MAG_Infernal_Plate_Armor",
-    "MAG_LC_Lorroakan_Robe",
-    "MAG_LC_Umberlee_Regeneration_Robe",
-    "MAG_Lesser_Infernal_Plate_Armor",
-    "MAG_LowHP_CounterOnDamage_ChainShirt",
-    "MAG_MeleeDebuff_AttackDebuff1_OnDamage_ScaleMail",
-    "MAG_MeleeDebuff_AttackDebuff2_OnDamage_SplintMail",
-    "MAG_Mobility_SprintForMomentum_ChainShirt",
-    "MAG_Monk_Magic_Armor_1",
-    "MAG_Monk_SoulRejunevation_Armor",
-    "MAG_OB_Paladin_DeathKnight_Armor",
-    "MAG_OfArcanicAssault_Robe",
-    "MAG_OfArcanicDefense_Robe",
-    "MAG_OfSpellResistance_Robe",
-    "MAG_Paladin_RestoreChannelDivinity_Armor",
-    "MAG_Psychic_PsychicFeedback_Armor",
-    "MAG_Radiant_RadiatingOrb_Armor",
-    "MAG_Selunite_Isobel_Robe",
-    "MAG_Viconia_Robe",
-    "MAG_Violence_LowHP_Violence_Clothes",
-    "MAG_WYRM_UndeadProtector_Robe",
-    "MOO_Ketheric_Armor",
-    "ORI_Wyll_Infernal_Robe",
-    "UNI_ARM_Sarevok_Armor",
-    "UNI_DarkJusticiarArmor_HalfPlate",
-    "UNI_Ravengard_Plate",
-    "UNI_RobeOfSummer",
-
     -------------------------------------------- ARMOR -------------------------------------------- 
 
     -- NOT INCLUDED IN ATTUNEMENT
@@ -151,6 +88,7 @@ ENUM_RAW_AttunementList = {
     "MAG_Thunder_ReverberationOnStatusApply_Boots", -- BOOTS OF STORMY CLAMOUR
     "FOR_SpiderstepBoots", -- SPIDERSTEP BOOTS
     "MAG_ZOC_ForceConduitWhileSurounded_Boots", -- TENACIOUS BOOTS
+    "MAG_DevilsBlackmith_Boots", -- UNWANTED MASTERWORK GREAVES
     --- GLOVES
     "MAG_Zhentarim_Demonspirit_Gloves", -- ABYSS BECKONERS
     "MAG_Barbarian_BoneSpike_Gloves", -- BONESPIKE GLOVES
@@ -171,6 +109,7 @@ ENUM_RAW_AttunementList = {
     "MAG_Frost_GenerateFrostOnDamage_Gloves", -- WINTER'S CLUTCHES
     "MAG_Rage_TempHPOnExit_Gloves", -- REASON'S GRASP
     "DEN_RaidingParty_GoblinCaptain_Gloves", -- GLOVES OF POWER
+    "MAG_DevilsBlackmith_Gloves", -- UNWANTED MASTERWORK GAUNTLETS
     --- HELM
     -- "ARM_MerregonMask", -- DEVILFOIL MASK
     "MAG_Gish_ArcaneSynergy_Circlet", -- DIADEM OF ARCANE SYNERGY
@@ -185,12 +124,29 @@ ENUM_RAW_AttunementList = {
     "MAG_CQCaster_SpellDCBonusWhileThreatened_Circlet", -- BROWBEATEN CIRCLET
     "MAG_Frost_GenerateFrostOnStatusApply_Hat", -- COLDBRIM HAT
     "UND_Justiciar_Helmet_Magic", -- DARK JUSTICIAR MASK
-    "UND_Justiciar_Mask_Magic", -- DARK JUSTICIAR MASK (MEH)
+    -- "UND_Justiciar_Mask_Magic", -- DARK JUSTICIAR MASK (MEH)
     "MAG_ElementalGish_ArcaneAcuity_Helmet", -- HELMET OF ARCANE ACUITY
     "UND_FairyRing_AntiCharmHelmet", -- HELMET OF AUTONOMY
     "MAG_ChargedLightning_TempHP_Helmet", -- THE LIFEBRINGER
     "MAG_ofMarksmanship_Hat", -- MARKSMANSHIP HAT
     "MAG_Shadow_SpellDCBonusWhileObscured_Circlet", -- THE SHADESPELL CIRCLET
+    --- ROBE
+    "MAG_Monk_Magic_Armor_1", -- GARB OF THE LAND AND SKY
+    "MAG_Drunken_Cloth", -- DRUNKEN CLOTH
+    "FOR_SpiderQueen_Robe", -- POISONER'S ROBE
+    "UNI_RobeOfSummer", -- ROBE OF SUMMER
+    "MAG_Monk_Magic_Armor", -- ARMOUR OF UNINHIBITED KUSHIGO
+    --- LIGHT ARMOR
+    "MAG_Shadow_StealthBonusWhileObscured_Armor", -- PENUMBRAL ARMOUR
+    "MAG_Harpers_ArmorOfShadows", -- SHADECLINGER ARMOUR
+    "MAG_Psychic_PsychicFeedback_Armor", -- PSYCHIC FEEDBACK ARMOR?
+    --- MEDIUM ARMOR
+    "UND_Justiciar_Chainshirt_Magic", -- DARK JUSTICIAR MAIL
+    "MAG_PHB_ElvenChain_Armor", -- ELVEN CHAIN
+    "MAG_FlamingFist_Flame_Armor", -- FLAME ENAMELLED ARMOUR
+    "MAG_Druid_Magic_Hide_Armor", -- HEDGE WANDERER ARMOUR
+    --- HEAVY ARMOR
+    "MAG_ZOC_ForceConduit_ChainMail", -- RIPPLING FORCE MAIL
 
     -- IN ATTUNEMENT
     --- CLOAK
@@ -333,16 +289,73 @@ ENUM_RAW_AttunementList = {
     "MAG_Healer_HealSelf_Helmet", -- WAPIRA'S CROWN
     "ARM_HeadbandOfIntellect", -- WARPED HEADBAND OF INTELLECT
     "MAG_OfTheShapeshifter_Mask", -- MASK OF THE SHAPESHIFTER
+    --- ROBE
+    "MAG_Monk_SoulRejunevation_Armor", -- VEST OF SOUL REJUVENATION
+    "MAG_BarbMonk_Defensive_Cloth", -- THE GRACEFUL CLOTH (CAT)
+    "MAG_LC_Lorroakan_Robe", -- SHELTER OF ATHKATLA
+    "MAG_OfArcanicAssault_Robe", -- ROBE OF EXQUISITE FOCUS
+    "MAG_OfSpellResistance_Robe", -- ROBE OF SPELL RESISTANCE
+    "MAG_OfArcanicDefense_Robe", -- ROBE OF SUPREME DEFENCES
+    "MAG_EndGameCaster_Robe", -- ROBE OF THE WEAVE
+    "MAG_CharismaCaster_Robe", -- POTENT ROBE
+    "ORI_Wyll_Infernal_Robe", -- INFERNAL ROBE
+    "MAG_Barbarian_BoneSpike_Armor", -- BONESPIKE GARB
+    "MAG_ChargedLightning_BonusAC_Robe", -- THE PROTECTY SPARKSWALL
+    "MAG_Violence_LowHP_Violence_Clothes", -- BLOODGUZZLER GARB
+    "MAG_CQCaster_GainArcaneChargeOnDamaged_Robe", -- BIDED TIME
+    "MAG_Heat_Fire_Robe", -- OBSIDIAN LACED ROBE
+    "MAG_BarbMonk_Offensive_Cloth", -- THE MIGHTY CLOTH
+    "MAG_Barbarian_Magic_Armor_1", -- ENRAGING HEART GARB
+    "MAG_Frost_GenerateFrostOnDamage_Robe", -- ICEBITE ROBE
+    "MAG_Viconia_Robe", -- VICONIA'S PRIESTESS ROBE
+    "MAG_Selunite_Isobel_Robe", -- MOON DEVOTION ROBE
+    "MAG_Gortash_Cloth", -- CLOTH OF AUTHORITY
+    "MAG_WYRM_UndeadProtector_Robe", -- VEIL OF THE MORNING
+    "MAG_LC_Umberlee_Regeneration_Robe", -- WAVEMOTHER'S ROBE
+    --- LIGHT ARMOR
+    -- "MAG_Druid_Magic_StuddedLeather_Armor", -- Studded Leather Armour +2
+    "MAG_Druid_Land_Magic_Leather_Armor", -- ARMOUR OF LANDFALL
+    "MAG_Druid_Moon_Magic_Leather_Armor", -- ARMOUR OF MOONBASKING
+    "MAG_Druid_Spore_Magic_Leather_Armor", -- ARMOUR OF THE SPOREKEEPER
+    "MAG_Bhaalist_Armor", -- BHAALIST ARMOUR
+    "MAG_Bard_TempHP_Armor", -- BLAZER OF BENEVOLENCE
+    "GOB_DrowCommander_Leather_Armor", -- SPIDERSILK ARMOUR
+    "MAG_EndGame_StuddedLeather_Armor", -- ELEGANT STUDDED LEATHER
+    "MAG_Critical_BolsteringCritical_Armor", -- TORMENT DRINKER ARMOUR
+    --- MEDIUM ARMOR
+    "MAG_MeleeDebuff_AttackDebuff1_OnDamage_ScaleMail", -- ADAMANTINE SCALE MAIL
+    "MAG_EndGame_HalfPlate", -- ARMOUR OF AGILITY
+    "MAG_Druid_Late_Hide_Armor_1", -- BARKSKIN ARMOUR
+    "MAG_Mobility_SprintForMomentum_ChainShirt", -- CHAIN OF LIBERATION
+    "MAG_DarkJusticiar_HalfPlate", -- DARK JUSTICIAR HALF-PLATE
+    "UNI_DarkJusticiarArmor_HalfPlate", -- DARK JUSTICIAR HALF-PLATE (SHADOWHEART)
+    "MAG_Radiant_RadiatingOrb_Armor", -- LUMINOUS ARMOUR
+    "MAG_Githborn_MagicEating_HalfPlate", -- PSIONIC WARD ARMOUR
+    "MAG_LowHP_CounterOnDamage_ChainShirt", -- ROBUST CHAIN SHIRT
+    "MAG_Druid_Late_Hide_Armor_2", -- SHARPENED SNARE CUIRASS
+    "MAG_Healer_DisengageOnHeal_ChainShirt", -- SLIPPERY CHAIN SHIRT
+    "MAG_ChargedLightning_Electrocute_Armor", -- THE JOLTY VEST
+    "FOR_OwlbearCubs_Armor", -- THE OAK FATHER'S EMBRACE
+    "MAG_DevilsBlackmith_ScaleMail", -- UNWANTED MASTERWORK SCALEMAIL
+    "MAG_CKM_SerpenScale_Armor", -- YUAN-TI SCALE MAIL
+    --- HEAVY ARMOR
+    "MAG_Infernal_Plate_Armor", -- HELLDUSK ARMOUR
+    "MAG_MeleeDebuff_AttackDebuff2_OnDamage_SplintMail", -- ADAMANTINE SPLINT ARMOUR
+    "MAG_OB_Paladin_DeathKnight_Armor", -- BLACKGUARD'S PLATE
+    "MOO_Ketheric_Armor", -- REAPER'S EMBRACE
+    "UNI_Ravengard_Plate", -- EMBLAZONED PLATE OF THE MARSHAL
+    "MAG_EndGame_Plate_Armor", -- ARMOUR OF PERSISTENCE
+    "MAG_Lesser_Infernal_Plate_Armor", -- FLAWED HELLDUSK ARMOUR
+    "MAG_Illithid_Carapace_Armor", -- CEREBRAL CITADEL ARMOUR
+    "MAG_Paladin_RestoreChannelDivinity_Armor", -- ARMOR OF DEVOTION
+    "UNI_ARM_Sarevok_Armor", -- SAREVOK ARMOR
 
     -- SUMMONS/NPC/???
         -- "Quest_DEN_ARM_LuckyBoots",
 
     -- MISSING ID
-    --- BOOTS
-        -- UNWANTED MASTERWORK GREAVES
     --- GLOVES
         -- GLOVES OF SUCCOUR
-        -- UNWANTED MASTERWORK GAUNTLETS
 
     ----------------------------------------- ACCESSORIES ----------------------------------------- 
 
@@ -822,6 +835,4 @@ ENUM_RAW_AttunementList = {
         -- DOOM AXE
     --- SCIMITAR
         -- KURWIN'S CAUTERISER
-
-    "NONEXISTENT_ITEM",
 }
