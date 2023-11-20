@@ -839,11 +839,13 @@ ENUM_RAW_AttunementList = {
     -------------------------------------------- MODS --------------------------------------------- 
 
     --- ARTIFICER
+    -- WEAPONS
     "WPN_Artillerist_Eldritch_Cannon",
     "WPN_Artillerist_Eldritch_Cannon_2",
     "WPN_Artillerist_Eldritch_Cannon_2h",
     "UNI_ArtificerHammer",
     "UNI_ArtificerHammer_Leg",
+    -- ETC
     "REPLICA_OfUndeadServant_Ring",
     "REPLICA_Flying_Boots",
     "REPLICA_ReadThoughts_Circlet",
@@ -856,13 +858,42 @@ ENUM_RAW_AttunementList = {
     "ARM_Artificer_Armorer",
     "ARM_Artificer_BattleSmith",
 
+    --- MYSTIC
+    -- WEAPONS
+    "WPN_Mystic_EruditeSpear",
+    "WPN_Mystic_Thoughtpiercer",
+    "WPN_Mystic_Longinus",
+    "WPN_Mystic_WanderersBow",
+    "WPN_Mystic_Failnaught",
+    "WPN_Mystic_Gandiva",
+    -- ETC
+    "ARM_Mystic_EndlessKnowledge_Circlet",
+    "ARM_Mystic_PsionicInterference_Cloak",
+    "ARM_Mystic_AvatarChest_Body",
+    "ARM_Mystic_AwakenedChest_Body",
+    "ARM_Mystic_ImmortalChest_Body",
+    "ARM_Mystic_NomadChest_Body",
+    "ARM_Mystic_SoulKnifeChest_Body",
+    "ARM_Mystic_WuJenChest_Body",
+    "ARM_Mystic_Mastermind_Gloves",
+    "ARM_Mystic_Wanderlust_Boots",
+    "ARM_Mystic_PsychicRestoration_Amulet",
+    "ARM_Mystic_PsychicRenewal_Amulet",
+    "ARM_Mystic_MentalFortitude_Amulet",
+    "ARM_Mystic_PotentPsionics_Ring",
+    "ARM_Mystic_Sadism_Ring",
+    "ARM_Mystic_MentalExertion_Ring",
+
     --- PHALAR ALUVE LEGENDARY
+    -- WEAPONS
     "UND_SwordInStoneV2",
     "UND_SwordInStoneV3",
 
     --- MORE MAGE GEAR
+    -- WEAPONS
     "PTW_Sorc_Sparky_Dagger",
     "PTW_Sorc_Sparky_Staff",
+    -- ETC
     "PTW_Sorc_Body_A",
     "PTW_Sorc_Body_A_F",
     "PTW_Sorc_Body_A_No_Skirt",
@@ -890,9 +921,12 @@ ENUM_RAW_AttunementList = {
     "PTW_Ring_Weave",
 
     --- LATHANDER ARMOUR
+    -- WEAPONS
     "VIG_Lathander_GSword",
     "VIG_Lathander_Flail",
     "VIG_Lathander_QStaff",
+    "MAG_Lathander_Shield",
+    -- ETC
     "ARM_Paladin_Lathander",
     "ARM_Paladin_Skimpy",
     "ARM_Boots_Lathander",
@@ -906,7 +940,6 @@ ENUM_RAW_AttunementList = {
     "ARM_Cloth_Circlet_Lathander",
     "ARM_Cloth_Hood_Lathander",
     "CLT_LathanderCloak",
-    "MAG_Lathander_Shield",
 
     --- LEGENDARY EQUIPMENT TONED
     "TGT_Head_MasterThief_1",
@@ -971,12 +1004,15 @@ ENUM_RAW_AttunementList = {
     "TGT_Feet_Lyricist_1",
 
     --- ALWAYS GET JUSTICIAR ARMOR
+    -- WEAPONS
     "MAG_B_Moonlight_Glaive",
 
     --- HOLY ARMOR OF SELUNE
+    -- WEAPONS
     "WPN_Full_Moon",
     "WPN_Mithril_GS",
     "WPN_Nightfall",
+    -- ETC
     "ARM_SeluneHelmet",
     "ARM_SeluneArmor",
     "ARM_SeluneBoots",
@@ -1130,5 +1166,151 @@ ENUM_RAW_AttunementList = {
     "MAG_Ring57",
     "MAG_Ring58",
     "MAG_Ring59",
+
+    --- LEGENDARY EQUIPMENT MOD
+    -- WEAPONS
+    "TV_BGLW_Hammer_of_Thunderbolts",
+    "TV_BGLW_Celestial_Fury",
+    "TV_BGLW_Shortbow_of_Gesen",
+    "TV_BGLW_Carsomyr",
+    "TV_BGLW_Daystar",
+
+    --- CUSTOM ITEM PACK
+    -- WEAPONS
+    "SUM_Myconic_Shield",
+    "SUM_Sight_Shield",
+    "SUM_Portal_Shield",
+    "SUM_Bhaal_Shield",
+    "SUM_Watcher_Shield",
+    "SUM_Myconic_Sword",
+    -- ETC
+    "SUM_Infernal_Bracers",
+    "SUM_Infernal_Mask",
+    "SUM_Karsus_Crown",
+
+    --- DROW GEAR
+    -- WEAPONS
+    "DG_Drow_Rapier_1",
+    "DG_Drow_Dagger_1",
+    "DG_Drow_Crossbow_1",
+    "DG_Performer's_Bow",
+    "DG_ReverbBlade",
+    "GOB_DrowCommander_Mace",
+    "DG_Ethereal_Shooter",
+    "DG_Biting_Bow",
+    "DG_DriderSlayer",
+    "MAG_Drowelf_SpiderSnare_Longsword",
+    "UND_Nere_Sword",
+    "DG_PoisonShot_Bow",
+    "DG_Drow_WeaverFang",
+    "DG_FaerieScorch_Mace",
+    "DG_Moonbeam_Sword",
+    "DG_Needle_Rapier",
+    "DG_Woven_Darkness",
+    "DG_TrueMoonfireSword",
+    -- ETC
+    "DG_Drow_Frayed_Gloves",
+    "DG_Drow_Stalker_Hood",
+    "DG_Drow_Thief's_Boots",
+    "MAG_Paladin_MomentumOnConcentration_Boots",
+    "DG_Bladeweaver_Ring_AC",
+    "DG_Bladeweaver_Ring_SavingThrow",
+    "DG_Bladeweaver_Ring_BonusDamage",
+    "DG_InvisCloak_Less",
+    "DG_InvisCloak",
+    "DG_DarkmistHood",
+    "DG_Assassin's_Left_Glove",
+    "DG_Assassin's_Right_Glove",
+    "DG_Drow_Dancer's_Gloves",
+    "DG_Drow_Ranger_Boots",
+    "GOB_DrowCommander_Leather_Gloves",
+    "DG_Drow_Ranger_Amulet",
+    "DG_Branded_Amulet",
+    "DG_Drow_ShadowJump_Boots",
+    "DG_ShieldofScreams_Shield",
+    "DG_Bladeweaver_Ring_True",
+    "DG_Spiderfriend_Necklace",
+    "MAG_LC_DrowSpider_Gloves",
+    "DG_Traitor_Armor",
+    "DG_Renewed_Assassin's_Gloves",
+    "DG_Exile's_Hood",
+    "DG_Drow_Cunning_Boots",
+    "FOR_NightWalkers",
+    "DG_Spidersilk_Armor",
+    "DG_DarkMind_Circlet",
+    "DG_DrowFaded_Legendary",
+    "DG_BladeDance_Amulet",
+    "DG_Bladesinger_Boots",
+    "DG_EvilBladedancerCantrips_Ring",
+    "DG_WhisperCirclet",
+    "DG_RadiantRetaliate_Amulet",
+    "ARM_StuddedLeather_Body_Drow",
+    "DG_Basic_Body_Drow",
+    "DG_Drow_Basic_Gloves",
+    "DG_Drow_Basic_Boots",
+    "DG_Drow_Basic_Hood",
+    "DG_Drow_Basic_Circlet",
+
+    --- LANIA ASSASSIN SET
+    -- WEAPONS
+    "LAS_Dagger_1",
+    "LAS_Dagger_2",
+    "LAS_Bow",
+    -- ETC
+    "LAS_Assassin_Hood",
+    "LAS_Assassin_Cloak",
+    "LAS_Assassin_Leather",
+    "LAS_Assassin_Gloves",
+    "LAS_Assassin_Boots",
+
+    --- LANIA ASSORTED ARMORY
+    -- WEAPONS
+    "LAA_Dreadwyrm_Bow",
+    "LAA_Mistmaker",
+    "LAA_ClownHammer",
+    "LAA_EOTS",
+    -- ETC
+    "LAA_Null_Circlet",
+    "LAA_Null_Mantle",
+    "LAA_Null_Plate",
+    "LAA_Null_Leather",
+    "LAA_Null_Robe",
+    "LAA_Null_Gloves",
+    "LAA_Null_Leather_Gloves",
+    "LAA_Null_Bracers",
+    "LAA_Null_Boots",
+    "LAA_Null_Sandals",
+
+    --- RARITIES OF THE REALMS
+    -- WEAPONS
+    "ARM_Very_Rare_Shield",
+    "ARM_Rare_Shield",
+    "ARM_Uncommon_Shield",
+    "ARM_FlameTongue_Greatsword",
+    -- ETC
+    "ARM_Belt_Of_Dwarvenkind",
+    "ARM_Amulet_Of_Health",
+    "ARM_Restorative_Ointment",
+    "ARM_Pearl_Of_Power",
+    "ARM_Oil_Of_Slipperiness",
+    "ARM_Medallion_Of_Thoughts",
+    "ARM_Goggles_Of_Night",
+    "ARM_Gauntlets_Of_Ogre_Power",
+    "ARM_Brooch_Of_Shielding",
+    "ARM_Boots_Of_The_Winterlands",
+    "ARM_Stone_Of_Good_Luck",
+    "ARM_Ring_Of_Warmth",
+    "ARM_Dust_Of_Disappearance",
+    "ARM_Belt_Storm_Giant_Strength",
+    "ARM_Belt_Hill_Giant_Strength",
+    "ARM_Belt_Stone_Giant_Strength",
+    "ARM_Cloak_Invisible",
+    "ARM_Horn_Of_Blasting",
+    "ARM_InvisibilityRing_ROTR",
+    "ARM_EyesOfCharming",
+    "ARM_Periapt Of Health",
+    "ARM_FeatherfallRing_ROTR",
+    "ARM_RingOfProtection_ROTR",
+    "ARM_CrystalBall_ROTR",
 
 }
