@@ -1577,4 +1577,249 @@ ENUM_RAW_AttunementList = {
     "UW_BattleMageGlovesShock_Metal",
     "UW_BattleMageCloak",
 
+    --- ARMOR OF VENGEANCE
+    -- WEAPONS
+    "AOV_MAG_Shield_Of_Vengeance",
+    "AOV_MAG_Shield_Of_Vengeance_VeryRare",
+    "AOV_MAG_Shield_Of_Vengeance_Rare",
+    "AOV_WPN_Sword_Of_Vengeance",
+    "AOV_WPN_Sword_Of_Vengeance_VeryRare",
+    "AOV_WPN_Sword_Of_Vengeance_Rare",
+    -- ETC
+    "AOV_ARM_Helmet_Of_Vengeance",
+    "AOV_ARM_Armour_Of_Vengeance",
+    "AOV_ARM_Gauntlets_Of_Vengeance",
+    "AOV_ARM_Boots_Of_Vengeance",
+    "AOV_Cloak",
+    "AOV_ARM_Helmet_Of_Vengeance_VeryRare",
+    "AOV_ARM_Armour_Of_Vengeance_VeryRare",
+    "AOV_ARM_Gauntlets_Of_Vengeance_VeryRare",
+    "AOV_ARM_Boots_Of_Vengeance_VeryRare",
+    "AOV_Cloak_VeryRare",
+    "AOV_ARM_Helmet_Of_Vengeance_Rare",
+    "AOV_ARM_Armour_Of_Vengeance_Rare",
+    "AOV_ARM_Gauntlets_Of_Vengeance_Rare",
+    "AOV_ARM_Boots_Of_Vengeance_Rare",
+    "AOV_Cloak_Rare",
+
+    --- REAPER ARMOR
+    "RAR_ARM_Reaper_Circlet",
+    "RAR_ARM_Reaper_Circlet_VeryRare",
+    "RAR_ARM_Reaper_Circlet_Rare",
+    "RAR_ARM_Reaper_Armor",
+    "RAR_MOO_Ketheric_Armor",
+    "RAR_ARM_Reaper_Armor_Rare",
+    "RAR_ARM_Reaper_Gloves",
+    "RAR_ARM_Reaper_Gloves_VeryRare",
+    "RAR_ARM_Reaper_Gloves_Rare",
+    "RAR_ARM_ReaperBoots",
+    "RAR_ARM_ReaperBoots_VeryRare",
+    "RAR_ARM_ReaperBoots_Rare",
+    "RAR_ARM_Reaper_Cloak",
+    "RAR_ARM_Reaper_Cloak_VeryRare",
+    "RAR_ARM_Reaper_Cloak_Rare",
+
+    --- GUARDIAN ARMOR
+    "GAR_Guardian_Circlet",
+    "GAR_Guardian_Plate",
+    "GAR_Guardian_Gloves",
+    "GAR_Guardian_Boots",
+    "GAR_Cloak",
+
+    ----------------------------------------- WEAPON MODS ------------------------------------------ 
+
+    --- ANSURS MERCY RAPIER
+    "AMC_Rapier_3",
+
+    --- APOSTYLES SCYTHE
+    "CHR_Apostle_Scythe",
+
+    --- AXE OF KAHN
+    "MAG_Axe_of_the_Kahn",
+
+    --- BLADE OF CHAOS
+    "Curotar_BladesOfChaos",
+    "Curotar_BladesOfChaos_2",
+
+    --- DAVES LEGENDARY
+    "DLW_GravityHammer",
+    "DLW_VerdantHills",
+    "DLW_ArcticArrow",
+    "DLW_Supernova",
+    "DLW_Singularity",
+    "DLW_DarkeningSkies",
+    "DLW_CrescentOfHeaven",
+    "DLW_StingingRemark",
+    "DLW_MoonlightBastion",
+    "DLW_Elegy",
+
+    --- ELVEN BLADE WEAPONRY
+    "Test_Elven_Scimitar",
+    "Sharp_Elven_Scimitar",
+    "Mastercraf_Elven_Scimitar",
+    "Poison_Elven_Scimitar",
+    "Wind_Elven_Scimitar",
+    "Magic_Elven_Scimitar",
+    "Legend_Elven_Scimitar",
+
+    --- ELVEN KATANA WEAPONRY
+    "EW_Katana_Test",
+    "EW_Katana_Old",
+    "EW_Katana_Reforged",
+    "EW_Katana_Infused",
+    "EW_Katana_Anointed",
+    "EW_Katana_Reborn",
+
+    --- ELVEN LONGBOW WEAPONRY
+    "EW_Ranger_Longbow",
+    "EW_Elven_Longbow",
+    "EW_Relic_Longbow",
+    "EW_Faerie_Longbow",
+    "EW_Sussur_Longbow",
+    "EW_True_Lighting_Longbow",
+    "EW_Slayer_Longbow",
+    "EW_Legend_Longbow",
+
+    --- GABETTS HAND CROSSBOWS
+    "GAB_Achilles",
+    "GAB_StalksInShadows",
+    "GAB_QuickThinker",
+    "GAB_Tactician",
+    "GAB_AllTrades",
+    "GAB_SomeTrades",
+    "GAB_WaterGun",
+    "GAB_Taser",
+    "GAB_RightTool",
+    "GAB_MisserDeluxe",
+    "GAB_Charming",
+    "GAB_Wise",
+    "GAB_Intelligent",
+    "GAB_Tinkertop",
+    "GAB_MisserUltraDeluxe",
+    "GAB_Tribute",
+    "GAB_Phasestrike",
+    "GAB_ArcaneBlaster",
+    "GAB_Stingtail",
+    "GAB_Twinshot",
+    "GAB_Soulthief",
+
+    --- HAILEYS ELEMENTAL DAGGERS
+    "HLY_FireDagger",
+    "HLY_FireDagger_1",
+    "HLY_FireDagger_2",
+    "HLY_FireDagger_3",
+    "HLY_IceDagger",
+    "HLY_IceDagger_1",
+    "HLY_IceDagger_2",
+    "HLY_IceDagger_3",
+    "HLY_AcidDagger",
+    "HLY_AcidDagger_1",
+    "HLY_AcidDagger_2",
+    "HLY_AcidDagger_3",
+    "HLY_LightningDagger",
+    "HLY_LightningDagger_1",
+    "HLY_LightningDagger_2",
+    "HLY_LightningDagger_3",
+    "HLY_ThunderDagger",
+    "HLY_ThunderDagger_1",
+    "HLY_ThunderDagger_2",
+    "HLY_ThunderDagger_3",
+    "HLY_ThunderDagger_4",
+    "HLY_RadiantDagger",
+    "HLY_RadiantDagger_1",
+    "HLY_RadiantDagger_2",
+    "HLY_RadiantDagger_3",
+    "HLY_NecroticDagger",
+    "HLY_NecroticDagger_1",
+    "HLY_NecroticDagger_2",
+    "HLY_NecroticDagger_3",
+    "HLY_PsychicDagger",
+    "HLY_PsychicDagger_1",
+    "HLY_PsychicDagger_2",
+    "HLY_PsychicDagger_3",
+    "HLY_ForceDagger",
+    "HLY_ForceDagger_1",
+    "HLY_ForceDagger_2",
+    "HLY_ForceDagger_3",
+    "HLY_PoisonDagger",
+    "HLY_PoisonDagger_1",
+    "HLY_PoisonDagger_2",
+    "HLY_PoisonDagger_3",
+
+    --- ANSURS LIGHTNING LONGSWORD
+    "AMC_Longsword_3",
+
+    --- MORE HANDAXES
+    "HDX_UndeadDemise",
+    "HDX_SlashMercy",
+    "HDX_Mageslayer",
+    "HDX_Rip",
+    "HDX_Tear",
+    "HDX_Bloodthirst",
+    "HDX_Overmountain",
+    "HDX_Unrelenting",
+    "HDX_Poisoned",
+    "HDX_Zerker",
+    "HDX_OrinSucks",
+    "HDX_Carnage",
+    "HDX_Pursuit",
+
+    --- MYTHICAL WEAPONS
+    "MythicalWeapons_Pridwen",
+    "MythicalWeapons_Failnaught",
+    "MythicalWeapons_Excalibur",
+    "MythicalWeapons_Gae_Bolg",
+    "MythicalWeapons_Labrys",
+    "MythicalWeapons_Crocea_Mors",
+    "MythicalWeapons_Arondight",
+
+    --- NINJATO
+    "WPN_Ninjato_Yellow",
+    "WPN_Ninjato_Purple",
+    "WPN_Ninjato_Blue",
+    "WPN_Ninjato_Green",
+    "WPN_Katana_Yellow",
+    "WPN_Katana_Purple",
+    "WPN_Katana_Blue",
+    "WPN_Katana_Green",
+
+    --- STAR RAZOR
+    "Star Razor_Dwuethvar_Star_Razor",
+
+    --- KRAKENS MIRTH
+    "JPT_KraMir_Rapier",
+
+    --- TYRS JUSTICE
+    "OBJ_LIA_TyrsJustice",
+
+    --- UNDERWOOD WEAPON PACK
+    "UW_Shield",
+    "UW_Maul",
+    "UW_Warhammer",
+    "UW_Greataxe",
+    "UW_Battleaxe",
+    "UW_Morningstar",
+    "UW_Avernus",
+    "UW_Order",
+    "UW_AnsurBreath",
+    "UW_AnsurCry",
+    "UW_HandaxeOne",
+    "UW_HandaxeTwo",
+    "UW_LightHammerOne",
+    "UW_LightHammerTwo",
+    "UW_StygiaOne",
+    "UW_StygiaTwo",
+    "UW_Halberd",
+    "UW_Venom",
+    "UW_Spear",
+    "UW_Longsword",
+    "UW_Longbow",
+    "UW_HeavyCrossbow",
+    "UW_AvernusMorningstar",
+    "UW_Greatsword",
+    "UW_Greatclub",
+
+    --- WHISPER
+    "Whisper_Whisper",
+
 }
