@@ -1377,6 +1377,7 @@ ENUM_RAW_AttunementList = {
     "ELDER_Amulet_6",
     "ELDER_Amulet_7",
     "ELDER_Amulet_8",
+    "ELDER_Amulet_9",
 
     --- EXTRA GEAR
     "EG_Body_A",
