@@ -613,7 +613,7 @@ ENUM_RAW_AttunementList = {
     "MAG_Force_Pike", -- BREACHING PIKESTAFF
     "MAG_TheImpaler_Pike", -- THE IMPALER
     --- HEAVY CROSSBOW
-    -- "MAG_LowHP_IncreaseDamagePsychic_GithHeavyCrossbow", -- GITHYANKI CROSSBOW? (SAME WITH HEAVY CROSSBOW +1)
+    "MAG_LowHP_IncreaseDamagePsychic_GithHeavyCrossbow", -- GITHYANKI CROSSBOW? (SAME WITH HEAVY CROSSBOW +1)
     "MAG_Githborn_TelekineticBolt_HeavyCrossbow", -- CROSSBOW OF ARCANE FORCE
     "MAG_Gandrel_UndeadSlayer_HeavyCrossbow", -- GANDREL'S ASPIRATION
     "MAG_MeleeDebuff_AttackDebuff2_OnDamage_HeavyCrossbow", -- GIANTBREAKER
@@ -683,7 +683,7 @@ ENUM_RAW_AttunementList = {
     "MAG_LC_CazadorVampiric_Quarterstaff", -- WOE
     "MAG_TheChromatic_Staff", -- MARKOHESHKIR
     --- LONGSWORD
-    -- "MAG_LowHP_IncreaseDamagePsychic_GithLongsword", -- GITHYANKI LONGSWORD (SAME AS LONGSWORD +1)
+    "MAG_LowHP_IncreaseDamagePsychic_GithLongsword", -- GITHYANKI LONGSWORD (SAME AS LONGSWORD +1)
     "MAG_OB_Paladin_DeathKnight_Longsword", -- BLACKGUARD'S SWORD
     "MAG_Illithid_MindOverload_Weapon_Longsword", -- BLADE OF OPPRESSED SOULS
     "MAG_Drowelf_SpiderSnare_Longsword", -- CRUEL STING
@@ -705,7 +705,7 @@ ENUM_RAW_AttunementList = {
     "MAG_LC_Wave_Trident", -- TRIDENT OF THE WAVES
     "MAG_TheThorns_Trident", -- NYRULNA
     --- WARHAMMER
-    -- "LOW_OrphicHammer", -- ORPHIC HAMMER (QUEST ITEM)
+    "LOW_OrphicHammer", -- ORPHIC HAMMER (QUEST ITEM)
     "GOB_GoblinKing_Warhammer", -- FAITHBREAKER
     "UND_DuergarRaft_GruesomeHammer", -- INTRANSIGENT WARHAMMER
     "MAG_Bonded_Shocking_Warhammer", -- CHARGE-BOUND WARHAMMER
@@ -736,8 +736,8 @@ ENUM_RAW_AttunementList = {
     "MAG_LC_BurnOnDamage_Scimitar", -- KURWIN'S CAUTERISER
     "MAG_LC_PirateCommander_Scimitar", --- SALTY SCIMITAR (RRR)
     --- SHORTSWORD
-    -- "MAG_LowHP_IncreaseDamagePsychic_GithShortsword", -- GITHYANKI SHORTSWORD (SAME WITH SHORTSWORD +1)
     -- "WPN_Trepan", -- TREPAN (TOO WEAK)
+    "MAG_LowHP_IncreaseDamagePsychic_GithShortsword", -- GITHYANKI SHORTSWORD (SAME WITH SHORTSWORD +1)
     "MAG_Surgeon_Trepan", -- SURGEON TREPAN
     "TWN_ShortswordOfStealth", -- ASSASSIN'S SHORTSWORD
     "MAG_Blindside_Shortsword", -- RENDER OF MIND AND BODY
@@ -1625,6 +1625,43 @@ ENUM_RAW_AttunementList = {
     "GAR_Guardian_Gloves",
     "GAR_Guardian_Boots",
     "GAR_Cloak",
+
+    --- DRUID ITEMS
+    -- WEAPONS
+    "SYR_Quarterstaff_MoonDruid_Violence",
+    "SYR_Quarterstaff_MoonDruid_Shadowcursed",
+    "SYR_Legendary_MoonDruid_Staff",
+    "SYR_Shortbow_Druid_Uncommon",
+    "SYR_Shortbow_Druid_VeryRare",
+    -- ETC
+    "SYR_Helmet_Druid_Uncommon",
+    "SYR_Helmet_Druid_Rare",
+    "MAG_Druid_Wildshape_Hat",
+    "SYR_Druid_Helmet_StormsCrown",
+    "SYR_Armor_Druid_Uncommon",
+    "SYR_Armor_Druid_Rare",
+    "SYR_Amulet_Druid_Sanctuary_Uncommon",
+    "SYR_Amulet_Druid_Sanctuary_Rare",
+    "SYR_Amulet_Druid_Sanctuary_VeryRare",
+    "SYR_Amulet_Druid_Dipped",
+    "SYR_Amulet_Druid_ColdDamage",
+    "SYR_Cloak_Druid_Str",
+    "SYR_Cloak_Druid_Dex",
+    "SYR_Cloak_Druid_StrDex",
+    "SYR_Gloves_Druid_ChargedLightning",
+    "SYR_Footwear_Druid_Dash",
+    "SYR_Footwear_Druid_Jump",
+    "SYR_Footwear_Druid_Kick",
+    "SYR_Footwear_Druid_CreateWater",
+    "SYR_Ring_Druid_HelpingRing",
+    "SYR_Ring_Druid_Persuasion",
+    "SYR_Ring_Druid_Thorns",
+    "SYR_Ring_Druid_Harpy",
+    "SYR_Ring_Druid_Sanguine",
+    "SYR_Ring_Druid_Tempest_Displacer",
+    "SYR_Ring_Druid_Reactivate_Bonus",
+    "SYR_Ring_Druid_SeethingFury",
+    "SYR_Shield_Druid_Regen",
 
     ----------------------------------------- WEAPON MODS ------------------------------------------ 
 
