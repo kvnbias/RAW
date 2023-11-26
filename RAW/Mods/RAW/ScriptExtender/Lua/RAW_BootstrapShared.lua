@@ -12,20 +12,22 @@ Ext.Require(RAW_StatsLoadedPath .. "RAW_CharacterPassives.lua")
 Ext.Require(RAW_StatsLoadedPath .. "RAW_Concentration.lua")
 Ext.Require(RAW_StatsLoadedPath .. "RAW_Attunement.lua")
 Ext.Require(RAW_StatsLoadedPath .. "RAW_EquipAction.lua")
+Ext.Require(RAW_StatsLoadedPath .. "RAW_ShieldMaster.lua")
 
 local function RAW_StatsLoaded()
-    Ext.Utils.Print("\n====================================================================================================")
-    Ext.Utils.Print(CentralizedString("[RAW:BootstrapShared.lua] StatsLoaded Start"))
-    Ext.Utils.Print("====================================================================================================\n")
+    RAW_PrintIfDebug("\n====================================================================================================", RAW_PrintTable_ModOptions)
+    RAW_PrintIfDebug(CentralizedString("[RAW:BootstrapShared.lua] StatsLoaded Start"), RAW_PrintTable_ModOptions)
+    RAW_PrintIfDebug("====================================================================================================\n", RAW_PrintTable_ModOptions)
 
     RAW_CharacterPassives()
     RAW_Concentration()
     RAW_EquipAction()
+    RAW_ShieldMaster()
     RAW_Attunement()
 
-    Ext.Utils.Print("\n====================================================================================================")
-    Ext.Utils.Print(CentralizedString("[RAW:BootstrapShared.lua] StatsLoaded Ended"))
-    Ext.Utils.Print("====================================================================================================\n")
+    RAW_PrintIfDebug("\n====================================================================================================", RAW_PrintTable_ModOptions)
+    RAW_PrintIfDebug(CentralizedString("[RAW:BootstrapShared.lua] StatsLoaded Ended"), RAW_PrintTable_ModOptions)
+    RAW_PrintIfDebug("====================================================================================================\n", RAW_PrintTable_ModOptions)
 end
 
 Ext.Events.StatsLoaded:Subscribe(RAW_StatsLoaded)
@@ -36,13 +38,21 @@ local RAW_OsirisFilesPath = "Osiris/"
 Ext.Require(RAW_OsirisFilesPath .. "RAW_WeaponSets.lua")
 
 if Ext.IsServer() then
-    Ext.Utils.Print("\n====================================================================================================")
-    Ext.Utils.Print(CentralizedString("[RAW:BootstrapShared.lua] Osiris Registration Start"))
-    Ext.Utils.Print("====================================================================================================\n")
+    RAW_PrintIfDebug("\n====================================================================================================", RAW_PrintTable_ModOptions)
+    RAW_PrintIfDebug(CentralizedString("[RAW:BootstrapShared.lua] Osiris Registration Start"), RAW_PrintTable_ModOptions)
+    RAW_PrintIfDebug("====================================================================================================\n", RAW_PrintTable_ModOptions)
 
     RAW_WeaponSets()
 
-    Ext.Utils.Print("\n====================================================================================================")
-    Ext.Utils.Print(CentralizedString("[RAW:BootstrapShared.lua] Osiris Registration Ended"))
-    Ext.Utils.Print("====================================================================================================\n")
+    RAW_PrintIfDebug("\n====================================================================================================", RAW_PrintTable_ModOptions)
+    RAW_PrintIfDebug(CentralizedString("[RAW:BootstrapShared.lua] Osiris Registration Ended"), RAW_PrintTable_ModOptions)
+    RAW_PrintIfDebug("====================================================================================================\n", RAW_PrintTable_ModOptions)
 end
+
+-- To-do: Activate this when the changes to RAW_Config.lua ShowError is made
+-- Menu event for Config popup
+-- Ext.Events.GameStateChanged:Subscribe(function(e)
+--     if e.ToState == "Menu" then
+        -- RAW_LoadModOptions(true)
+--     end
+-- end)

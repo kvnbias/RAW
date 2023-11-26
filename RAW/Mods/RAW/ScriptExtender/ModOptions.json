@@ -1,9 +1,9 @@
 {
     "attunement": {
         "displayName": "Attunement",
-        "description": "Sets a limit to the amount of magic items a character can have attuned at once (choose a value between 1 and 10).",
+        "description": "Sets a limit to the amount of magic items a character can have attuned at once (choose a value between 1 and 16).",
         "enabled": true,
-        "value": 5,
+        "value": 4,
         "dependencies": [],
         "conflicts": [],
         "files": {
@@ -45,6 +45,23 @@
             "disabled": [
                 {
                     "from": "Public/RAW/Stats/Generated/Data/Downed.txt",
+                    "to": "Public/RAW/Stats/Generated/Data/Empty.txt"
+                }
+            ]
+        }
+    },
+    "shieldMaster": {
+        "displayName": "Shield Master",
+        "description": "Changes to Shield Master.",
+        "enabled": true,
+        "value": null,
+        "dependencies": [],
+        "conflicts": [],
+        "files": {
+            "enabled": [],
+            "disabled": [
+                {
+                    "from": "Public/RAW/Stats/Generated/Data/ShieldMaster.txt",
                     "to": "Public/RAW/Stats/Generated/Data/Empty.txt"
                 }
             ]

@@ -134,16 +134,20 @@ end
 -- Print only if the value is set (not commented) on the table
 RAW_PrintTable_ModOptions = 0
 RAW_PrintTable_Attunement = 1
-RAW_PrintTable_CharacterPassives = 3
-RAW_PrintTable_Concentration = 4
-RAW_PrintTable_FreeWeaponEquip = 7
-RAW_PrintTable_WeaponSets = 14
+RAW_PrintTable_CharacterPassives = 2
+RAW_PrintTable_Concentration = 3
+RAW_PrintTable_FreeWeaponEquip = 4
+RAW_PrintTable_ShieldMaster = 5
+RAW_PrintTable_WeaponSets = 6
 
 local ENUM_RAW_PrintTable = RAW_Set {
     RAW_PrintTable_ModOptions,
     -- RAW_PrintTable_Attunement,
+    -- RAW_PrintTable_Barbarian_Berserker,
+    -- RAW_PrintTable_CantripsScaling,
     -- RAW_PrintTable_CharacterPassives,
     -- RAW_PrintTable_Concentration,
+    -- RAW_PrintTable_ShieldMaster,
     -- RAW_PrintTable_FreeWeaponEquip,
     -- RAW_PrintTable_WeaponSets,
 }
@@ -153,7 +157,7 @@ RAW_PrintTypeWarning = "warning"
 RAW_PrintTypeError = "error"
 
 function RAW_PrintIfDebug(text, debug, level)
-    if ENUM_RAW_PrintTable[debug] then
+    if (type(debug) == "boolean" and debug) or ENUM_RAW_PrintTable[debug] then
         if type(text) == "string" then
             if level == RAW_PrintTypeError then
                 Ext.Utils.PrintError(text)

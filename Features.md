@@ -10,7 +10,7 @@ _Developed in partnership with [Eric](https://www.nexusmods.com/baldursgate3/mod
 * Several magical items now require attunement. [Here's the list](https://docs.google.com/spreadsheets/d/1yCJ9ITC180dqykK713iHMEsrvVOHkgOmLF882-yr_hQ/edit#gid=0&fvid=1734738953)
   - To attune to an item, you simply equip it
   - Items that require attunement can only be equipped outside of combat (except for weapons)
-* You have a maximum number of items that can be attuned at once to each character (amount modifiable on the optional files, maximum is 12, default is 5)
+* You have a maximum number of items that can be attuned at once to each character (amount modifiable on the optional files, maximum is 16, default is 4)
   - After reaching your maximum amount of attuned items, you can no longer equip items that require attunement
   - To end an attunement, simply unequip an item that requires it
 
@@ -29,6 +29,10 @@ _Quality of Life feature_
 
 ## Stabilize ⚙️ `stabilize`
 * Help stabilizes the target (Medicine `DC 10`), and the stabilized character is healed once out of combat. If the character is stabilized own their own by succeeding the Death Saving Throws, they will still require a Help Action (and the Medicine Check) to regain 1 HP
+
+## Shield Master ⚙️ `shieldMaster`
+_Dependencies: [`defaultActions`](https://github.com/kvnbias/ZerdBG3/blob/main/Features.md#default-actions-%EF%B8%8F-defaultactions)_
+* Shield Master: Gives Shove (both options) as a bonus action after attacking on your turn
 
 ## Weapon Sets ⚙️ `weaponSets`
 * Removes the possibility of having a melee and a ranged weapon equipped at the same time, on the different weapon slots
