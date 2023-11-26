@@ -10,9 +10,6 @@
         "downed": {
             "enabled": true
         },
-        "shieldMaster": {
-            "enabled": true
-        },
         "freeWeaponEquip": {
             "enabled": true
         },

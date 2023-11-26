@@ -50,23 +50,6 @@
             ]
         }
     },
-    "shieldMaster": {
-        "displayName": "Shield Master",
-        "description": "Changes to Shield Master.",
-        "enabled": true,
-        "value": null,
-        "dependencies": [],
-        "conflicts": [],
-        "files": {
-            "enabled": [],
-            "disabled": [
-                {
-                    "from": "Public/RAW/Stats/Generated/Data/ShieldMaster.txt",
-                    "to": "Public/RAW/Stats/Generated/Data/Empty.txt"
-                }
-            ]
-        }
-    },
     "freeWeaponEquip": {
         "displayName": "Free Weapon Equip",
         "description": "The first weapon equipped in a turn doesn't cost an Action Point.",

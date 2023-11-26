@@ -30,10 +30,6 @@ _Quality of Life feature_
 ## Stabilize ⚙️ `stabilize`
 * Help stabilizes the target (Medicine `DC 10`), and the stabilized character is healed once out of combat. If the character is stabilized own their own by succeeding the Death Saving Throws, they will still require a Help Action (and the Medicine Check) to regain 1 HP
 
-## Shield Master ⚙️ `shieldMaster`
-_Dependencies: [`defaultActions`](https://github.com/kvnbias/ZerdBG3/blob/main/Features.md#default-actions-%EF%B8%8F-defaultactions)_
-* Shield Master: Gives Shove (both options) as a bonus action after attacking on your turn
-
 ## Weapon Sets ⚙️ `weaponSets`
 * Removes the possibility of having a melee and a ranged weapon equipped at the same time, on the different weapon slots
   - _The reasoning for this is to avoid benefiting from bonuses (like AC from shields, or Spells from weapons) while using the other set_

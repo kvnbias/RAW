@@ -137,17 +137,13 @@ RAW_PrintTable_Attunement = 1
 RAW_PrintTable_CharacterPassives = 2
 RAW_PrintTable_Concentration = 3
 RAW_PrintTable_FreeWeaponEquip = 4
-RAW_PrintTable_ShieldMaster = 5
-RAW_PrintTable_WeaponSets = 6
+RAW_PrintTable_WeaponSets = 5
 
 local ENUM_RAW_PrintTable = RAW_Set {
     RAW_PrintTable_ModOptions,
     -- RAW_PrintTable_Attunement,
-    -- RAW_PrintTable_Barbarian_Berserker,
-    -- RAW_PrintTable_CantripsScaling,
     -- RAW_PrintTable_CharacterPassives,
     -- RAW_PrintTable_Concentration,
-    -- RAW_PrintTable_ShieldMaster,
     -- RAW_PrintTable_FreeWeaponEquip,
     -- RAW_PrintTable_WeaponSets,
 }

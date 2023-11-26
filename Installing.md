@@ -22,7 +22,6 @@
 | [attunement](https://github.com/kvnbias/ZerdBG3/blob/main/Features.md#attunement-%EF%B8%8F-attunement) | 5 | Sets a limit to the amount of magic items a character can have attuned at once (choose a value between 1 and 12). |
 | [concentration_failsafe](https://github.com/kvnbias/ZerdBG3/blob/main/Features.md#concentration-failsafe-%EF%B8%8F-concentration_failsafe) | - | Gives the player a toggleable passive that stops them from casting concentration spells while already concentrating. |
 | [downed](https://github.com/kvnbias/ZerdBG3/blob/main/Features.md#downed-%EF%B8%8F-downed) | - | - | Healing a downed character allows them to play their turn normally. |
-| [`shieldMaster`](https://github.com/ZerdBG3/RAW/blob/main/Features.md#shield-master-%EF%B8%8F-shieldMaster) | - | - | Changes to Shield Master. |
 | [freeWeaponEquip](https://github.com/kvnbias/ZerdBG3/blob/main/Features.md#free-weapon-equip-%EF%B8%8F-freeweaponequip) | - | - | The first weapon equipped in a turn doesn't cost an Action Point. |
 | [stabilize](https://github.com/kvnbias/ZerdBG3/RAW/blob/main/Features.md#stabilize-%EF%B8%8F-stabilize) | - | - | Changes Help to only stabilize a character, healing once out of combat. |
 | [weaponSets](https://github.com/kvnbias/ZerdBG3/RAW/blob/main/Features.md#weapon-sets-%EF%B8%8F-weaponsets) | - | Disable Weapon Sets. Equipping a ranged weapon unequips melee weapons and vice-versa. |
