@@ -8,9 +8,9 @@ RAW_LoadModOptions()
 -- StatsLoaded Event
 local RAW_StatsLoadedPath = "StatsLoaded/"
 
+Ext.Require(RAW_StatsLoadedPath .. "RAW_Attunement.lua")
 Ext.Require(RAW_StatsLoadedPath .. "RAW_CharacterPassives.lua")
 Ext.Require(RAW_StatsLoadedPath .. "RAW_Concentration.lua")
-Ext.Require(RAW_StatsLoadedPath .. "RAW_Attunement.lua")
 Ext.Require(RAW_StatsLoadedPath .. "RAW_EquipAction.lua")
 
 local function RAW_StatsLoaded()

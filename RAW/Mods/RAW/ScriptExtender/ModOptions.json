@@ -3,7 +3,7 @@
         "displayName": "Attunement",
         "description": "Sets a limit to the amount of magic items a character can have attuned at once (choose a value between 1 and 16).",
         "enabled": true,
-        "value": 4,
+        "value": 5,
         "dependencies": [],
         "conflicts": [],
         "files": {

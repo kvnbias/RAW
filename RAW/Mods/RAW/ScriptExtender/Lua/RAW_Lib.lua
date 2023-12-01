@@ -134,10 +134,10 @@ end
 -- Print only if the value is set (not commented) on the table
 RAW_PrintTable_ModOptions = 0
 RAW_PrintTable_Attunement = 1
-RAW_PrintTable_CharacterPassives = 2
-RAW_PrintTable_Concentration = 3
-RAW_PrintTable_FreeWeaponEquip = 4
-RAW_PrintTable_WeaponSets = 5
+RAW_PrintTable_CharacterPassives = 4
+RAW_PrintTable_Concentration = 5
+RAW_PrintTable_FreeWeaponEquip = 9
+RAW_PrintTable_WeaponSets = 16
 
 local ENUM_RAW_PrintTable = RAW_Set {
     RAW_PrintTable_ModOptions,

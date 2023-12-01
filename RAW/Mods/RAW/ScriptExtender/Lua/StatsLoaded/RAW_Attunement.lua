@@ -47,8 +47,8 @@ function RAW_Attunement()
     RAW_PrintIfDebug(CentralizedString("Starting the Attunement rules application"), RAW_PrintTable_Attunement)
 
     local maxAttunement = ModOptions["attunement"].value
-    if not RAW_IsIntegerBetween(maxAttunement, 1, 12) then
-        RAW_PrintIfDebug("Zerd's RAW\nInvalid attunement value on config file (should be an integer between 1 and 12)\nReverting to default (5)",
+    if not RAW_IsIntegerBetween(maxAttunement, 1, 16) then
+        RAW_PrintIfDebug("Zerd's RAW\nInvalid attunement value on config file (should be an integer between 1 and 16)\nReverting to default (5)",
             RAW_PrintTable_ModOptions, RAW_PrintTypeError)
         maxAttunement = 5
     end
