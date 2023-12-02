@@ -136,6 +136,7 @@ ENUM_RAW_AttunementList = {
     "FOR_SpiderQueen_Robe", -- POISONER'S ROBE
     "UNI_RobeOfSummer", -- ROBE OF SUMMER
     "MAG_Monk_Magic_Armor", -- ARMOUR OF UNINHIBITED KUSHIGO
+    "MAG_Orin_Cloth", -- MUTILATED CARAPACE
     --- LIGHT ARMOR
     "MAG_Shadow_StealthBonusWhileObscured_Armor", -- PENUMBRAL ARMOUR
     "MAG_Harpers_ArmorOfShadows", -- SHADECLINGER ARMOUR
@@ -1166,6 +1167,9 @@ ENUM_RAW_AttunementList = {
     "MAG_Ring57",
     "MAG_Ring58",
     "MAG_Ring59",
+    "MAG_Ring60",
+    "MAG_Ring61",
+    "MAG_Ring62",
 
     --- LEGENDARY EQUIPMENT MOD
     -- WEAPONS
@@ -1639,6 +1643,36 @@ ENUM_RAW_AttunementList = {
     "GAR_Guardian_Gloves",
     "GAR_Guardian_Boots",
     "GAR_Cloak",
+
+    -- VESTMENTS OF THE FAITHFUL
+    "FRA_BaniteMenaceHood",
+    "FRA_BaniteTalonHood",
+    "FRA_BaniteDreadMasterHelm",
+    "FRA_BaniteDeathMask",
+    "FRA_BanitePlateArmor_A",
+    "FRA_BanitePlateArmor_B",
+    "FRA_BaniteHalfplate_A",
+    "FRA_BaniteHalfplate_B",
+    "FRA_BaniteLeather_A",
+    "FRA_BaniteLeather_B",
+    "FRA_BaniteLeather_C",
+    "FRA_BaniteGloves",
+    "FRA_BaniteBoots_Metal",
+    "FRA_IlmateriAmulet",
+    "FRA_IlmateriBinds",
+    "FRA_IlmateriRobes_A_nosleevesnopants",
+    "FRA_IlmateriRobes_B_yessleevesnopants",
+    "FRA_IlmateriRobes_C_nosleevesyespants",
+    "FRA_IlmateriRobes_D_yessleevesyespants",
+    "FRA_RQ_TheQueensWig",
+    "FRA_RQ_CowlofMemories",
+    "FRA_RQ_DesiresGown_Ensemble",
+    "FRA_RQ_DesiresGown_Leggings",
+    "FRA_RQ_DesiresGown_HarbingersStole",
+    "FRA_RQ_DesiresGown",
+    "FRA_RQ_HarbingersStole",
+    "FRA_RQ_ShadowMantle",
+    "FRA_RQ_HarbingersStole_ShadowMantle",
 
     --- DRUID ITEMS
     -- WEAPONS
