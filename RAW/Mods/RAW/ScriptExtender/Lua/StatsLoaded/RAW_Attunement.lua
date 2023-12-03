@@ -1454,6 +1454,17 @@ ENUM_RAW_AttunementList = {
     "EG_ARM_Harper_Body_Alt",
     "EG_ARM_Harper_Gloves",
     "EG_ARM_Harper_Boots",
+    "EG_ARM_Druid_Body_A",
+    "EG_ARM_Druid_Body_B",
+    "EG_ARM_Druid_Body_A_Sleeveless",
+    "EG_ARM_Druid_Body_B_Sleeveless",
+    "EG_ARM_Druid_Bracer_A",
+    "EG_ARM_Druid_Bracer_B",
+    "EG_ARM_Druid_Boots",
+    "EG_ARM_Druid_Antlers",
+    "EG_ARM_Selunite_Medium_Body",
+    "EG_MAG_Cloak_Short",
+    "EG_ARM_Selunite_Robe_Body",
 
     --- KHARESH
     "OBJ_VIG_Kharesh",
