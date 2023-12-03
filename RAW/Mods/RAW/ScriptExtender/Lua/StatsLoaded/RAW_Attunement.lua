@@ -1266,6 +1266,9 @@ ENUM_RAW_AttunementList = {
     "LAS_Assassin_Leather",
     "LAS_Assassin_Gloves",
     "LAS_Assassin_Boots",
+    "LAS_Assassin_Ring_1",
+    "LAS_Assassin_Ring_2",
+    "LAS_Assassin_Choker",
 
     --- LANIA ASSORTED ARMORY
     -- WEAPONS
