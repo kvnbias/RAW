@@ -1724,6 +1724,14 @@ ENUM_RAW_AttunementList = {
     "SYR_Ring_Druid_SeethingFury",
     "SYR_Shield_Druid_Regen",
 
+    --- HEADBANDS FOR ALL STATS
+    "SMR_HeadbandOfStrength",
+    "SMR_HeadbandOfDexterity",
+    "SMR_HeadbandOfConstitution",
+    "SMR_HeadbandOfIntelligence",
+    "SMR_HeadbandOfWisdom",
+    "SMR_HeadbandOfCharisma",
+
     ----------------------------------------- WEAPON MODS ------------------------------------------ 
 
     --- ANSURS MERCY RAPIER
@@ -1919,5 +1927,44 @@ ENUM_RAW_AttunementList = {
 
     --- WHISPER
     "Whisper_Whisper",
+
+    --- ANCIENT WEAPONRY
+    "MAG_Weapon1",
+    "MAG_Weapon2",
+    "MAG_Weapon3",
+    "MAG_Weapon4",
+    "MAG_Weapon5",
+    "MAG_Weapon6",
+    "MAG_Weapon7",
+    "MAG_Weapon8",
+    "MAG_Weapon9",
+    "MAG_Weapon10",
+    "MAG_Weapon11",
+    "MAG_Weapon12",
+    "MAG_Weapon13",
+    "MAG_Weapon14",
+    "MAG_Weapon15",
+    "MAG_Weapon16",
+    "MAG_Weapon17",
+    "MAG_Weapon18",
+    "MAG_Weapon19",
+    "MAG_Weapon20",
+    "MAG_Weapon21",
+    "MAG_Weapon22",
+    "MAG_Weapon23",
+    "MAG_Weapon24",
+    "MAG_Weapon25",
+    "MAG_Weapon26",
+    "MAG_Weapon27",
+    "MAG_Weapon28",
+    "MAG_Weapon29",
+    "MAG_Weapon30",
+    "MAG_Weapon31",
+    "MAG_Weapon32",
+    "MAG_Weapon33",
+
+    -------------------------------------------- MISC ---------------------------------------------- 
+
+    "WPN_Kuotoa_Shield_A_0",
 
 }
