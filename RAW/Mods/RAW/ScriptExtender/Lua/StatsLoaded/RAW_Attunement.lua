@@ -1965,6 +1965,6 @@ ENUM_RAW_AttunementList = {
 
     -------------------------------------------- MISC ---------------------------------------------- 
 
-    "WPN_Kuotoa_Shield_A_0",
+    -- "MAG_Kuotoa_Fossilised_Shell",
 
 }
