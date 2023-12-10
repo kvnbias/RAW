@@ -1982,6 +1982,10 @@ ENUM_RAW_AttunementList = {
     "MAG_Weapon32",
     "MAG_Weapon33",
 
+    --- INSTRUMENTS OF THE BARD
+    "IB_SB_Doss",
+    "IB_SB_Cli",
+
     -------------------------------------------- MISC ---------------------------------------------- 
 
     -- "MAG_Kuotoa_Fossilised_Shell",
