@@ -1986,6 +1986,15 @@ ENUM_RAW_AttunementList = {
     "IB_SB_Doss",
     "IB_SB_Cli",
 
+    --- ELVEN SPEARS
+    "EW_Spear_Test",
+    "EW_Spear_Reforged",
+    "EW_Spear_Infused",
+    "EW_Spear_Goblin_Slayer",
+    "EW_Spear_Hunter",
+    "EW_Spear_Spellweaver",
+    "EW_Spear_Legendary",
+
     -------------------------------------------- MISC ---------------------------------------------- 
 
     -- "MAG_Kuotoa_Fossilised_Shell",
