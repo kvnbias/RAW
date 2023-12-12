@@ -885,6 +885,14 @@ ENUM_RAW_AttunementList = {
     "ARM_Mystic_Sadism_Ring",
     "ARM_Mystic_MentalExertion_Ring",
 
+    --- CIRCLE OF THE SHEPHERD
+    "WPN_MoonSickle",
+    "WPN_ShepherdsCrook",
+    "MAG_CatnipLocket",
+    "MAG_HatOfVermin",
+    "MAG_TitanMaster",
+    "MAG_UnbreakableMind",
+
     --- PHALAR ALUVE LEGENDARY
     -- WEAPONS
     "UND_SwordInStoneV2",
