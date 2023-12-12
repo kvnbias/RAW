@@ -716,7 +716,7 @@ ENUM_RAW_AttunementList = {
     "MAG_Infernal_Warhammer", -- INFERNAL WARHAMMER
     "MAG_Ketheric_Warhammer", -- KETHERIC'S WARHAMMER
     --- MORNING STAR
-    "MAG_Dawn_Morningstar", -- TOUGH SUNRISES
+    -- "MAG_Dawn_Morningstar", -- TOUGH SUNRISES
     "MAG_LC_OfTheFist_MorningStar", -- RAVENGARD'S SCOURGER
     "MAG_TWN_Taxblade_Morningstar", -- TWIST OF FORTUNE
     "MAG_RadiantLight_Morningstar", -- THE SACRED STAR
@@ -1993,6 +1993,10 @@ ENUM_RAW_AttunementList = {
     --- INSTRUMENTS OF THE BARD
     "IB_SB_Doss",
     "IB_SB_Cli",
+    "IB_SB_Mac",
+    "IB_SB_Anstruth",
+    "IB_SB_Canaith",
+    "IB_SB_Fochlucan",
 
     --- ELVEN SPEARS
     "EW_Spear_Test",
