@@ -1178,6 +1178,8 @@ ENUM_RAW_AttunementList = {
     "MAG_Ring60",
     "MAG_Ring61",
     "MAG_Ring62",
+    "MAG_Ring63",
+    "MAG_Ring64",
 
     --- LEGENDARY EQUIPMENT MOD
     -- WEAPONS
@@ -1703,10 +1705,16 @@ ENUM_RAW_AttunementList = {
     "FRA_Sharran_PriestMask_hoodup",
     "FRA_Sharran_PriestMask_hooddown",
     "FRA_Sharran_NighcloakDress",
+    "FRA_Sharran_NighcloakDress_Leggings",
+    "FRA_Sharran_NighcloakDress_Plain",
+    "FRA_Sharran_NighcloakDress_Plain_Leggings",
     "FRA_Sharran_Gloves",
     "FRA_ViconiasSecret_Dragonborn",
     "FRA_ViconiasSecret_Elves",
     "FRA_ViconiasSecret_Incubus",
+    "FRA_Sharran_Crown_hoodup",
+    "FRA_Sharran_Crown_nohood",
+    "FRA_Sharran_Crown_Mask_hoodup",
     "FRA_BhaalistExecutionerHood",
     "FRA_BhaalistExecutionerRobe",
     "FRA_BhaalistExecutionerBracers",
