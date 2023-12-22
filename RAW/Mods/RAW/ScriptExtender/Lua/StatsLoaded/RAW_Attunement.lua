@@ -1249,7 +1249,7 @@ ENUM_RAW_AttunementList = {
     "DG_Renewed_Assassin's_Gloves",
     "DG_Exile's_Hood",
     "DG_Drow_Cunning_Boots",
-    "FOR_NightWalkers",
+    -- "FOR_NightWalkers", -- DUPLICATE ENTRY
     "DG_Spidersilk_Armor",
     "DG_DarkMind_Circlet",
     "DG_DrowFaded_Legendary",
@@ -1722,6 +1722,22 @@ ENUM_RAW_AttunementList = {
     "FRA_BhaalistMurderhoboRobe",
     "FRA_BhaalistMurderhoboWraps",
     "FRA_BhaalistMurderhoboShoes",
+    "FRA_RQ_DesiresGown_Ensemble_Camp",
+    "FRA_RQ_DesiresGown_Leggings_Camp",
+    "FRA_RQ_DesiresGown_HarbingersStole_Camp",
+    "FRA_RQ_DesiresGown_Camp",
+    "FRA_DruidAntlers1",
+    "FRA_DruidArmor_CB1",
+    "FRA_DruidArmor_A2_Sleeveless",
+    "FRA_DruidBracers_A",
+    "FRA_DruidBoots_A",
+    "FRA_DruidHood_Shadow",
+    "FRA_DruidArmor_Shadow",
+    "FRA_DruidBracers_Shadow",
+    "FRA_DruidBoots_Shadow",
+    "FRA_DruidArmor_Nettie",
+    "FRA_DruidBoots_Nettie",
+    "FRA_DruidCloak_Leaves",
 
     --- DRUID ITEMS
     -- WEAPONS
