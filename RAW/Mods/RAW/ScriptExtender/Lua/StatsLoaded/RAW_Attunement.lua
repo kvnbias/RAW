@@ -1830,6 +1830,17 @@ ENUM_RAW_AttunementList = {
     "RW_Draconic_Sorcerer_Circlet_A_Poison",
     "RW_Draconic_Sorcerer_Circlet_B_Poison",
 
+    --- DUSKRANGER
+    "ARM_DuskRanger_Body",
+    "ARM_DuskRanger_Body_Skirt",
+    "ARM_DuskRanger_Body_Silent",
+    "ARM_DuskRanger_Body_Silent_Skirt",
+    "ARM_DuskRanger_Gloves",
+    "ARM_DuskRanger_Boot",
+    -- WEAPONS
+    "WPN_Scimitar_DuskRanger",
+    "WPN_Longbow_DuskRanger",
+
     ----------------------------------------- WEAPON MODS ------------------------------------------ 
 
     --- ANSURS MERCY RAPIER
