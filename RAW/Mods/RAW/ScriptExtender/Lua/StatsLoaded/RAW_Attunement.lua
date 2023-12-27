@@ -1853,6 +1853,17 @@ ENUM_RAW_AttunementList = {
     "CBR_Caretaker_Robe",
     "CBR_Gith_Helmet",
 
+    --- GITHYANKI ARMORS
+    "NAT_Voss_Armour",
+    "NAT_Voss_Gauntlets",
+    "NAT_Voss_Boots",
+    "NAT_Chrai_Armour",
+    "NAT_Chrai_Gauntlets",
+    "NAT_Chrai_Boots",
+    "NAT_Wwargaz_Armour",
+    "NAT_Therezzyn_Armour",
+    "NAT_Therezzyn_Gauntlets",
+
     ----------------------------------------- WEAPON MODS ------------------------------------------ 
 
     --- ANSURS MERCY RAPIER
