@@ -1844,6 +1844,15 @@ ENUM_RAW_AttunementList = {
     "WPN_Scimitar_DuskRanger",
     "WPN_Longbow_DuskRanger",
 
+    --- CAMBION & GITH ARMOR
+    "CBR_Gith_Armor_A",
+    "CBR_Gith_Armor_B",
+    "CBR_Gith_Belts",
+    "CBR_Cambion_A",
+    "CBR_Cambion_B",
+    "CBR_Caretaker_Robe",
+    "CBR_Gith_Helmet",
+
     ----------------------------------------- WEAPON MODS ------------------------------------------ 
 
     --- ANSURS MERCY RAPIER
