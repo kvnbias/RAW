@@ -10,6 +10,7 @@ local RAW_StatsLoadedPath = "StatsLoaded/"
 
 Ext.Require(RAW_StatsLoadedPath .. "RAW_Attunement.lua")
 Ext.Require(RAW_StatsLoadedPath .. "RAW_CharacterPassives.lua")
+Ext.Require(RAW_StatsLoadedPath .. "RAW_Spells_BonusAction.lua")
 Ext.Require(RAW_StatsLoadedPath .. "RAW_Concentration.lua")
 Ext.Require(RAW_StatsLoadedPath .. "RAW_EquipAction.lua")
 
@@ -19,6 +20,7 @@ local function RAW_StatsLoaded()
     RAW_PrintIfDebug("====================================================================================================\n", RAW_PrintTable_ModOptions)
 
     RAW_CharacterPassives()
+    RAW_Spells_BonusAction()
     RAW_Concentration()
     RAW_EquipAction()
     RAW_Attunement()

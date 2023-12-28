@@ -18,3 +18,11 @@ function RAW_ConcentrationBlocker()
     result = ~HasStatus('RAW_CONCENTRATION_BLOCKER')
     return ConditionResult(result.Result, {ConditionError("RAW_ConcentrationBlocker_False")})
 end
+
+function RAW_BonusActionSpellCheck()
+    return IsSpell() & ~IsCantrip() & HasUseCosts('BonusActionPoint')
+end
+
+function RAW_NotBonusActionSpellCheck()
+    return IsSpell() & ~IsCantrip() & ~HasUseCosts('BonusActionPoint')
+end

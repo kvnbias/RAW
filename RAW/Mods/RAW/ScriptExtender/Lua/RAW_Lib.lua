@@ -137,6 +137,7 @@ RAW_PrintTable_Attunement = 1
 RAW_PrintTable_CharacterPassives = 4
 RAW_PrintTable_Concentration = 5
 RAW_PrintTable_FreeWeaponEquip = 9
+RAW_PrintTable_Spells_BonusAction = 13
 RAW_PrintTable_WeaponSets = 16
 
 local ENUM_RAW_PrintTable = RAW_Set {
@@ -145,6 +146,7 @@ local ENUM_RAW_PrintTable = RAW_Set {
     -- RAW_PrintTable_CharacterPassives,
     -- RAW_PrintTable_Concentration,
     -- RAW_PrintTable_FreeWeaponEquip,
+    -- RAW_PrintTable_Spells_BonusAction,
     -- RAW_PrintTable_WeaponSets,
 }
 

@@ -67,6 +67,23 @@
             ]
         }
     },
+    "spells_bonusAction": {
+        "displayName": "Spells - Bonus Action Rule",
+        "description": "Enforces the spell casted as a bonus action rule stopping casting other leveled spells on the same turn.",
+        "enabled": true,
+        "value": null,
+        "dependencies": [],
+        "conflicts": [],
+        "files": {
+            "enabled": [],
+            "disabled": [
+                {
+                    "from": "Public/RAW/Stats/Generated/Data/Spells_BonusAction.txt",
+                    "to": "Public/RAW/Stats/Generated/Data/Empty.txt"
+                }
+            ]
+        }
+    },
     "stabilize": {
         "displayName": "Stabilize",
         "description": "Changes Help to only stabilize a character, healing once out of combat.",
