@@ -494,7 +494,7 @@ ENUM_RAW_AttunementList = {
     "UNI_MassHealRing", -- THE WHISPERING PROMISE
     "LOW_JannathRing_Ring", -- TILL DEATH DO US PART
     "MAG_Psychic_TempHP_Ring", -- PYSCHIC BOLSTERING RING
-    "SCL_MAG_SkepticalRobber_WifesRing" -- FAMILY RING
+    "SCL_MAG_SkepticalRobber_WifesRing", -- FAMILY RING
 
     -- SUMMONS/NPC/???
         -- "LOW_PendulumOfMalagard", -- PENDULUM OF MALAGARD
@@ -618,7 +618,7 @@ ENUM_RAW_AttunementList = {
     "MAG_TheImpaler_Pike", -- THE IMPALER
     --- HEAVY CROSSBOW
     "MAG_LowHP_IncreaseDamagePsychic_GithHeavyCrossbow", -- GITHYANKI CROSSBOW? (SAME WITH HEAVY CROSSBOW +1)
-    "WPN_GTY_HeavyCrossbow_A", -- GITHYANKI CROSSBOW? (VANILLA WEAPON EQP ATTUNED)
+    -- "WPN_GTY_HeavyCrossbow_A", -- GITHYANKI CROSSBOW? (VANILLA WEAPON EQP ATTUNED)
     "MAG_Githborn_TelekineticBolt_HeavyCrossbow", -- CROSSBOW OF ARCANE FORCE
     "MAG_Gandrel_UndeadSlayer_HeavyCrossbow", -- GANDREL'S ASPIRATION
     "MAG_MeleeDebuff_AttackDebuff2_OnDamage_HeavyCrossbow", -- GIANTBREAKER
@@ -1055,7 +1055,7 @@ ENUM_RAW_AttunementList = {
 
     --- ALWAYS GET JUSTICIAR ARMOR
     -- WEAPONS
-    "MAG_B_Moonlight_Glaive",
+    -- "MAG_B_Moonlight_Glaive",
 
     --- HOLY ARMOR OF SELUNE
     -- WEAPONS
@@ -1223,6 +1223,9 @@ ENUM_RAW_AttunementList = {
     "MAG_Ring64",
     "MAG_Ring65",
     "MAG_Ring66",
+    "MAG_Neck42",
+    "MAG_Neck43",
+    "MAG_Neck44",
 
     --- ANCIENT ARMOURY
     "MAG_Armour_C_1",
@@ -2049,63 +2052,63 @@ ENUM_RAW_AttunementList = {
     "SMR_HeadbandOfWisdom",
     "SMR_HeadbandOfCharisma",
 
-    --- DRACONIC SORCERER GEAR
-    "RW_Draconic_Sorcerer_Body",
-    "RW_Draconic_Sorcerer_Body_NP",
-    "RW_Draconic_Sorcerer_Bracers",
-    "RW_Draconic_Sorcerer_Gloves",
-    "RW_Draconic_Sorcerer_Boots_A",
-    "RW_Draconic_Sorcerer_Boots_B",
-    "RW_Draconic_Sorcerer_Cloak",
-    "RW_Draconic_Sorcerer_Circlet_A",
-    "RW_Draconic_Sorcerer_Circlet_B",
-    "RW_Draconic_Sorcerer_Body_Cold",
-    "RW_Draconic_Sorcerer_Body_NP_Cold",
-    "RW_Draconic_Sorcerer_Bracers_Cold",
-    "RW_Draconic_Sorcerer_Gloves_Cold",
-    "RW_Draconic_Sorcerer_Boots_A_Cold",
-    "RW_Draconic_Sorcerer_Boots_B_Cold",
-    "RW_Draconic_Sorcerer_Cloak_Cold",
-    "RW_Draconic_Sorcerer_Circlet_A_Cold",
-    "RW_Draconic_Sorcerer_Circlet_B_Cold",
-    "RW_Draconic_Sorcerer_Body_Lightning",
-    "RW_Draconic_Sorcerer_Body_NP_Lightning",
-    "RW_Draconic_Sorcerer_Bracers_Lightning",
-    "RW_Draconic_Sorcerer_Gloves_Lightning",
-    "RW_Draconic_Sorcerer_Boots_A_Lightning",
-    "RW_Draconic_Sorcerer_Boots_B_Lightning",
-    "RW_Draconic_Sorcerer_Cloak_Lightning",
-    "RW_Draconic_Sorcerer_Circlet_A_Lightning",
-    "RW_Draconic_Sorcerer_Circlet_B_Lightning",
-    "RW_Draconic_Sorcerer_Body_Acid",
-    "RW_Draconic_Sorcerer_Body_NP_Acid",
-    "RW_Draconic_Sorcerer_Bracers_Acid",
-    "RW_Draconic_Sorcerer_Gloves_Acid",
-    "RW_Draconic_Sorcerer_Boots_A_Acid",
-    "RW_Draconic_Sorcerer_Boots_B_Acid",
-    "RW_Draconic_Sorcerer_Cloak_Acid",
-    "RW_Draconic_Sorcerer_Circlet_A_Acid",
-    "RW_Draconic_Sorcerer_Circlet_B_Acid",
-    "RW_Draconic_Sorcerer_Body_Poison",
-    "RW_Draconic_Sorcerer_Body_NP_Poison",
-    "RW_Draconic_Sorcerer_Bracers_Poison",
-    "RW_Draconic_Sorcerer_Gloves_Poison",
-    "RW_Draconic_Sorcerer_Boots_A_Poison",
-    "RW_Draconic_Sorcerer_Boots_B_Poison",
-    "RW_Draconic_Sorcerer_Cloak_Poison",
-    "RW_Draconic_Sorcerer_Circlet_A_Poison",
-    "RW_Draconic_Sorcerer_Circlet_B_Poison",
+    -- --- DRACONIC SORCERER GEAR
+    -- "RW_Draconic_Sorcerer_Body",
+    -- "RW_Draconic_Sorcerer_Body_NP",
+    -- "RW_Draconic_Sorcerer_Bracers",
+    -- "RW_Draconic_Sorcerer_Gloves",
+    -- "RW_Draconic_Sorcerer_Boots_A",
+    -- "RW_Draconic_Sorcerer_Boots_B",
+    -- "RW_Draconic_Sorcerer_Cloak",
+    -- "RW_Draconic_Sorcerer_Circlet_A",
+    -- "RW_Draconic_Sorcerer_Circlet_B",
+    -- "RW_Draconic_Sorcerer_Body_Cold",
+    -- "RW_Draconic_Sorcerer_Body_NP_Cold",
+    -- "RW_Draconic_Sorcerer_Bracers_Cold",
+    -- "RW_Draconic_Sorcerer_Gloves_Cold",
+    -- "RW_Draconic_Sorcerer_Boots_A_Cold",
+    -- "RW_Draconic_Sorcerer_Boots_B_Cold",
+    -- "RW_Draconic_Sorcerer_Cloak_Cold",
+    -- "RW_Draconic_Sorcerer_Circlet_A_Cold",
+    -- "RW_Draconic_Sorcerer_Circlet_B_Cold",
+    -- "RW_Draconic_Sorcerer_Body_Lightning",
+    -- "RW_Draconic_Sorcerer_Body_NP_Lightning",
+    -- "RW_Draconic_Sorcerer_Bracers_Lightning",
+    -- "RW_Draconic_Sorcerer_Gloves_Lightning",
+    -- "RW_Draconic_Sorcerer_Boots_A_Lightning",
+    -- "RW_Draconic_Sorcerer_Boots_B_Lightning",
+    -- "RW_Draconic_Sorcerer_Cloak_Lightning",
+    -- "RW_Draconic_Sorcerer_Circlet_A_Lightning",
+    -- "RW_Draconic_Sorcerer_Circlet_B_Lightning",
+    -- "RW_Draconic_Sorcerer_Body_Acid",
+    -- "RW_Draconic_Sorcerer_Body_NP_Acid",
+    -- "RW_Draconic_Sorcerer_Bracers_Acid",
+    -- "RW_Draconic_Sorcerer_Gloves_Acid",
+    -- "RW_Draconic_Sorcerer_Boots_A_Acid",
+    -- "RW_Draconic_Sorcerer_Boots_B_Acid",
+    -- "RW_Draconic_Sorcerer_Cloak_Acid",
+    -- "RW_Draconic_Sorcerer_Circlet_A_Acid",
+    -- "RW_Draconic_Sorcerer_Circlet_B_Acid",
+    -- "RW_Draconic_Sorcerer_Body_Poison",
+    -- "RW_Draconic_Sorcerer_Body_NP_Poison",
+    -- "RW_Draconic_Sorcerer_Bracers_Poison",
+    -- "RW_Draconic_Sorcerer_Gloves_Poison",
+    -- "RW_Draconic_Sorcerer_Boots_A_Poison",
+    -- "RW_Draconic_Sorcerer_Boots_B_Poison",
+    -- "RW_Draconic_Sorcerer_Cloak_Poison",
+    -- "RW_Draconic_Sorcerer_Circlet_A_Poison",
+    -- "RW_Draconic_Sorcerer_Circlet_B_Poison",
 
-    --- DUSKRANGER
-    "ARM_DuskRanger_Body",
-    "ARM_DuskRanger_Body_Skirt",
-    "ARM_DuskRanger_Body_Silent",
-    "ARM_DuskRanger_Body_Silent_Skirt",
-    "ARM_DuskRanger_Gloves",
-    "ARM_DuskRanger_Boot",
-    -- WEAPONS
-    "WPN_Scimitar_DuskRanger",
-    "WPN_Longbow_DuskRanger",
+    -- --- DUSKRANGER
+    -- "ARM_DuskRanger_Body",
+    -- "ARM_DuskRanger_Body_Skirt",
+    -- "ARM_DuskRanger_Body_Silent",
+    -- "ARM_DuskRanger_Body_Silent_Skirt",
+    -- "ARM_DuskRanger_Gloves",
+    -- "ARM_DuskRanger_Boot",
+    -- -- WEAPONS
+    -- "WPN_Scimitar_DuskRanger",
+    -- "WPN_Longbow_DuskRanger",
 
     --- CAMBION & GITH ARMOR
     "CBR_Gith_Armor_A",
@@ -2406,7 +2409,6 @@ ENUM_RAW_AttunementList = {
     "EW_Dirty_Ring",
 
     --- ELVEN DAGGERS WEAPONRY
-    "EW_Daggers_Crate",
     "EW_Dagger_Base",
     "EW_Dagger_Common",
     "EW_Dagger_UnCommon",
@@ -2733,7 +2735,7 @@ ENUM_RAW_AttunementList = {
     "EW_Pike_Titanhunter",
     "EW_Heavy_Pike_Titanhunter",
     "EW_Pike_Force",
-    "EW_Heavy_Pike_Force",
+    "EW_Heavy_Pike_Force"
 
 
     -------------------------------------------- MISC ---------------------------------------------- 
