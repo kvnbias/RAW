@@ -2802,7 +2802,7 @@ ENUM_RAW_AttunementList = {
     "ARM_Ninja",
     "ARM_Ninja_TUT",
     "ARM_GeminiRing",
-    "ARM_GeminiRing_TUT"
+    "ARM_GeminiRing_TUT",
 
 
     -------------------------------------------- MISC ---------------------------------------------- 
