@@ -1287,7 +1287,6 @@ ENUM_RAW_AttunementList = {
     "DG_Drow_Crossbow_1",
     "DG_Performer's_Bow",
     "DG_ReverbBlade",
-    "GOB_DrowCommander_Mace",
     "DG_Ethereal_Shooter",
     "DG_Biting_Bow",
     "DG_DriderSlayer",
@@ -2019,7 +2018,6 @@ ENUM_RAW_AttunementList = {
     "SYR_Druid_Helmet_StormsCrown",
     "SYR_Armor_Druid_Uncommon",
     "SYR_Armor_Druid_Rare",
-    "MAG_Druid_Moon_Magic_Leather_Armor",
     "SYR_Amulet_Druid_Sanctuary_Uncommon",
     "SYR_Amulet_Druid_Sanctuary_Rare",
     "SYR_Amulet_Druid_Sanctuary_VeryRare",
@@ -2809,6 +2807,7 @@ ENUM_RAW_AttunementList = {
 
     -------------------------------------------- MISC ---------------------------------------------- 
 
-    -- "MAG_Kuotoa_Fossilised_Shell",
+    "ARM_KuoToa_Shield_A",
+    "SHA_JusticiarArmor_Gloves"
 
 }
