@@ -2296,7 +2296,7 @@ ENUM_RAW_AttunementList = {
     "CSS_HelmArmory_ARM_PalTabAct3",
 
     --- DRUIDIC SOLDIER
-    "DRUIDIC_SOLDIER_ARMOR_MSK",
+    "DRUIDIC_SOLDIER_ARMOUR_MSK",
     "DRUIDIC_SOLDIER_BOOTS_MSK",
     "DRUIDIC_SOLDIER_BRACERS_MSK",
 
@@ -2710,6 +2710,18 @@ ENUM_RAW_AttunementList = {
     "MAG_Weapon90",
     "MAG_Weapon91",
     "MAG_Weapon92",
+    "MAG_Weapon93",
+    "MAG_Weapon94",
+    "MAG_Weapon95",
+    "MAG_Weapon96",
+    "MAG_Weapon97",
+    "MAG_Weapon98",
+    "MAG_Weapon99",
+    "MAG_Weapon100",
+    "MAG_Weapon101",
+    "MAG_Weapon102",
+    "MAG_Weapon103",
+    "MAG_Weapon104",
 
     --- INSTRUMENTS OF THE BARD
     "IB_SB_Doss",
